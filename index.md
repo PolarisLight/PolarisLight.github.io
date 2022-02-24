@@ -5,6 +5,7 @@
       <p><b>电子工程硕士在读</b></p>
       <p><b>南安普顿大学，ECS学院</b></p>
       <p><b>邮箱：873237327@qq.com</b></p>
+      <a href="index-en.html">English Version</a>
     </td>
     <td width="25%">
       <img src="/IMG_0018(20210815-171342).JPG" width="100%">  
