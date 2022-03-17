@@ -19,7 +19,7 @@
 2021.09—Now		    University of Southampton                             Electronic Engineering				                        postgraduate
 
 ## Main Courses
-Digitial System Design, Digitial IC design, Emmbedded Processer, Digitial System Synthesis， Micro/Nanofabrication and Microscopy, System Control and Signal Processing
+Digitial System Design, Digitial IC design, Emmbedded Processer, Digitial System Synthesis, Micro/Nanofabrication and Microscopy, System Control and Signal Processing
 
 ## Extracurricular Skills
 Pytorch, Tensorflow 1/2, Embedded Software Development
