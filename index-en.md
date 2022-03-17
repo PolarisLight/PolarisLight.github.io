@@ -14,7 +14,7 @@
 
 
 ## Education Background
-2017.09—2021.06   Nanjing University of Post and Telecommunication      Opto-electronic Information Science and Engineering   undergraduate
+2017.09—2021.06   Nanjing University of Post and Telecommunication      Opto-electronic Information Science and Engineering   undergraduate  
 2021.09—Now		    University of Southampton                             Electronic Engineering				                        postgraduate
 
 ## Competition Awards
