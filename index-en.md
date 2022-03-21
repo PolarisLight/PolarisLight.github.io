@@ -76,7 +76,7 @@ CHEN Yanhao, Whether the Communications Industry Has No Prospect for Development
 
 *Extreme Low-Light Imaging Based on a Multi-Residual Attention Shrinkage Network* has been submitted to IEEE Transactions on Image Processing.
 
-## PATENT*
+## PATENT
 
 Tile: A Projection Creative Frame 
 
