@@ -15,9 +15,9 @@
 
 College of Electronic and Optical Engineering,  Nanjing University of Post and Telecommunication      
 
-Major:Bsc Opto-electronic Information Science and Engineering    
+Major: Bsc Opto-electronic Information Science and Engineering    
 
-Main Courses：Fibre optic communication systems,Physical Optics, Communication network technology, Microcomputer interface technology, Digital image processing, Electromagnetic fields theory and optical waveguide technology 
+Main Courses： Fibre optic communication systems,Physical Optics, Communication network technology, Microcomputer interface technology, Digital image processing, Electromagnetic fields theory and optical waveguide technology 
 
 GPA: 82.58
 
@@ -25,9 +25,9 @@ GPA: 82.58
 
 School of Electronics and Computer Science, University of Southampton 
 
-Major: Electronic Engineering Msc
+Major: Msc Electronic Engineering 
 
-Main Courses：Digitial System Design, Digitial IC design, Emmbedded Processer, Digitial System Synthesis, Micro/Nanofabrication and Microscopy, System Control and Signal Processing
+Main Courses： Digitial System Design, Digitial IC design, Emmbedded Processer, Digitial System Synthesis, Micro/Nanofabrication and Microscopy, System Control and Signal Processing
 
 ## PROFESSIONAL AWARDS &CAMPUS ACTIVITIES
 
