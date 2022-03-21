@@ -5,6 +5,7 @@
       <p><b>MSc Electronic Engineering</b></p>
       <p><b>University of Southampton, ECS</b></p>
       <p><b>e-mail:yc8u21@soton.ac.uk</b></p>
+      <p><b>Tel:+44-7534137099</b></p>
       <a href="index.html">Chinese Version</a>
     </td>
   </tr>
