@@ -19,9 +19,9 @@
 
 College of Electronic and Optical Engineering,  Nanjing University of Post and Telecommunication      
 
-**Major:** Opto-electronic Information Science and Engineering   undergraduate 
+**Major:Bsc Opto-electronic Information Science and Engineering    
 
-**Main Courses：**Fibre optic communication systems,Physical Optics, Communication network technology, Microcomputer interface technology, Digital image processing, Electromagnetic fields theory and optical waveguide technology 
+**Main Courses：Fibre optic communication systems,Physical Optics, Communication network technology, Microcomputer interface technology, Digital image processing, Electromagnetic fields theory and optical waveguide technology 
 
 GPA: 82.58
 
@@ -29,11 +29,11 @@ GPA: 82.58
 
 School of Electronics and Computer Science, University of Southampton 
 
-**Major:** Electronic Engineering Msc
+**Major: Electronic Engineering Msc
 
-**Main Courses：**Digitial System Design, Digitial IC design, Emmbedded Processer, Digitial System Synthesis, Micro/Nanofabrication and Microscopy, System Control and Signal Processing
+**Main Courses：Digitial System Design, Digitial IC design, Emmbedded Processer, Digitial System Synthesis, Micro/Nanofabrication and Microscopy, System Control and Signal Processing
 
-## **PROFESSIONAL AWARDS &CAMPUS ACTIVITIES** 
+## PROFESSIONAL AWARDS &CAMPUS ACTIVITIES
 
 2019.03 Third Prize of Electronic Design and Innovation Competition of Nanjing University of Posts and Telecommunications Winter Camp at School Level
 
@@ -70,9 +70,7 @@ School of Electronics and Computer Science, University of Southampton
 
 2020.9 General Progress Award of Nanjing University of Posts and Telecommunications
 
-**ACADEMIC THESIS**
-
-## **Published Papers:** 
+## Published Papers
 
 CHEN Yanhao, Whether the Communications Industry Has No Prospect for Development [J]. Employment and Security, 2018(07):45. 
 
@@ -82,7 +80,7 @@ CHEN Yanhao, Whether the Communications Industry Has No Prospect for Development
 
 *Extreme Low-Light Imaging Based on a Multi-Residual Attention Shrinkage Network* has been submitted to IEEE Transactions on Image Processing.
 
-## **PATENT** 
+## PATENT*
 
 Tile: A Projection Creative Frame 
 
