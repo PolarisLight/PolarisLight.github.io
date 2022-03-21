@@ -15,9 +15,9 @@
 
 
 ## Education Background
-2017.09—2021.06\tNanjing University of Post and Telecommunication      Opto-electronic Information Science and Engineering   undergraduate  
+2017.09—2021.06&emsp;Nanjing University of Post and Telecommunication      Opto-electronic Information Science and Engineering   undergraduate  
 
-2021.09—Now\tUniversity of Southampton                             Electronic Engineering				                        postgraduate
+2021.09—Now&emsp;University of Southampton                             Electronic Engineering				                        postgraduate
 
 ## Main Courses
 Digitial System Design, Digitial IC design, Emmbedded Processer, Digitial System Synthesis, Micro/Nanofabrication and Microscopy, System Control and Signal Processing
