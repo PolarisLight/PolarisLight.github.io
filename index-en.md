@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td>
       <h1>Yanhao Chen</h1>
       <p><b>MSc Electronic Engineering</b></p>
       <p><b>University of Southampton, ECS</b></p>
