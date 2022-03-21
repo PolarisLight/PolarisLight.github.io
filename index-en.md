@@ -7,9 +7,6 @@
       <p><b>e-mail:yc8u21@soton.ac.uk</b></p>
       <a href="index.html">Chinese Version</a>
     </td>
-    <td width="25%">
-      <img src="/IMG_0018(20210815-171342).JPG" width="100%">  
-    </td>
   </tr>
 </table>
 
