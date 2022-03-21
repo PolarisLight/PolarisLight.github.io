@@ -1,5 +1,4 @@
 <table border="0">
-  <tr>
     <td>
       <h1>Yanhao Chen</h1>
       <p><b>MSc Electronic Engineering</b></p>
@@ -8,7 +7,6 @@
       <p><b>Tel:+44-7534137099</b></p>
       <a href="index.html">Chinese Version</a>
     </td>
-  </tr>
 </table>
 
 
