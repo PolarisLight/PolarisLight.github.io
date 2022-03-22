@@ -29,6 +29,8 @@ Major: Msc Electronic Engineering
 
 Main Courses： Digitial System Design, Digitial IC design, Emmbedded Processer, Digitial System Synthesis, Micro/Nanofabrication and Microscopy, System Control and Signal Processing
 
+GPA: 79
+
 ## PROFESSIONAL AWARDS &CAMPUS ACTIVITIES
 
 2019.03 Third Prize of Electronic Design and Innovation Competition of Nanjing University of Posts and Telecommunications Winter Camp at School Level
