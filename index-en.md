@@ -1,9 +1,9 @@
 <table border="0">
       <h1>Yanhao Chen</h1>
-      <p><b>MSc Electronic Engineering</b></p>
-      <p><b>University of Southampton, ECS</b></p>
-      <p><b>e-mail:yc8u21@soton.ac.uk</b></p>
-      <p><b>Tel:+44-7534137099</b></p>
+      <p><b>PhD Computer Science</b></p>
+      <p><b>Xiamen University</b></p>
+      <p><b>e-mail:cyhao33@gmail.com</b></p>
+      <p><b>Tel:+86-18659165776</b></p>
       <a href="index.html">Chinese Version</a>
 </table>
 
@@ -21,7 +21,7 @@ Main Courses： Fibre optic communication systems,Physical Optics, Communication
 
 GPA: 82.58
 
-### 2021.09—Now	
+### 2021.09—2022.11
 
 School of Electronics and Computer Science, University of Southampton 
 
@@ -30,6 +30,16 @@ Major: Msc Electronic Engineering
 Main Courses： Digitial System Design, Digitial IC design, Emmbedded Processer, Digitial System Synthesis, Micro/Nanofabrication and Microscopy, System Control and Signal Processing
 
 GPA: 79
+
+### 2021.09—2022.11
+
+Department of Digital Media Technology, School of Movies, Xiamen University
+
+Major: PhD Computer Science
+
+Main Courses： 
+
+GPA: 
 
 ## PROFESSIONAL AWARDS &CAMPUS ACTIVITIES
 
