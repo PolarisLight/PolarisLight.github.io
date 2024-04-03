@@ -31,7 +31,7 @@ Main Courses： Digitial System Design, Digitial IC design, Emmbedded Processer,
 
 GPA: 79
 
-### 2021.09—2022.11
+### 2023.09—Now
 
 Department of Digital Media Technology, School of Movies, Xiamen University
 
