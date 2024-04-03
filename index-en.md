@@ -33,7 +33,7 @@ GPA: 79
 
 ### 2023.09—Now
 
-Department of Digital Media Technology, School of Movies, Xiamen University
+Department of Digital Media Technology, School of Film, Xiamen University
 
 Major: PhD Computer Science
 
