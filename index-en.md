@@ -80,13 +80,28 @@ GPA:
 
 ## Published Papers
 
-CHEN Yanhao, Whether the Communications Industry Has No Prospect for Development [J]. Employment and Security, 2018(07):45. 
+First author or communication author:
 
-*Design and Reflection of Simulated Curved Firing Electromagnetic Gun——Take Topic H of 2019 National* *Undergraduate Electronics Design Contest as an Example* (Paper Serial No.: XXJL-19-09120201) was published in Information Recording Materials 2019,20(10):37-39 
+Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition, IJCAI2025
 
-*Design and Test of Simulated Curved Firing Electromagnetic Gun Based on TM4C123 Single Chip* *Microcomputer——Topic H Analysis of 2019 National Undergraduate Electronic Design Contest* was published in Journal of Chifeng University (Natural Science Edition), 2019,35(12):45-48. 
+------------------------------------------------------------------------------
+(Below this line are undergraduate publications, please don't mind)
 
-*Extreme Low-Light Imaging Based on a Multi-Residual Attention Shrinkage Network* has been submitted to IEEE Transactions on Image Processing.
+Whether the Communications Industry Has No Prospect for Development [J]. Employment and Security, 2018(07):45. 
+
+Design and Reflection of Simulated Curved Firing Electromagnetic Gun——Take Topic H of 2019 National* *Undergraduate Electronics Design Contest as an Example (Paper Serial No.: XXJL-19-09120201) was published in Information Recording Materials 2019,20(10):37-39 
+
+Design and Test of Simulated Curved Firing Electromagnetic Gun Based on TM4C123 Single Chip* *Microcomputer——Topic H Analysis of 2019 National Undergraduate Electronic Design Contest was published in Journal of Chifeng University (Natural Science Edition), 2019,35(12):45-48. 
+
+co-author:
+
+SimRP: Syntactic and Semantic Similarity Retrieval Prompting Enhances Aspect Sentiment Quad Prediction, AAAI2025
+
+Enhancing Information Extraction with METORIE: A Metaphor and Trap-Based Dataset for Cross-Domain Fine-Tuning, ICASSP2025
+
+Fusion-based effective noise removal approach with the reconstruction of guided reference image, Eighth Symposium on Novel Photoelectronic Detection Technology and Applications
+
+Extreme Low-Light Imaging Based on a Multi-Residual Attention Shrinkage Network, Journal of Nanjing University of Posts and Telecommunications (Natural Science Edition)
 
 ## PATENT
 
