@@ -24,7 +24,7 @@
 ## 主要课程
 
 数字系统设计、数字IC设计、嵌入式处理器、数字系统合成、微/纳米加工和显微技术、系统控制和信号处理。
-
+<!--
 ## 担任职务
 2017.09 – 2021.06 班级宣传委员
 
@@ -43,7 +43,7 @@
 2019.06 – 2019.09 C&S社团副主席
 
 2019.09 – 2020.06 电光微院科协科创中心副主任
-
+-->
 ## 竞赛奖项
 2019.03 南京邮电大学冬令营电子设计与创新竞赛校级三等奖
 
@@ -65,7 +65,7 @@
 
 2021.04 全国工程训练赛 省级二等奖
 
-
+<!--
 ## 其他荣誉
 2018．5 南邮院系杯排球联赛甲组季军
 
@@ -91,16 +91,27 @@
 ·大四下学期，给大二学生进行出国经验分享会，并受邀参加“邮你赢未来”青春故事分享会。
 
 ·大四毕业暑假，受邀参加南京邮电大学福建地区招生宣传答疑工作。
-
+-->
 ## 文章发表
+<!--
 1.通信行业是否没有发展前景了发表于《就业与保障》，CN：35-1273/C,2018.04.
 
 2.模拟电磁曲射炮的设计与反思——以2019年全国大学生电子设计竞赛H题为例.发表于《信息记录材料》，CN：13-1295/TQ,2019.10
 
 3.基于TM4C123单片机的模拟电磁曲射炮设计与试验——2019全国电子设计竞赛H题试析.发表于《赤峰学院学报(自然科学版)》，CN：15-1343/N,2019.12
+-->
+**Yanhao Chen**,Zhongquan Jian,Nianxin Ke,Shuhao Hu,Junjie Jiao,Qingqi Hong,Qingqiang Wu,Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition, IJCAI 2025 main
 
-4.合作论文：Fusion based effective noise removal approach with the reconstruction of guided reference image,《Optik》在投。
+Zhongquan Jian, **Yanhao Chen**, Wangyancheng, Junfeng Yao, Meihong Wang, Qingqiang WuSupervised Exploratory Learning for Long-Tailed Visual Recognition, ICCV 2025 main
 
+Zhongquan Jian, **Yanhao Chen**, Jiajian Li, Shaopan Wang, Xiangjian Zeng, Junfeng Yao, Xinying An, Qingqiang Wu, SimRP: Syntactic and Semantic Similarity Retrieval Prompting Enhances Aspect Sentiment Quad Prediction, AAAI 2025 main
+
+Z Pan, Y Peng, Z Jian, **Y Chen**, W Qiu, H Ma, J Yao, M Wang, Q Wu, Enhancing Information Extraction with METORIE: A Metaphor and Trap-Based Dataset for Cross-Domain Fine-Tuning, ICASSP 2025 main
+
+Y Liu, W Cai, N Liu, W Zhang, S Guo, L Qi, Y Wu, **Y Chen**, Z Li,Fusion-based effective noise removal approach with the reconstruction of guided reference image,Symposium on Novel Photoelectronic Detection Technology and Applications
+
+
+<!--
 ## 专利获取
 1.一种投影创想架，专利号CN201910791897.7，发明公开，一作。
 
@@ -115,3 +126,4 @@
 大四学年起，加入南京邮电大学电光微院融合成像与智能处理应用研究所，从事低照度图像增强相关项目研究以及开发。加入研究所后，使用MATLAB复现多种基于数字图像处理的低照度图像增强算法；自学深度学习算法，带领团队与深度学习结合，并在毕业设计《低照度图像增强算法研究》中提出了一种较为有效的低照度增强方法；为研究所的互联网+项目使用PyQt + OpenCV开发了一款上位机，并在其中集成了团队的算法。
 大四毕业暑假，跟随研究所老师前往清华大学物理学院访问学习。
 硕士毕业设计，研究了一种基于双模型交互的中国山水画生成架构，更加贴合艺术家的创作过程。
+-->
