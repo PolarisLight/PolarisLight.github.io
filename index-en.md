@@ -85,15 +85,15 @@ GPA:
 -->
 ## Published Papers
 
-**Yanhao Chen**,Zhongquan Jian,Nianxin Ke,Shuhao Hu,Junjie Jiao,Qingqi Hong,Qingqiang Wu,Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition, IJCAI 2025 main
+**Yanhao Chen***,Zhongquan Jian*,Nianxin Ke,Shuhao Hu,Junjie Jiao,Qingqi Hong,Qingqiang Wu,Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition, IJCAI 2025 main
 
-Zhongquan Jian, **Yanhao Chen**, Wangyancheng, Junfeng Yao, Meihong Wang, Qingqiang WuSupervised Exploratory Learning for Long-Tailed Visual Recognition, ICCV 2025 main
+Zhongquan Jian*, **Yanhao Chen***, Wangyancheng, Junfeng Yao, Meihong Wang, Qingqiang WuSupervised Exploratory Learning for Long-Tailed Visual Recognition, ICCV 2025 main
 
 Zhongquan Jian, **Yanhao Chen**, Jiajian Li, Shaopan Wang, Xiangjian Zeng, Junfeng Yao, Xinying An, Qingqiang Wu, SimRP: Syntactic and Semantic Similarity Retrieval Prompting Enhances Aspect Sentiment Quad Prediction, AAAI 2025 main
 
 Z Pan, Y Peng, Z Jian, **Y Chen**, W Qiu, H Ma, J Yao, M Wang, Q Wu, Enhancing Information Extraction with METORIE: A Metaphor and Trap-Based Dataset for Cross-Domain Fine-Tuning, ICASSP 2025 main
 
-Y Liu, W Cai, N Liu, W Zhang, S Guo, L Qi, Y Wu, **Y Chen**, Z Li, Fusion-based effective noise removal approach with the reconstruction of guided reference image, Symposium on Novel Photoelectronic Detection Technology and Applications
+Y Liu, W Cai, N Liu, W Zhang, S Guo, L Qi, Y Wu, **Y Chen**, Z Li,Fusion-based effective noise removal approach with the reconstruction of guided reference image,Symposium on Novel Photoelectronic Detection Technology and Applications
 
 
 <!--
