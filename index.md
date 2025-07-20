@@ -102,9 +102,9 @@
 
 3.基于TM4C123单片机的模拟电磁曲射炮设计与试验——2019全国电子设计竞赛H题试析.发表于《赤峰学院学报(自然科学版)》，CN：15-1343/N,2019.12
 -->
-**Yanhao Chen**,Zhongquan Jian,Nianxin Ke,Shuhao Hu,Junjie Jiao,Qingqi Hong,Qingqiang Wu,Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition, IJCAI 2025 main
+**Yanhao Chen***,Zhongquan Jian*,Nianxin Ke,Shuhao Hu,Junjie Jiao,Qingqi Hong,Qingqiang Wu,Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition, IJCAI 2025 main
 
-Zhongquan Jian, **Yanhao Chen**, Wangyancheng, Junfeng Yao, Meihong Wang, Qingqiang WuSupervised Exploratory Learning for Long-Tailed Visual Recognition, ICCV 2025 main
+Zhongquan Jian*, **Yanhao Chen***, Wangyancheng, Junfeng Yao, Meihong Wang, Qingqiang WuSupervised Exploratory Learning for Long-Tailed Visual Recognition, ICCV 2025 main
 
 Zhongquan Jian, **Yanhao Chen**, Jiajian Li, Shaopan Wang, Xiangjian Zeng, Junfeng Yao, Xinying An, Qingqiang Wu, SimRP: Syntactic and Semantic Similarity Retrieval Prompting Enhances Aspect Sentiment Quad Prediction, AAAI 2025 main
 
