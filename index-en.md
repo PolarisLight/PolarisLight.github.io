@@ -1,12 +1,18 @@
 <table border="0">
+   <tr>
+     <td width="75%">
       <h1>Yanhao Chen</h1>
       <p><b>PhD Computer Science</b></p>
       <p><b>Xiamen University</b></p>
       <p><b>e-mail:cyhao33@gmail.com</b></p>
       <p><b>Tel:+86-18659165776</b></p>
       <a href="index.html">Chinese Version</a>
+    </td>
+ <td width="25%">
+      <img src="/IMG_0018(20210815-171342).JPG" width="100%">  
+    </td>
+  </tr>
 </table>
-
 
 
 ## Education Background
