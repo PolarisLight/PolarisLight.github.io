@@ -65,7 +65,7 @@ GPA:
 
 2021.11 Jiangsu Province "Internet+" Student Innovation and Entrepreneurship Competition Second Prize at Provincial Level
 
-
+<!--
 ## Other Honours
 
 2018.5 Third place in Group A of the South China University of Posts and Telecommunications Faculty Cup Volleyball League
@@ -77,14 +77,24 @@ GPA:
 2019.9 Spiritual Civilization Award of Nanjing University of Posts and Telecommunications
 
 2020.9 General Progress Award of Nanjing University of Posts and Telecommunications
-
+-->
 ## Published Papers
 
-First author or communication author:
+**Yanhao Chen**,Zhongquan Jian,Nianxin Ke,Shuhao Hu,Junjie Jiao,Qingqi Hong,Qingqiang Wu,Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition, IJCAI 2025 main
 
-Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition, IJCAI2025
+Zhongquan Jian, **Yanhao Chen**, Wangyancheng, Junfeng Yao, Meihong Wang, Qingqiang WuSupervised Exploratory Learning for Long-Tailed Visual Recognition, ICCV 2025 main
 
-------------------------------------------------------------------------------
+Zhongquan Jian, **Yanhao Chen**, Jiajian Li, Shaopan Wang, Xiangjian Zeng, Junfeng Yao, Xinying An, Qingqiang Wu, SimRP: Syntactic and Semantic Similarity Retrieval Prompting Enhances Aspect Sentiment Quad Prediction, AAAI 2025 main
+
+Z Pan, Y Peng, Z Jian, **Y Chen**, W Qiu, H Ma, J Yao, M Wang, Q Wu, Enhancing Information Extraction with METORIE: A Metaphor and Trap-Based Dataset for Cross-Domain Fine-Tuning, ICASSP 2025 main
+
+Y Liu, W Cai, N Liu, W Zhang, S Guo, L Qi, Y Wu, **Y Chen**, Z Li, Fusion-based effective noise removal approach with the reconstruction of guided reference image, Symposium on Novel Photoelectronic Detection Technology and Applications
+
+
+<!--
+Extreme Low-Light Imaging Based on a Multi-Residual Attention Shrinkage Network, Journal of Nanjing University of Posts and Telecommunications (Natural Science Edition)
+
+
 (Below this line are undergraduate publications, please don't mind)
 
 Whether the Communications Industry Has No Prospect for Development [J]. Employment and Security, 2018(07):45. 
@@ -92,17 +102,11 @@ Whether the Communications Industry Has No Prospect for Development [J]. Employm
 Design and Reflection of Simulated Curved Firing Electromagnetic Gun——Take Topic H of 2019 National* *Undergraduate Electronics Design Contest as an Example (Paper Serial No.: XXJL-19-09120201) was published in Information Recording Materials 2019,20(10):37-39 
 
 Design and Test of Simulated Curved Firing Electromagnetic Gun Based on TM4C123 Single Chip* *Microcomputer——Topic H Analysis of 2019 National Undergraduate Electronic Design Contest was published in Journal of Chifeng University (Natural Science Edition), 2019,35(12):45-48. 
-
+-->
 co-author:
 
-SimRP: Syntactic and Semantic Similarity Retrieval Prompting Enhances Aspect Sentiment Quad Prediction, AAAI2025
 
-Enhancing Information Extraction with METORIE: A Metaphor and Trap-Based Dataset for Cross-Domain Fine-Tuning, ICASSP2025
-
-Fusion-based effective noise removal approach with the reconstruction of guided reference image, Eighth Symposium on Novel Photoelectronic Detection Technology and Applications
-
-Extreme Low-Light Imaging Based on a Multi-Residual Attention Shrinkage Network, Journal of Nanjing University of Posts and Telecommunications (Natural Science Edition)
-
+<！--
 ## PATENT
 
 Tile: A Projection Creative Frame 
@@ -128,3 +132,4 @@ Application No. or Patent No.: 202021400836.8
 In the third year of undergraduate studies, I participated in the Nanjing University of Posts and Telecommunications extra-curricular academic science and technology works competition, carrying out the design and prototyping of a small rescue robot, responsible for the machine vision part of it. The work won the third prize at the university level and was granted a national patent.
 
 In my fourth year of undergraduate studies, I joined the Research Laboratory of Fusion Imaging and Intelligent Processing Applications, Institute of Electronic and Optical Engineering, Nanjing University of Posts and Telecommunications, working on projects related to low-light image enhancement and its development. Since joining, I have reproduced various low-light image enhancement algorithms based on digital image processing using MATLAB; using self-taught deep learning algorithms, I led a team to combine with deep learning to propose a more effective low-light enhancement method in my graduation design "Research on Low-light Image Enhancement Algorithm", which was further improved and submitted to IEEE Transactions on Image Processing, which is currently under review.
+-->
