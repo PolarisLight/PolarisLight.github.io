@@ -5,7 +5,6 @@
       <p><b>PhD Computer Science</b></p>
       <p><b>Xiamen University</b></p>
       <p><b>e-mail:cyhao33@gmail.com</b></p>
-      <p><b>Tel:+86-18659165776</b></p>
       <a href="index.html">Chinese Version</a>
     </td>
  <td width="25%">
