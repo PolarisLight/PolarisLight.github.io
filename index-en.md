@@ -1,69 +1,78 @@
-<style>
-  .hero {display:flex; gap:24px; align-items:center; flex-wrap:wrap; margin: 8px 0 20px;}
-  .hero img {width: 180px; border-radius: 14px; box-shadow: 0 8px 24px rgba(0,0,0,.16);}
-  .intro {flex:1; min-width:260px;}
-  .intro h1 {margin:0 0 8px;}
-  .tag {display:inline-block; background:#eef6ff; color:#0b5cab; padding:4px 10px; border-radius:999px; font-size:13px; margin: 2px 6px 2px 0;}
-  .card {background:#ffffff; border:1px solid #e8edf4; border-radius:12px; padding:14px 16px; margin:12px 0; box-shadow:0 2px 8px rgba(15,35,95,.05);}
-  .card h2 {margin-top:0;}
-  .timeline li {margin:8px 0;}
-</style>
+---
+layout: default
+title: Yanhao Chen | Academic Homepage
+---
 
-<div class="hero">
-  <div class="intro">
-    <h1>Yanhao Chen</h1>
-    <p><b>PhD Student in Computer Science</b><br/>Xiamen University · Department of Digital Media Technology</p>
-    <p>📧 cyhao33@gmail.com</p>
-    <span class="tag">Computer Vision</span>
-    <span class="tag">Long-tailed Recognition</span>
-    <span class="tag">Multimodal Learning</span>
-    <p><a href="index.html">Chinese Version</a></p>
-  </div>
-  <img src="/IMG_0018(20210815-171342).JPG" alt="Yanhao Chen">
-</div>
+<div class="site-shell">
+  <section class="hero-banner card animate-in">
+    <div class="hero-copy">
+      <p class="kicker">YANHAO CHEN · ACADEMIC HOMEPAGE</p>
+      <h1>Yanhao Chen</h1>
+      <p class="subtitle">PhD Student in Computer Science · Xiamen University</p>
+      <p class="meta">Department of Digital Media Technology · 📧 cyhao33@gmail.com</p>
+      <div class="tags">
+        <span class="tag">Computer Vision</span>
+        <span class="tag">Long-tailed Recognition</span>
+        <span class="tag">Multimodal Learning</span>
+      </div>
+      <div class="quick-nav">
+        <a href="#research">Research Interests</a>
+        <a href="#resume">Resume</a>
+        <a href="#papers">Publications</a>
+        <a href="index.html">中文</a>
+      </div>
+    </div>
+    <div class="hero-photo-wrap">
+      <img src="/IMG_0018(20210815-171342).JPG" alt="Yanhao Chen">
+      <span class="pulse-dot"></span>
+    </div>
+  </section>
 
-<div class="card">
+  <section id="research" class="card animate-in delay-1">
+    <h2>Research Interests</h2>
+    <ul class="clean-list">
+      <li><strong>Long-tailed Visual Recognition:</strong> robust representation learning and generalization under severe class imbalance.</li>
+      <li><strong>Multimodal Learning:</strong> vision-language alignment and retrieval-augmented methods for downstream tasks.</li>
+      <li><strong>Collaborative Optimization:</strong> balancing independent and collaborative learning in Mixture of Experts models.</li>
+    </ul>
+  </section>
 
-## Education
-- **2017.09—2021.06** B.Sc. in Opto-electronic Information Science and Engineering, Nanjing University of Posts and Telecommunications  
-- **2021.09—2022.11** M.Sc. in Electronic Engineering, University of Southampton  
-- **2023.09—Now** PhD in Computer Science, Xiamen University  
+  <section id="resume" class="card animate-in delay-2">
+    <h2>Resume Snapshot</h2>
+    <h3>Education</h3>
+    <ul class="clean-list">
+      <li><strong>2017.09—2021.06:</strong> B.Sc. in Opto-electronic Information Science and Engineering, NUPT</li>
+      <li><strong>2021.09—2022.11:</strong> M.Sc. in Electronic Engineering, University of Southampton</li>
+      <li><strong>2023.09—Present:</strong> PhD in Computer Science, Xiamen University</li>
+    </ul>
 
-</div>
+    <h3>Main Courses</h3>
+    <p>Digital System Design, Digital IC Design, Embedded Processor, Digital System Synthesis, Micro/Nanofabrication and Microscopy, System Control and Signal Processing.</p>
 
-<div class="card">
+    <h3>Awards</h3>
+    <ul class="timeline">
+      <li>2019.03 Third Prize, Electronic Design and Innovation Competition (NUPT Winter Camp)</li>
+      <li>2019.05 Third Prize, Electronic Design Competition of NUPT</li>
+      <li>2019.09 Second Prize, National Undergraduate Electronic Design Competition (Provincial)</li>
+      <li>2019.12 Third Prize, 21st Innovation Cup, NUPT</li>
+      <li>2019.12 Second Prize, 8th Network Security Attack and Defense Competition, NUPT</li>
+      <li>2019.12 First Prize, Engineering Training Competition, NUPT</li>
+      <li>2020.07 Third Prize, China-US Young Creators Competition (Xiamen Region)</li>
+      <li>2020.11 Third Prize, 3rd National Student Embedded Chip and System Design Competition (East China Region)</li>
+      <li>2021.01 First Prize, Engineering Training Competition, NUPT</li>
+      <li>2021.04 Second Prize, National Engineering Training Competition (Provincial)</li>
+      <li>2021.11 Second Prize, Jiangsu “Internet+” Innovation and Entrepreneurship Competition (Provincial)</li>
+    </ul>
+  </section>
 
-## Main Courses
-Digital System Design, Digital IC Design, Embedded Processor, Digital System Synthesis, Micro/Nanofabrication and Microscopy, System Control and Signal Processing.
-
-</div>
-
-<div class="card">
-
-## Professional Awards
-<ul class="timeline">
-  <li>2019.03 Third Prize, Electronic Design and Innovation Competition (NUPT Winter Camp)</li>
-  <li>2019.05 Third Prize, Electronic Design Competition of NUPT</li>
-  <li>2019.09 Second Prize, National Undergraduate Electronic Design Competition (Provincial)</li>
-  <li>2019.12 Third Prize, 21st Innovation Cup, NUPT</li>
-  <li>2019.12 Second Prize, 8th Network Security Attack and Defense Competition, NUPT</li>
-  <li>2019.12 First Prize, Engineering Training Competition, NUPT</li>
-  <li>2020.07 Third Prize, China-US Young Creators Competition (Xiamen Region)</li>
-  <li>2020.11 Third Prize, 3rd National Student Embedded Chip and System Design Competition (East China Region)</li>
-  <li>2021.01 First Prize, Engineering Training Competition, NUPT</li>
-  <li>2021.04 Second Prize, National Engineering Training Competition (Provincial)</li>
-  <li>2021.11 Second Prize, Jiangsu “Internet+” Innovation and Entrepreneurship Competition (Provincial)</li>
-</ul>
-
-</div>
-
-<div class="card">
-
-## Published Papers
-1. **Yanhao Chen***, Zhongquan Jian*, Nianxin Ke, Shuhao Hu, Junjie Jiao, Qingqi Hong, Qingqiang Wu. *Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition*. **IJCAI 2025 (main)**.
-2. Zhongquan Jian*, **Yanhao Chen***, Wangyancheng, Junfeng Yao, Meihong Wang, Qingqiang Wu. *Supervised Exploratory Learning for Long-Tailed Visual Recognition*. **ICCV 2025 (main)**.
-3. Zhongquan Jian, **Yanhao Chen**, Jiajian Li, Shaopan Wang, Xiangjian Zeng, Junfeng Yao, Xinying An, Qingqiang Wu. *SimRP: Syntactic and Semantic Similarity Retrieval Prompting Enhances Aspect Sentiment Quad Prediction*. **AAAI 2025 (main)**.
-4. Z Pan, Y Peng, Z Jian, **Y Chen**, W Qiu, H Ma, J Yao, M Wang, Q Wu. *Enhancing Information Extraction with METORIE: A Metaphor and Trap-Based Dataset for Cross-Domain Fine-Tuning*. **ICASSP 2025 (main)**.
-5. Y Liu, W Cai, N Liu, W Zhang, S Guo, L Qi, Y Wu, **Y Chen**, Z Li. *Fusion-based effective noise removal approach with the reconstruction of guided reference image*. Symposium on Novel Photoelectronic Detection Technology and Applications.
-
+  <section id="papers" class="card publications-card animate-in delay-3">
+    <h2>Featured Publications</h2>
+    <ol class="pub-list">
+      <li><strong>Yanhao Chen*</strong>, Zhongquan Jian*, Nianxin Ke, Shuhao Hu, Junjie Jiao, Qingqi Hong, Qingqiang Wu. <em>Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition</em>. <span class="venue">IJCAI 2025 (Main Track)</span>.</li>
+      <li>Zhongquan Jian*, <strong>Yanhao Chen*</strong>, Wangyancheng, Junfeng Yao, Meihong Wang, Qingqiang Wu. <em>Supervised Exploratory Learning for Long-Tailed Visual Recognition</em>. <span class="venue">ICCV 2025 (Main Track)</span>.</li>
+      <li>Zhongquan Jian, <strong>Yanhao Chen</strong>, Jiajian Li, Shaopan Wang, Xiangjian Zeng, Junfeng Yao, Xinying An, Qingqiang Wu. <em>SimRP: Syntactic and Semantic Similarity Retrieval Prompting Enhances Aspect Sentiment Quad Prediction</em>. <span class="venue">AAAI 2025 (Main Track)</span>.</li>
+      <li>Z Pan, Y Peng, Z Jian, <strong>Y Chen</strong>, W Qiu, H Ma, J Yao, M Wang, Q Wu. <em>Enhancing Information Extraction with METORIE: A Metaphor and Trap-Based Dataset for Cross-Domain Fine-Tuning</em>. <span class="venue">ICASSP 2025 (Main Track)</span>.</li>
+      <li>Y Liu, W Cai, N Liu, W Zhang, S Guo, L Qi, Y Wu, <strong>Y Chen</strong>, Z Li. <em>Fusion-based Effective Noise Removal Approach with the Reconstruction of Guided Reference Image</em>. <span class="venue">Symposium on Novel Photoelectronic Detection Technology and Applications</span>.</li>
+    </ol>
+  </section>
 </div>
