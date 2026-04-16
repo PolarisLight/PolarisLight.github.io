@@ -41,7 +41,7 @@ title: Yanhao Chen | Academic Homepage
     <h2>Resume Snapshot</h2>
     <h3>Education</h3>
     <ul class="clean-list">
-      <li><strong>2017.09—2021.06:</strong> B.Sc. in Opto-electronic Information Science and Engineering, NUPT</li>
+      <li><strong>2017.09—2021.06:</strong> B.Sc. in Opto-electronic Information Science and Engineering, NJUPT</li>
       <li><strong>2021.09—2022.11:</strong> M.Sc. in Electronic Engineering, University of Southampton</li>
       <li><strong>2023.09—Present:</strong> PhD in Computer Science, Xiamen University</li>
     </ul>
@@ -51,15 +51,15 @@ title: Yanhao Chen | Academic Homepage
 
     <h3>Awards</h3>
     <ul class="timeline">
-      <li>2019.03 Third Prize, Electronic Design and Innovation Competition (NUPT Winter Camp)</li>
-      <li>2019.05 Third Prize, Electronic Design Competition of NUPT</li>
+      <li>2019.03 Third Prize, Electronic Design and Innovation Competition (NJUPT Winter Camp)</li>
+      <li>2019.05 Third Prize, Electronic Design Competition of NJUPT</li>
       <li>2019.09 Second Prize, National Undergraduate Electronic Design Competition (Provincial)</li>
-      <li>2019.12 Third Prize, 21st Innovation Cup, NUPT</li>
-      <li>2019.12 Second Prize, 8th Network Security Attack and Defense Competition, NUPT</li>
-      <li>2019.12 First Prize, Engineering Training Competition, NUPT</li>
+      <li>2019.12 Third Prize, 21st Innovation Cup, NJUPT</li>
+      <li>2019.12 Second Prize, 8th Network Security Attack and Defense Competition, NJUPT</li>
+      <li>2019.12 First Prize, Engineering Training Competition, NJUPT</li>
       <li>2020.07 Third Prize, China-US Young Creators Competition (Xiamen Region)</li>
       <li>2020.11 Third Prize, 3rd National Student Embedded Chip and System Design Competition (East China Region)</li>
-      <li>2021.01 First Prize, Engineering Training Competition, NUPT</li>
+      <li>2021.01 First Prize, Engineering Training Competition, NJUPT</li>
       <li>2021.04 Second Prize, National Engineering Training Competition (Provincial)</li>
       <li>2021.11 Second Prize, Jiangsu “Internet+” Innovation and Entrepreneurship Competition (Provincial)</li>
     </ul>
