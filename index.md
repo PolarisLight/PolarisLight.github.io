@@ -1,3 +1,8 @@
+---
+layout: default
+title: 陈颜皓
+---
+
 <div class="site-shell">
   <section class="hero-banner card animate-in">
     <div class="hero-copy">

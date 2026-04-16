@@ -1,3 +1,8 @@
+---
+layout: default
+title: Yanhao Chen
+---
+
 <div class="site-shell">
   <section class="hero-banner card animate-in">
     <div class="hero-copy">
