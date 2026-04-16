@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Yanhao Chen
+title: Yanhao Chen | Academic Homepage
 ---
 
 <div class="site-shell">
   <section class="hero-banner card animate-in">
     <div class="hero-copy">
-      <p class="kicker">YANHAO CHEN · RESEARCH BLOG</p>
+      <p class="kicker">YANHAO CHEN · ACADEMIC HOMEPAGE</p>
       <h1>Yanhao Chen</h1>
       <p class="subtitle">PhD Student in Computer Science · Xiamen University</p>
       <p class="meta">Department of Digital Media Technology · 📧 cyhao33@gmail.com</p>
@@ -16,7 +16,7 @@ title: Yanhao Chen
         <span class="tag">Multimodal Learning</span>
       </div>
       <div class="quick-nav">
-        <a href="#feed">Research Feed</a>
+        <a href="#research">Research Interests</a>
         <a href="#resume">Resume</a>
         <a href="#papers">Publications</a>
         <a href="index.html">中文</a>
@@ -28,25 +28,13 @@ title: Yanhao Chen
     </div>
   </section>
 
-  <section id="feed" class="card animate-in delay-1">
-    <h2>Research Feed (Blog Style)</h2>
-    <div class="post-grid">
-      <article class="post-item">
-        <p class="post-date">2026 · Vision-Language</p>
-        <h3>Collaborative Experts for Long-tail Recognition</h3>
-        <p>Current focus: stabilize MoE training under long-tail distributions with independent and shared expert cooperation.</p>
-      </article>
-      <article class="post-item">
-        <p class="post-date">2025 · Multimodal Learning</p>
-        <h3>From Retrieval-Augmented to Structured Prompting</h3>
-        <p>Investigating syntax + semantic retrieval prompts for fine-grained sentiment understanding and transferability.</p>
-      </article>
-      <article class="post-item">
-        <p class="post-date">Reading Notes</p>
-        <h3>Topics I am tracking</h3>
-        <p>Self-supervised pretraining, long-tail calibration, cross-modal alignment. More experiment logs will be posted soon.</p>
-      </article>
-    </div>
+  <section id="research" class="card animate-in delay-1">
+    <h2>Research Interests</h2>
+    <ul class="clean-list">
+      <li><strong>Long-tailed Visual Recognition:</strong> robust representation learning and generalization under severe class imbalance.</li>
+      <li><strong>Multimodal Learning:</strong> vision-language alignment and retrieval-augmented methods for downstream tasks.</li>
+      <li><strong>Collaborative Optimization:</strong> balancing independent and collaborative learning in Mixture of Experts models.</li>
+    </ul>
   </section>
 
   <section id="resume" class="card animate-in delay-2">

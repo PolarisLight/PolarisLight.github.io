@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 陈颜皓
+title: 陈颜皓｜学术主页
 ---
 
 <div class="site-shell">
   <section class="hero-banner card animate-in">
     <div class="hero-copy">
-      <p class="kicker">YANHAO CHEN · RESEARCH BLOG</p>
+      <p class="kicker">YANHAO CHEN · ACADEMIC HOMEPAGE</p>
       <h1>陈颜皓</h1>
       <p class="subtitle">计算机科学与技术博士生｜厦门大学数字媒体技术系</p>
       <p class="meta">📧 873237327@qq.com</p>
@@ -16,7 +16,7 @@ title: 陈颜皓
         <span class="tag">多模态学习</span>
       </div>
       <div class="quick-nav">
-        <a href="#feed">研究动态</a>
+        <a href="#research">研究方向</a>
         <a href="#resume">个人履历</a>
         <a href="#papers">论文发表</a>
         <a href="index-en.html">English</a>
@@ -28,25 +28,13 @@ title: 陈颜皓
     </div>
   </section>
 
-  <section id="feed" class="card animate-in delay-1">
-    <h2>研究动态（Blog Feed）</h2>
-    <div class="post-grid">
-      <article class="post-item">
-        <p class="post-date">2026 · Vision-Language</p>
-        <h3>Long-tail 视觉识别中的专家协同机制</h3>
-        <p>持续优化 MoE 在长尾分布下的训练稳定性与泛化能力，重点研究独立专家与共享专家的协同更新策略。</p>
-      </article>
-      <article class="post-item">
-        <p class="post-date">2025 · Multimodal Learning</p>
-        <h3>从检索增强到结构化提示</h3>
-        <p>探索“语法 + 语义”双路检索提示方法在细粒度情感理解任务中的可迁移性与鲁棒性。</p>
-      </article>
-      <article class="post-item">
-        <p class="post-date">Reading Notes</p>
-        <h3>最近在看的方向</h3>
-        <p>自监督预训练、长尾分布校准、跨模态对齐。后续会整理为更系统的实验日志和论文解读。</p>
-      </article>
-    </div>
+  <section id="research" class="card animate-in delay-1">
+    <h2>研究方向</h2>
+    <ul class="clean-list">
+      <li><strong>长尾视觉识别：</strong>关注类别不均衡场景下的鲁棒表示学习与泛化能力提升。</li>
+      <li><strong>多模态学习：</strong>探索视觉-语言跨模态对齐与检索增强方法在下游任务中的有效性。</li>
+      <li><strong>模型协同训练：</strong>研究 Mixture of Experts 在独立学习与协作学习之间的平衡机制。</li>
+    </ul>
   </section>
 
   <section id="resume" class="card animate-in delay-2">
