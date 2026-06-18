@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Long-Tailed Vision and Multimodal AI | Yanhao Chen
+title: Long-Tailed Vision and Multimodal AI
 ---
 
 <div class="site-shell">
