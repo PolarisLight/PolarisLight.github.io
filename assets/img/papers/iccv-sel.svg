@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Supervised exploratory learning visual</title>
+  <desc id="desc">Diagrammatic thumbnail showing exploratory samples that reshape decision regions in long-tailed visual recognition.</desc>
+  <rect width="720" height="420" rx="18" fill="#f7faf9"/>
+  <rect x="24" y="24" width="672" height="372" rx="14" fill="#ffffff" stroke="#c9d8d2"/>
+  <text x="360" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#111318">Supervised Exploratory Learning</text>
+  <g transform="translate(62 88)">
+    <rect width="260" height="240" rx="12" fill="#fbfdfc" stroke="#c9d8d2"/>
+    <text x="130" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#303942">Existing methods</text>
+    <path d="M36 140 C78 86 142 84 224 122" fill="none" stroke="#9aa8a2" stroke-width="3" stroke-dasharray="6 6"/>
+    <path d="M34 164 C108 204 178 202 226 150" fill="none" stroke="#9aa8a2" stroke-width="3" stroke-dasharray="6 6"/>
+    <g fill="#b99df0" opacity="0.9"><circle cx="70" cy="88" r="8"/><circle cx="98" cy="104" r="8"/><circle cx="116" cy="78" r="8"/><circle cx="146" cy="110" r="8"/><circle cx="92" cy="138" r="8"/></g>
+    <g fill="#f27d7d" opacity="0.9"><circle cx="174" cy="76" r="8"/><circle cx="202" cy="94" r="8"/><circle cx="218" cy="124" r="8"/><circle cx="188" cy="142" r="8"/></g>
+    <g fill="#8fb5df" opacity="0.9"><circle cx="76" cy="184" r="7"/><circle cx="110" cy="202" r="7"/><circle cx="142" cy="184" r="7"/></g>
+    <g fill="none" stroke="#f0a45d" stroke-width="3"><circle cx="202" cy="196" r="7"/><circle cx="224" cy="178" r="7"/><circle cx="180" cy="176" r="7"/></g>
+  </g>
+  <g transform="translate(398 88)">
+    <rect width="260" height="240" rx="12" fill="#f4fbf8" stroke="#9fc7bf"/>
+    <text x="130" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#075b55">With exploratory samples</text>
+    <path d="M34 98 C88 58 158 64 226 92" fill="none" stroke="#075b55" stroke-width="4"/>
+    <path d="M34 176 C100 210 178 196 226 146" fill="none" stroke="#075b55" stroke-width="4"/>
+    <path d="M128 52 V218" stroke="#9fc7bf" stroke-width="2" stroke-dasharray="6 7"/>
+    <g fill="#b99df0"><circle cx="72" cy="82" r="8"/><circle cx="100" cy="104" r="8"/><circle cx="118" cy="74" r="8"/><circle cx="146" cy="104" r="8"/><circle cx="88" cy="134" r="8"/></g>
+    <g fill="#f27d7d"><circle cx="174" cy="74" r="8"/><circle cx="202" cy="94" r="8"/><circle cx="220" cy="124" r="8"/><circle cx="188" cy="142" r="8"/></g>
+    <g fill="#0f766e"><rect x="86" y="150" width="10" height="10" rx="2"/><rect x="116" y="166" width="10" height="10" rx="2"/><rect x="146" y="150" width="10" height="10" rx="2"/><rect x="176" y="166" width="10" height="10" rx="2"/></g>
+    <g fill="none" stroke="#f0a45d" stroke-width="3"><circle cx="202" cy="196" r="7"/><circle cx="224" cy="178" r="7"/><circle cx="180" cy="176" r="7"/></g>
+  </g>
+  <text x="360" y="366" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#303942">Exploration sharpens class boundaries for tail classes</text>
+</svg>
