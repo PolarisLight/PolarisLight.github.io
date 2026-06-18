@@ -115,7 +115,7 @@ title: Long-Tailed Vision and Multimodal AI
         <div class="pub-body">
           <p class="pub-title">CurrMix: Curriculum-Enhanced MixUp for Long-Tailed Visual Recognition</p>
           <p class="pub-authors">Z. Jian*, <strong>Y. Chen*</strong>, B. Hu, W. Lv, S. Wang, J. Wu, J. Yao, Y. Lu, Q. Wu.</p>
-          <p class="pub-venue">CVPR 2026 Findings (CCF-A)</p>
+          <p class="pub-venue">CVPR 2026 Findings</p>
           <p class="pub-links"><span class="paper-button paper-button-disabled" aria-disabled="true">Paper pending</span></p>
         </div>
       </li>
