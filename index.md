@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Long-Tailed Vision and Multimodal AI
+title: Academic Homepage
 ---
 
 <div class="site-shell">
