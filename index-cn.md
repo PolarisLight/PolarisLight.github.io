@@ -19,6 +19,7 @@ title: 陈颜皓｜学术主页
         <a href="#research">研究方向</a>
         <a href="#resume">个人履历</a>
         <a href="#papers">论文发表</a>
+        <a href="#service">学术服务</a>
         <a href="index.html">English</a>
       </div>
     </div>
@@ -65,13 +66,24 @@ title: 陈颜皓｜学术主页
   </section>
 
   <section id="papers" class="card publications-card animate-in delay-3">
-    <h2>论文发表（Featured Publications）</h2>
+    <h2>论文发表</h2>
     <ol class="pub-list">
-      <li><strong>Yanhao Chen*</strong>, Zhongquan Jian*, Nianxin Ke, Shuhao Hu, Junjie Jiao, Qingqi Hong, Qingqiang Wu. <em>Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition</em>. <span class="venue">IJCAI 2025 (Main Track)</span>.</li>
-      <li>Zhongquan Jian*, <strong>Yanhao Chen*</strong>, Wangyancheng, Junfeng Yao, Meihong Wang, Qingqiang Wu. <em>Supervised Exploratory Learning for Long-Tailed Visual Recognition</em>. <span class="venue">ICCV 2025 (Main Track)</span>.</li>
-      <li>Zhongquan Jian, <strong>Yanhao Chen</strong>, Jiajian Li, Shaopan Wang, Xiangjian Zeng, Junfeng Yao, Xinying An, Qingqiang Wu. <em>SimRP: Syntactic and Semantic Similarity Retrieval Prompting Enhances Aspect Sentiment Quad Prediction</em>. <span class="venue">AAAI 2025 (Main Track)</span>.</li>
-      <li>Z Pan, Y Peng, Z Jian, <strong>Y Chen</strong>, W Qiu, H Ma, J Yao, M Wang, Q Wu. <em>Enhancing Information Extraction with METORIE: A Metaphor and Trap-Based Dataset for Cross-Domain Fine-Tuning</em>. <span class="venue">ICASSP 2025 (Main Track)</span>.</li>
-      <li>Y Liu, W Cai, N Liu, W Zhang, S Guo, L Qi, Y Wu, <strong>Y Chen</strong>, Z Li. <em>Fusion-based Effective Noise Removal Approach with the Reconstruction of Guided Reference Image</em>. <span class="venue">Symposium on Novel Photoelectronic Detection Technology and Applications</span>.</li>
+      <li><strong>Yanhao Chen*</strong>, Zhongquan Jian*, Nianxin Ke, Shuhao Hu, Junjie Jiao, Qingqi Hong, Qingqiang Wu. <em>Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition</em>. <span class="venue">IJCAI 2025 Main Track（CCF-A）</span>.</li>
+      <li>Zhongquan Jian*, <strong>Yanhao Chen*</strong>, Wangyancheng, Junfeng Yao, Meihong Wang, Qingqiang Wu. <em>Supervised Exploratory Learning for Long-Tailed Visual Recognition</em>. <span class="venue">ICCV 2025 Main Track（CCF-A）</span>.</li>
+      <li>Z. Jian*, <strong>Y. Chen*</strong>, B. Hu, W. Lv, S. Wang, J. Wu, J. Yao, Y. Lu, Q. Wu. <em>CurrMix: Curriculum-Enhanced MixUp for Long-Tailed Visual Recognition</em>. <span class="venue">CVPR 2026 Findings（CCF-A）</span>.</li>
+      <li>Z. Pan*, <strong>Y. Chen*</strong>, Z. Jian, W. Zhao, H. Ma, M. Wang, Q. Wu. <em>Prototype Entropy Alignment: Reinforcing Structured Uncertainty in LLM Reasoning</em>. <span class="venue">AAAI 2026 Main Track（CCF-A）</span>.</li>
+      <li>Zhongquan Jian, <strong>Yanhao Chen</strong>, Jiajian Li, Shaopan Wang, Xiangjian Zeng, Junfeng Yao, Xinying An, Qingqiang Wu. <em>SimRP: Syntactic and Semantic Similarity Retrieval Prompting Enhances Aspect Sentiment Quad Prediction</em>. <span class="venue">AAAI 2025 Main Track（CCF-A）</span>.</li>
+      <li>Z. Jian, W. Lv, <strong>Y. Chen</strong>, G. Luo, W. Qiu, S. Wang, B. Hu, Q. Wu. <em>MDF: A Modality-Aware Disentanglement and Fusion Framework for Multimodal Sentiment Analysis</em>. <span class="venue">AAAI 2026 Main Track（CCF-A）</span>.</li>
+      <li>Z. Pan, Y. Peng, Z. Jian, <strong>Y. Chen</strong>, W. Qiu, H. Ma, J. Yao, M. Wang, Q. Wu. <em>Enhancing Information Extraction with METORIE: A Metaphor and Trap-Based Dataset for Cross-Domain Fine-Tuning</em>. <span class="venue">ICASSP 2025 Main Track（CCF-B）</span>.</li>
     </ol>
+    <p><em>* 表示共同第一作者。</em></p>
+  </section>
+
+  <section id="service" class="card animate-in delay-3">
+    <h2>学术服务</h2>
+    <ul class="clean-list">
+      <li>担任 ICML、NeurIPS、ACM MM 等 CCF-A 类会议审稿人。</li>
+      <li>获评 ICML 2026 Golden Reviewer。</li>
+    </ul>
   </section>
 </div>
