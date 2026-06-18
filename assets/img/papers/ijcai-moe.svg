@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Independent and collaborative MoE visual</title>
+  <desc id="desc">Diagrammatic thumbnail for a long-tail visual recognition paper using multiple experts and collaborative optimization.</desc>
+  <rect width="720" height="420" rx="18" fill="#f7faf9"/>
+  <rect x="24" y="24" width="672" height="372" rx="14" fill="#ffffff" stroke="#c9d8d2"/>
+  <rect x="54" y="68" width="118" height="104" rx="10" fill="#ecf8f5" stroke="#9fc7bf"/>
+  <circle cx="92" cy="112" r="22" fill="#f0a45d" opacity="0.92"/>
+  <circle cx="120" cy="116" r="18" fill="#5c8fb6" opacity="0.82"/>
+  <path d="M72 150 C92 126 126 126 154 150" fill="none" stroke="#075b55" stroke-width="5" stroke-linecap="round"/>
+  <text x="113" y="202" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#111318">Shared Encoder</text>
+  <path d="M174 120 H228" stroke="#075b55" stroke-width="4" marker-end="url(#arrow)"/>
+  <g font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#111318">
+    <text x="277" y="82">Expert 1</text>
+    <text x="277" y="178">Expert 2</text>
+    <text x="277" y="274">Expert 3</text>
+  </g>
+  <g fill="#e0f2ee" stroke="#0f766e" stroke-width="2">
+    <rect x="236" y="55" width="120" height="54" rx="8"/>
+    <rect x="236" y="151" width="120" height="54" rx="8"/>
+    <rect x="236" y="247" width="120" height="54" rx="8"/>
+  </g>
+  <g fill="#7fb9ad">
+    <rect x="384" y="74" width="12" height="38" rx="3"/><rect x="404" y="56" width="12" height="56" rx="3"/><rect x="424" y="86" width="12" height="26" rx="3"/><rect x="444" y="67" width="12" height="45" rx="3"/>
+    <rect x="384" y="170" width="12" height="25" rx="3"/><rect x="404" y="150" width="12" height="45" rx="3"/><rect x="424" y="162" width="12" height="33" rx="3"/><rect x="444" y="135" width="12" height="60" rx="3"/>
+    <rect x="384" y="266" width="12" height="48" rx="3"/><rect x="404" y="246" width="12" height="68" rx="3"/><rect x="424" y="282" width="12" height="32" rx="3"/><rect x="444" y="257" width="12" height="57" rx="3"/>
+  </g>
+  <g stroke="#075b55" stroke-width="3" fill="none" opacity="0.8">
+    <path d="M356 82 H374"/><path d="M356 178 H374"/><path d="M356 274 H374"/>
+    <path d="M464 92 C510 98 522 132 532 166"/><path d="M464 178 H528"/><path d="M464 288 C510 280 526 244 532 202"/>
+  </g>
+  <rect x="526" y="108" width="130" height="152" rx="12" fill="#f7faf9" stroke="#8fbab2" stroke-dasharray="8 7"/>
+  <text x="591" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="800" fill="#075b55">CoL</text>
+  <text x="591" y="166" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#303942">competition</text>
+  <text x="591" y="188" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#303942">collaboration</text>
+  <path d="M560 226 H622" stroke="#0f766e" stroke-width="8" stroke-linecap="round"/>
+  <path d="M560 226 L586 206 L622 226 L586 246 Z" fill="none" stroke="#075b55" stroke-width="3"/>
+  <text x="360" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="800" fill="#111318">Independent and Collaborative Learning</text>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#075b55"/></marker></defs>
+</svg>
