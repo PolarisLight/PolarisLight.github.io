@@ -6,7 +6,7 @@ description: 陈颜皓的学术主页
 
 <div class="site-shell">
   <nav class="site-nav" aria-label="主导航">
-    <a class="nav-name" href="index-cn.html">陈颜皓</a>
+    <a class="nav-name" href="index-cn.html">学术主页</a>
     <div class="nav-links">
       <a href="#research">研究方向</a>
       <a href="#education">教育背景</a>
@@ -24,7 +24,9 @@ description: 陈颜皓的学术主页
       <p class="contact-line">邮箱：<a href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a></p>
     </div>
     <figure class="hero-photo-wrap">
-      <img src="/IMG_0018(20210815-171342).JPG" alt="陈颜皓肖像">
+      <span class="hero-photo-frame">
+        <img src="/IMG_0018(20210815-171342).JPG" alt="陈颜皓肖像">
+      </span>
       <figcaption>厦门大学博士生</figcaption>
     </figure>
   </section>
@@ -126,7 +128,7 @@ description: 陈颜皓的学术主页
         <div class="pub-body">
           <p class="pub-title">Prototype Entropy Alignment: Reinforcing Structured Uncertainty in LLM Reasoning</p>
           <p class="pub-authors">Z. Pan*, <strong>Y. Chen*</strong>, Z. Jian, W. Zhao, H. Ma, M. Wang, Q. Wu.</p>
-          <p class="pub-venue">AAAI 2026 Main Track（CCF-A）</p>
+          <p class="pub-venue">AAAI 2026 Main Track（CCF-A，Oral）</p>
           <p class="pub-links"><a class="paper-button" href="https://ojs.aaai.org/index.php/AAAI/article/download/39656/43617" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/aaai/PanCJZMWW26" target="_blank" rel="noopener">DBLP</a></p>
         </div>
       </li>
@@ -170,7 +172,7 @@ description: 陈颜皓的学术主页
     </div>
     <ul class="service-list">
       <li>担任 ICML、NeurIPS、ACM MM 等 CCF-A 类会议审稿人。</li>
-      <li>获评 ICML 2026 Golden Reviewer。</li>
+      <li>🏅 获评 ICML 2026 Golden Reviewer。</li>
     </ul>
   </section>
 </div>
