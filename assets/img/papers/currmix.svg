@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">CurrMix visual</title>
+  <desc id="desc">Diagrammatic thumbnail for curriculum-enhanced MixUp under long-tailed class imbalance.</desc>
+  <rect width="720" height="420" rx="18" fill="#f7faf9"/>
+  <rect x="24" y="24" width="672" height="372" rx="14" fill="#ffffff" stroke="#c9d8d2"/>
+  <text x="360" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="800" fill="#111318">Curriculum-Enhanced MixUp</text>
+  <g transform="translate(58 96)">
+    <rect width="190" height="210" rx="12" fill="#fbfdfc" stroke="#d9e2df"/>
+    <text x="95" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#303942">Long-tail data</text>
+    <g fill="#7fb9ad"><rect x="36" y="62" width="24" height="118" rx="4"/><rect x="70" y="84" width="24" height="96" rx="4"/><rect x="104" y="116" width="24" height="64" rx="4"/><rect x="138" y="148" width="24" height="32" rx="4"/></g>
+    <path d="M34 188 H164" stroke="#075b55" stroke-width="3"/>
+  </g>
+  <g transform="translate(284 100)">
+    <path d="M0 100 C62 16 138 186 202 92" fill="none" stroke="#0f766e" stroke-width="8" stroke-linecap="round"/>
+    <path d="M0 148 C72 76 132 212 202 138" fill="none" stroke="#f0a45d" stroke-width="8" stroke-linecap="round" opacity="0.9"/>
+    <circle cx="54" cy="60" r="30" fill="#e0f2ee" stroke="#0f766e" stroke-width="3"/>
+    <circle cx="150" cy="164" r="30" fill="#fff1e2" stroke="#f0a45d" stroke-width="3"/>
+    <path d="M76 78 L128 146" stroke="#303942" stroke-width="3" stroke-dasharray="7 7"/>
+    <text x="102" y="226" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="800" fill="#075b55">adaptive mixing path</text>
+  </g>
+  <g transform="translate(526 96)">
+    <rect width="138" height="210" rx="12" fill="#f4fbf8" stroke="#9fc7bf"/>
+    <text x="69" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#075b55">Curriculum</text>
+    <g font-family="Arial, sans-serif" font-size="14" fill="#303942">
+      <text x="30" y="78">easy</text><text x="30" y="122">medium</text><text x="30" y="166">hard</text>
+    </g>
+    <circle cx="100" cy="72" r="10" fill="#7fb9ad"/><circle cx="100" cy="118" r="10" fill="#0f766e"/><circle cx="100" cy="164" r="10" fill="#f0a45d"/>
+    <path d="M100 82 V108 M100 128 V154" stroke="#075b55" stroke-width="3" marker-end="url(#arrow)"/>
+  </g>
+  <text x="360" y="362" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#303942">Mixing strength follows the learning curriculum across head and tail classes</text>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#075b55"/></marker></defs>
+</svg>
