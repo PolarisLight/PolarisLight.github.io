@@ -11,6 +11,7 @@ description: 陈颜皓的学术主页
       <a href="#research">研究方向</a>
       <a href="#education">教育背景</a>
       <a href="#papers">论文发表</a>
+      <a href="#projects">项目经历</a>
       <a href="#service">学术服务</a>
       <a href="index.html">English</a>
     </div>
@@ -37,9 +38,9 @@ description: 陈颜皓的学术主页
       <p>我的研究围绕类别不均衡下的表示学习、跨模态对齐，以及协同专家系统的建模机制展开。</p>
     </div>
     <div class="research-keywords" aria-label="研究关键词">
-      <span>计算机视觉</span>
-      <span>长尾识别</span>
+      <span>长尾视觉识别</span>
       <span>多模态学习</span>
+      <span>协同优化</span>
     </div>
     <ul class="research-list">
       <li>
@@ -97,7 +98,7 @@ description: 陈颜皓的学术主页
         <span class="pub-year">2025</span>
         <div class="pub-body">
           <p class="pub-title">Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition</p>
-          <p class="pub-authors"><strong>Yanhao Chen*</strong>, Zhongquan Jian*, Nianxin Ke, Shuhao Hu, Junjie Jiao, Qingqi Hong, Qingqiang Wu.</p>
+          <p class="pub-authors"><strong>Y. Chen*</strong>, Z. Jian*, N. Ke, S. Hu, J. Jiao, Q. Hong, Q. Wu.</p>
           <p class="pub-venue">IJCAI 2025 Main Track（CCF-A）</p>
           <p class="pub-links"><a class="paper-button" href="https://www.ijcai.org/proceedings/2025/0093.pdf" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/ijcai/ChenJKHJH025" target="_blank" rel="noopener">DBLP</a></p>
         </div>
@@ -107,7 +108,7 @@ description: 陈颜皓的学术主页
         <span class="pub-year">2025</span>
         <div class="pub-body">
           <p class="pub-title">Supervised Exploratory Learning for Long-Tailed Visual Recognition</p>
-          <p class="pub-authors">Zhongquan Jian*, <strong>Yanhao Chen*</strong>, Wangyancheng, Junfeng Yao, Meihong Wang, Qingqiang Wu.</p>
+          <p class="pub-authors">Z. Jian*, <strong>Y. Chen*</strong>, Y. Wang, J. Yao, M. Wang, Q. Wu.</p>
           <p class="pub-venue">ICCV 2025 Main Track（CCF-A）</p>
           <p class="pub-links"><a class="paper-button" href="https://openaccess.thecvf.com/content/ICCV2025/papers/Jian_Supervised_Exploratory_Learning_for_Long-Tailed_Visual_Recognition_ICCV_2025_paper.pdf" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/iccv/JianCWYWW25" target="_blank" rel="noopener">DBLP</a></p>
         </div>
@@ -137,7 +138,7 @@ description: 陈颜皓的学术主页
         <span class="pub-year">2025</span>
         <div class="pub-body">
           <p class="pub-title">SimRP: Syntactic and Semantic Similarity Retrieval Prompting Enhances Aspect Sentiment Quad Prediction</p>
-          <p class="pub-authors">Zhongquan Jian, <strong>Yanhao Chen</strong>, Jiajian Li, Shaopan Wang, Xiangjian Zeng, Junfeng Yao, Xinying An, Qingqiang Wu.</p>
+          <p class="pub-authors">Z. Jian, <strong>Y. Chen</strong>, J. Li, S. Wang, X. Zeng, J. Yao, X. An, Q. Wu.</p>
           <p class="pub-venue">AAAI 2025 Main Track（CCF-A）</p>
           <p class="pub-links"><a class="paper-button" href="https://ojs.aaai.org/index.php/AAAI/article/download/34601/36756" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/aaai/JianCLWZYA025" target="_blank" rel="noopener">DBLP</a></p>
         </div>
@@ -166,12 +167,31 @@ description: 陈颜皓的学术主页
     <p class="pub-note"><em>* 表示共同第一作者。</em></p>
   </section>
 
+  <section id="projects" class="section-panel projects-panel animate-in delay-3">
+    <div class="section-heading">
+      <h2>项目经历</h2>
+      <p>精选智能美育与教育评价相关项目，突出算法模型设计、应用落地与国家级案例支撑。</p>
+    </div>
+    <ul class="project-list">
+      <li>
+        <p class="project-title">《塑造个性审美生命：美术“创造－情感”能力的智能评估与应用》</p>
+        <p class="project-role">算法模型负责人</p>
+        <p class="project-desc">主导智能评估算法模型设计与实现，构建美术“创造－情感”能力评估指标体系，支撑作品分析、互动课堂与教师反馈等功能。项目入选国家级智能化美育应用案例。</p>
+      </li>
+      <li>
+        <p class="project-title">《数智赋能中小学美育评价体系构建——以佛山市中小学美育评价为例》</p>
+        <p class="project-role">推荐算法开发</p>
+        <p class="project-desc">参与区域中小学美育评价平台建设，负责推荐算法开发，支撑数据驱动、过程性、多维度的艺术学科质量监测与教育资源诊断。</p>
+      </li>
+    </ul>
+  </section>
+
   <section id="service" class="section-panel service-panel animate-in delay-3">
     <div class="section-heading">
       <h2>学术服务</h2>
     </div>
     <ul class="service-list">
-      <li>担任 ICML、NeurIPS、ACM MM 等 CCF-A 类会议审稿人。</li>
+      <li>📝 担任 ICML、NeurIPS、ACM MM 等 CCF-A 类会议审稿人。</li>
       <li>🏅 获评 ICML 2026 Golden Reviewer。</li>
     </ul>
   </section>
