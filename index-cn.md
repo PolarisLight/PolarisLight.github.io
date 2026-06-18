@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 长尾视觉与多模态智能｜陈颜皓
+title: 长尾视觉与多模态智能
 ---
 
 <div class="site-shell">
