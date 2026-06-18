@@ -21,7 +21,7 @@ description: Academic homepage of Yanhao Chen
     <div class="hero-copy">
       <p class="eyebrow">Xiamen University | Computer Science PhD</p>
       <h1>Yanhao Chen</h1>
-      <p class="subtitle">I study long-tailed vision, multimodal learning, and collaborative optimization for robust AI systems.</p>
+      <p class="subtitle">I study long-tailed vision, multimodal learning, and trustworthy reasoning for robust AI systems.</p>
       <p class="contact-line">Email: <a href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a></p>
     </div>
     <figure class="hero-photo-wrap">
@@ -35,12 +35,12 @@ description: Academic homepage of Yanhao Chen
   <section id="research" class="section-panel research-panel animate-in delay-1">
     <div class="section-heading">
       <h2>Research Interests</h2>
-      <p>My work focuses on representation learning under imbalance, cross-modal alignment, and the design of collaborative expert systems.</p>
+      <p>My work focuses on representation learning under imbalance, cross-modal alignment, and trustworthy reasoning for reliable AI systems.</p>
     </div>
     <div class="research-keywords" aria-label="Research keywords">
       <span>Long-tailed Visual Recognition</span>
       <span>Multimodal Learning</span>
-      <span>Collaborative Optimization</span>
+      <span>Trustworthy AI Reasoning</span>
     </div>
     <ul class="research-list">
       <li>
@@ -58,10 +58,10 @@ description: Academic homepage of Yanhao Chen
         </div>
       </li>
       <li>
-        <img class="research-visual" src="/assets/img/research/experts.svg" alt="Collaborative expert systems visual">
+        <img class="research-visual" src="/assets/img/research/experts.svg" alt="Trustworthy AI reasoning visual">
         <div class="research-copy">
-          <strong>Collaborative Optimization</strong>
-          <span>Mixture-of-Experts learning that balances specialist independence with shared evidence flow.</span>
+          <strong>Trustworthy AI Reasoning</strong>
+          <span>Uncertainty-aware reasoning, structured prediction, and evaluation mechanisms for reliable language and multimodal AI systems.</span>
         </div>
       </li>
     </ul>
