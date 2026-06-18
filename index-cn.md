@@ -21,7 +21,7 @@ description: 陈颜皓的学术主页
     <div class="hero-copy">
       <p class="eyebrow">厦门大学 | 计算机科学与技术博士生</p>
       <h1>陈颜皓</h1>
-      <p class="subtitle">我关注长尾视觉识别、多模态学习，以及面向鲁棒 AI 系统的协同优化。</p>
+      <p class="subtitle">我关注长尾视觉识别、多模态学习，以及面向可靠 AI 系统的可信推理。</p>
       <p class="contact-line">邮箱：<a href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a></p>
     </div>
     <figure class="hero-photo-wrap">
@@ -35,12 +35,12 @@ description: 陈颜皓的学术主页
   <section id="research" class="section-panel research-panel animate-in delay-1">
     <div class="section-heading">
       <h2>研究方向</h2>
-      <p>我的研究围绕类别不均衡下的表示学习、跨模态对齐，以及协同专家系统的建模机制展开。</p>
+      <p>我的研究围绕类别不均衡下的表示学习、跨模态对齐，以及面向可靠 AI 系统的可信推理机制展开。</p>
     </div>
     <div class="research-keywords" aria-label="研究关键词">
       <span>长尾视觉识别</span>
       <span>多模态学习</span>
-      <span>协同优化</span>
+      <span>可信 AI 推理</span>
     </div>
     <ul class="research-list">
       <li>
@@ -58,10 +58,10 @@ description: 陈颜皓的学术主页
         </div>
       </li>
       <li>
-        <img class="research-visual" src="/assets/img/research/experts.svg" alt="协同专家系统示意图">
+        <img class="research-visual" src="/assets/img/research/experts.svg" alt="可信 AI 推理示意图">
         <div class="research-copy">
-          <strong>协同优化</strong>
-          <span>研究 Mixture of Experts 中专家独立性、共享证据流与协作学习之间的平衡机制。</span>
+          <strong>可信 AI 推理</strong>
+          <span>面向大语言模型与多模态系统，研究不确定性建模、结构化推理与可靠评估机制。</span>
         </div>
       </li>
     </ul>
