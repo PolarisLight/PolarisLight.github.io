@@ -11,6 +11,7 @@ description: Academic homepage of Yanhao Chen
       <a href="#research">Research</a>
       <a href="#education">Education</a>
       <a href="#papers">Publications</a>
+      <a href="#projects">Projects</a>
       <a href="#service">Service</a>
       <a href="index-cn.html">中文</a>
     </div>
@@ -37,9 +38,9 @@ description: Academic homepage of Yanhao Chen
       <p>My work focuses on representation learning under imbalance, cross-modal alignment, and the design of collaborative expert systems.</p>
     </div>
     <div class="research-keywords" aria-label="Research keywords">
-      <span>Computer Vision</span>
-      <span>Long-tailed Recognition</span>
+      <span>Long-tailed Visual Recognition</span>
       <span>Multimodal Learning</span>
+      <span>Collaborative Optimization</span>
     </div>
     <ul class="research-list">
       <li>
@@ -97,7 +98,7 @@ description: Academic homepage of Yanhao Chen
         <span class="pub-year">2025</span>
         <div class="pub-body">
           <p class="pub-title">Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition</p>
-          <p class="pub-authors"><strong>Yanhao Chen*</strong>, Zhongquan Jian*, Nianxin Ke, Shuhao Hu, Junjie Jiao, Qingqi Hong, Qingqiang Wu.</p>
+          <p class="pub-authors"><strong>Y. Chen*</strong>, Z. Jian*, N. Ke, S. Hu, J. Jiao, Q. Hong, Q. Wu.</p>
           <p class="pub-venue">IJCAI 2025 Main Track (CCF-A)</p>
           <p class="pub-links"><a class="paper-button" href="https://www.ijcai.org/proceedings/2025/0093.pdf" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/ijcai/ChenJKHJH025" target="_blank" rel="noopener">DBLP</a></p>
         </div>
@@ -107,7 +108,7 @@ description: Academic homepage of Yanhao Chen
         <span class="pub-year">2025</span>
         <div class="pub-body">
           <p class="pub-title">Supervised Exploratory Learning for Long-Tailed Visual Recognition</p>
-          <p class="pub-authors">Zhongquan Jian*, <strong>Yanhao Chen*</strong>, Wangyancheng, Junfeng Yao, Meihong Wang, Qingqiang Wu.</p>
+          <p class="pub-authors">Z. Jian*, <strong>Y. Chen*</strong>, Y. Wang, J. Yao, M. Wang, Q. Wu.</p>
           <p class="pub-venue">ICCV 2025 Main Track (CCF-A)</p>
           <p class="pub-links"><a class="paper-button" href="https://openaccess.thecvf.com/content/ICCV2025/papers/Jian_Supervised_Exploratory_Learning_for_Long-Tailed_Visual_Recognition_ICCV_2025_paper.pdf" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/iccv/JianCWYWW25" target="_blank" rel="noopener">DBLP</a></p>
         </div>
@@ -137,7 +138,7 @@ description: Academic homepage of Yanhao Chen
         <span class="pub-year">2025</span>
         <div class="pub-body">
           <p class="pub-title">SimRP: Syntactic and Semantic Similarity Retrieval Prompting Enhances Aspect Sentiment Quad Prediction</p>
-          <p class="pub-authors">Zhongquan Jian, <strong>Yanhao Chen</strong>, Jiajian Li, Shaopan Wang, Xiangjian Zeng, Junfeng Yao, Xinying An, Qingqiang Wu.</p>
+          <p class="pub-authors">Z. Jian, <strong>Y. Chen</strong>, J. Li, S. Wang, X. Zeng, J. Yao, X. An, Q. Wu.</p>
           <p class="pub-venue">AAAI 2025 Main Track (CCF-A)</p>
           <p class="pub-links"><a class="paper-button" href="https://ojs.aaai.org/index.php/AAAI/article/download/34601/36756" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/aaai/JianCLWZYA025" target="_blank" rel="noopener">DBLP</a></p>
         </div>
@@ -166,12 +167,31 @@ description: Academic homepage of Yanhao Chen
     <p class="pub-note"><em>* denotes equal contribution.</em></p>
   </section>
 
+  <section id="projects" class="section-panel projects-panel animate-in delay-3">
+    <div class="section-heading">
+      <h2>Selected Projects</h2>
+      <p>Applied AI projects connecting intelligent assessment, aesthetic education, and data-driven educational evaluation.</p>
+    </div>
+    <ul class="project-list">
+      <li>
+        <p class="project-title">Shaping Individual Aesthetic Life: Intelligent Assessment and Application of Art Creativity-Emotion Competence</p>
+        <p class="project-role">Algorithm Model Lead</p>
+        <p class="project-desc">Led the design and implementation of intelligent assessment models for students' aesthetic development, covering creativity-emotion indicators, artwork analysis, classroom interaction, and teacher feedback. The platform was selected as a national intelligent aesthetic-education application case.</p>
+      </li>
+      <li>
+        <p class="project-title">Digital Intelligence for K-12 Aesthetic Education Evaluation: A Foshan Case Study</p>
+        <p class="project-role">Recommendation Algorithm Developer</p>
+        <p class="project-desc">Developed recommendation algorithms for a regional aesthetic-education evaluation platform, supporting process-based, multidimensional monitoring and data-driven diagnosis of resource allocation, teacher support, and teaching quality.</p>
+      </li>
+    </ul>
+  </section>
+
   <section id="service" class="section-panel service-panel animate-in delay-3">
     <div class="section-heading">
       <h2>Academic Service</h2>
     </div>
     <ul class="service-list">
-      <li>Reviewer for CCF-A conferences, including ICML, NeurIPS, and ACM MM.</li>
+      <li>📝 Reviewer for CCF-A conferences, including ICML, NeurIPS, and ACM MM.</li>
       <li>🏅 ICML 2026 Golden Reviewer.</li>
     </ul>
   </section>
