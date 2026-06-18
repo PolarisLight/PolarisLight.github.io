@@ -40,16 +40,25 @@ title: 长尾视觉与多模态智能
     </div>
     <ul class="research-list">
       <li>
-        <strong>长尾视觉识别</strong>
-        <span>关注类别不均衡场景下的表示学习、尾部类别鲁棒性与决策校准。</span>
+        <img class="research-visual" src="/assets/img/research/long-tail.svg" alt="长尾视觉识别示意图">
+        <div class="research-copy">
+          <strong>长尾视觉识别</strong>
+          <span>关注类别不均衡场景下的表示学习、尾部类别鲁棒性与决策校准。</span>
+        </div>
       </li>
       <li>
-        <strong>多模态学习</strong>
-        <span>探索视觉-语言对齐、检索增强建模，以及多模态情感分析与推理流程。</span>
+        <img class="research-visual" src="/assets/img/research/multimodal.svg" alt="多模态学习示意图">
+        <div class="research-copy">
+          <strong>多模态学习</strong>
+          <span>探索视觉-语言对齐、检索增强建模，以及多模态情感分析与推理流程。</span>
+        </div>
       </li>
       <li>
-        <strong>协同优化</strong>
-        <span>研究 Mixture of Experts 中专家独立性、共享证据流与协作学习之间的平衡机制。</span>
+        <img class="research-visual" src="/assets/img/research/experts.svg" alt="协同专家系统示意图">
+        <div class="research-copy">
+          <strong>协同优化</strong>
+          <span>研究 Mixture of Experts 中专家独立性、共享证据流与协作学习之间的平衡机制。</span>
+        </div>
       </li>
     </ul>
   </section>
@@ -77,73 +86,81 @@ title: 长尾视觉与多模态智能
   <section id="papers" class="section-panel publications-panel animate-in delay-3">
     <div class="section-heading">
       <h2>论文发表</h2>
-      <p>以下为 DBLP 已索引的代表性工作，覆盖计算机视觉、多模态学习与大语言模型推理。</p>
+      <p>以下为代表性工作，覆盖长尾视觉识别、多模态学习与大语言模型推理。</p>
     </div>
     <ol class="pub-list">
       <li class="pub-item">
-        <span class="pub-year">2026</span>
-        <div>
-          <p class="pub-title">Prototype Entropy Alignment: Reinforcing Structured Uncertainty in LLM Reasoning</p>
-          <p class="pub-authors">Zhengyuan Pan, <strong>Yanhao Chen</strong>, Zhongquan Jian, Wanru Zhao, Haonan Ma, Meihong Wang, Qingqiang Wu.</p>
-          <p class="pub-venue">AAAI 2026 Main Track（CCF-A）</p>
-          <p class="pub-links"><a class="paper-button" href="https://doi.org/10.1609/aaai.v40i29.39656" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/aaai/PanCJZMWW26" target="_blank" rel="noopener">DBLP</a></p>
-        </div>
-      </li>
-      <li class="pub-item">
-        <span class="pub-year">2026</span>
-        <div>
-          <p class="pub-title">MDF: A Modality-Aware Disentanglement and Fusion Framework for Multimodal Sentiment Analysis</p>
-          <p class="pub-authors">Zhongquan Jian, Wenhan Lv, <strong>Yanhao Chen</strong>, Guanran Luo, Wentao Qiu, Shaopan Wang, Bingbing Hu, Qingqiang Wu.</p>
-          <p class="pub-venue">AAAI 2026 Main Track（CCF-A）</p>
-          <p class="pub-links"><a class="paper-button" href="https://doi.org/10.1609/aaai.v40i37.40392" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/aaai/JianLCLQWHW26" target="_blank" rel="noopener">DBLP</a></p>
-        </div>
-      </li>
-      <li class="pub-item">
+        <figure class="pub-figure-wrap"><img src="/assets/img/papers/ijcai-moe.svg" alt="独立与协同 MoE 学习示意图"></figure>
         <span class="pub-year">2025</span>
-        <div>
+        <div class="pub-body">
           <p class="pub-title">Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition</p>
-          <p class="pub-authors"><strong>Yanhao Chen</strong>, Zhongquan Jian, Nianxin Ke, Shuhao Hu, Junjie Jiao, Qingqi Hong, Qingqiang Wu.</p>
+          <p class="pub-authors"><strong>Yanhao Chen*</strong>, Zhongquan Jian*, Nianxin Ke, Shuhao Hu, Junjie Jiao, Qingqi Hong, Qingqiang Wu.</p>
           <p class="pub-venue">IJCAI 2025 Main Track（CCF-A）</p>
-          <p class="pub-links"><a class="paper-button" href="https://doi.org/10.24963/ijcai.2025/93" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/ijcai/ChenJKHJH025" target="_blank" rel="noopener">DBLP</a></p>
+          <p class="pub-links"><a class="paper-button" href="https://www.ijcai.org/proceedings/2025/0093.pdf" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/ijcai/ChenJKHJH025" target="_blank" rel="noopener">DBLP</a></p>
         </div>
       </li>
       <li class="pub-item">
+        <figure class="pub-figure-wrap"><img src="/assets/img/papers/iccv-sel.svg" alt="监督式探索学习示意图"></figure>
         <span class="pub-year">2025</span>
-        <div>
+        <div class="pub-body">
           <p class="pub-title">Supervised Exploratory Learning for Long-Tailed Visual Recognition</p>
-          <p class="pub-authors">Zhongquan Jian, <strong>Yanhao Chen</strong>, Yancheng Wang, Junfeng Yao, Meihong Wang, Qingqiang Wu.</p>
+          <p class="pub-authors">Zhongquan Jian*, <strong>Yanhao Chen*</strong>, Wangyancheng, Junfeng Yao, Meihong Wang, Qingqiang Wu.</p>
           <p class="pub-venue">ICCV 2025 Main Track（CCF-A）</p>
-          <p class="pub-links"><a class="paper-button" href="https://doi.org/10.1109/ICCV51701.2025.00182" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/iccv/JianCWYWW25" target="_blank" rel="noopener">DBLP</a></p>
+          <p class="pub-links"><a class="paper-button" href="https://openaccess.thecvf.com/content/ICCV2025/papers/Jian_Supervised_Exploratory_Learning_for_Long-Tailed_Visual_Recognition_ICCV_2025_paper.pdf" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/iccv/JianCWYWW25" target="_blank" rel="noopener">DBLP</a></p>
         </div>
       </li>
       <li class="pub-item">
+        <figure class="pub-figure-wrap"><img src="/assets/img/papers/currmix.svg" alt="CurrMix 课程增强 MixUp 示意图"></figure>
+        <span class="pub-year">2026</span>
+        <div class="pub-body">
+          <p class="pub-title">CurrMix: Curriculum-Enhanced MixUp for Long-Tailed Visual Recognition</p>
+          <p class="pub-authors">Z. Jian*, <strong>Y. Chen*</strong>, B. Hu, W. Lv, S. Wang, J. Wu, J. Yao, Y. Lu, Q. Wu.</p>
+          <p class="pub-venue">CVPR 2026 Findings（CCF-A）</p>
+          <p class="pub-links"><span class="paper-button paper-button-disabled" aria-disabled="true">Paper pending</span></p>
+        </div>
+      </li>
+      <li class="pub-item">
+        <figure class="pub-figure-wrap"><img src="/assets/img/papers/aaai-pea.svg" alt="Prototype Entropy Alignment 示意图"></figure>
+        <span class="pub-year">2026</span>
+        <div class="pub-body">
+          <p class="pub-title">Prototype Entropy Alignment: Reinforcing Structured Uncertainty in LLM Reasoning</p>
+          <p class="pub-authors">Z. Pan*, <strong>Y. Chen*</strong>, Z. Jian, W. Zhao, H. Ma, M. Wang, Q. Wu.</p>
+          <p class="pub-venue">AAAI 2026 Main Track（CCF-A）</p>
+          <p class="pub-links"><a class="paper-button" href="https://ojs.aaai.org/index.php/AAAI/article/download/39656/43617" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/aaai/PanCJZMWW26" target="_blank" rel="noopener">DBLP</a></p>
+        </div>
+      </li>
+      <li class="pub-item">
+        <figure class="pub-figure-wrap"><img src="/assets/img/papers/aaai-simrp.svg" alt="SimRP 检索提示示意图"></figure>
         <span class="pub-year">2025</span>
-        <div>
+        <div class="pub-body">
           <p class="pub-title">SimRP: Syntactic and Semantic Similarity Retrieval Prompting Enhances Aspect Sentiment Quad Prediction</p>
           <p class="pub-authors">Zhongquan Jian, <strong>Yanhao Chen</strong>, Jiajian Li, Shaopan Wang, Xiangjian Zeng, Junfeng Yao, Xinying An, Qingqiang Wu.</p>
           <p class="pub-venue">AAAI 2025 Main Track（CCF-A）</p>
-          <p class="pub-links"><a class="paper-button" href="https://doi.org/10.1609/aaai.v39i23.34601" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/aaai/JianCLWZYA025" target="_blank" rel="noopener">DBLP</a></p>
+          <p class="pub-links"><a class="paper-button" href="https://ojs.aaai.org/index.php/AAAI/article/download/34601/36756" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/aaai/JianCLWZYA025" target="_blank" rel="noopener">DBLP</a></p>
         </div>
       </li>
       <li class="pub-item">
+        <figure class="pub-figure-wrap"><img src="/assets/img/papers/aaai-mdf.svg" alt="MDF 多模态解耦与融合示意图"></figure>
+        <span class="pub-year">2026</span>
+        <div class="pub-body">
+          <p class="pub-title">MDF: A Modality-Aware Disentanglement and Fusion Framework for Multimodal Sentiment Analysis</p>
+          <p class="pub-authors">Z. Jian, W. Lv, <strong>Y. Chen</strong>, G. Luo, W. Qiu, S. Wang, B. Hu, Q. Wu.</p>
+          <p class="pub-venue">AAAI 2026 Main Track（CCF-A）</p>
+          <p class="pub-links"><a class="paper-button" href="https://ojs.aaai.org/index.php/AAAI/article/download/40392/44353" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/aaai/JianLCLQWHW26" target="_blank" rel="noopener">DBLP</a></p>
+        </div>
+      </li>
+      <li class="pub-item">
+        <figure class="pub-figure-wrap"><img src="/assets/img/papers/icassp-metorie.svg" alt="METORIE 信息抽取示意图"></figure>
         <span class="pub-year">2025</span>
-        <div>
+        <div class="pub-body">
           <p class="pub-title">Enhancing Information Extraction with METORIE: A Metaphor and Trap-Based Dataset for Cross-Domain Fine-Tuning</p>
-          <p class="pub-authors">Zhengyuan Pan, Yilian Peng, Zhongquan Jian, <strong>Yanhao Chen</strong>, Wentao Qiu, Haonan Ma, Junfeng Yao, Meihong Wang, Qingqiang Wu.</p>
+          <p class="pub-authors">Z. Pan, Y. Peng, Z. Jian, <strong>Y. Chen</strong>, W. Qiu, H. Ma, J. Yao, M. Wang, Q. Wu.</p>
           <p class="pub-venue">ICASSP 2025 Main Track（CCF-B）</p>
           <p class="pub-links"><a class="paper-button" href="https://doi.org/10.1109/ICASSP49660.2025.10890213" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/icassp/PanPJCQMYW025" target="_blank" rel="noopener">DBLP</a></p>
         </div>
       </li>
-      <li class="pub-item">
-        <span class="pub-year">2024</span>
-        <div>
-          <p class="pub-title">HAUR: Human Annotation Understanding and Recognition Through Text-Heavy Images</p>
-          <p class="pub-authors">Yuchen Yang, Haoran Yan, <strong>Yanhao Chen</strong>, Qingqiang Wu, Qingqi Hong.</p>
-          <p class="pub-venue">CoRR abs/2412.18327</p>
-          <p class="pub-links"><a class="paper-button" href="https://doi.org/10.48550/arXiv.2412.18327" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/journals/corr/abs-2412-18327" target="_blank" rel="noopener">DBLP</a></p>
-        </div>
-      </li>
     </ol>
+    <p class="pub-note"><em>* 表示共同第一作者。</em></p>
   </section>
 
   <section id="service" class="section-panel service-panel animate-in delay-3">
