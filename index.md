@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Academic Homepage
+title: Yanhao Chen | Academic Homepage
+description: Academic homepage of Yanhao Chen
 ---
 
 <div class="site-shell">
@@ -24,7 +25,7 @@ title: Academic Homepage
     </div>
     <figure class="hero-photo-wrap">
       <img src="/IMG_0018(20210815-171342).JPG" alt="Portrait of Yanhao Chen">
-      <figcaption>Computer Vision and Multimodal AI</figcaption>
+      <figcaption>PhD Student, Xiamen University</figcaption>
     </figure>
   </section>
 
