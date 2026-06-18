@@ -58,7 +58,7 @@ description: Academic homepage of Yanhao Chen
         </div>
       </li>
       <li>
-        <img class="research-visual" src="/assets/img/research/experts.svg" alt="Trustworthy AI reasoning visual">
+        <img class="research-visual" src="/assets/img/research/trustworthy-reasoning.svg" alt="Trustworthy AI reasoning visual">
         <div class="research-copy">
           <strong>Trustworthy AI Reasoning</strong>
           <span>Uncertainty-aware reasoning, structured prediction, and evaluation mechanisms for reliable language and multimodal AI systems.</span>
