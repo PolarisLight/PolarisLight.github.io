@@ -58,7 +58,7 @@ description: 陈颜皓的学术主页
         </div>
       </li>
       <li>
-        <img class="research-visual" src="/assets/img/research/trustworthy-reasoning.svg" alt="可信 AI 推理示意图">
+        <img class="research-visual" src="/assets/img/research/trustworthy-reasoning-frame.svg" alt="可信 AI 推理示意图">
         <div class="research-copy">
           <strong>可信 AI 推理</strong>
           <span>面向大语言模型与多模态系统，研究不确定性建模、结构化推理与可靠评估机制。</span>
