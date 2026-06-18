@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 陈颜皓｜学术主页
+title: 长尾视觉与多模态智能｜陈颜皓
 ---
 
 <div class="site-shell">
@@ -17,37 +17,39 @@ title: 陈颜皓｜学术主页
 
   <section class="hero-banner animate-in">
     <div class="hero-copy">
+      <p class="eyebrow">厦门大学 | 计算机科学与技术博士生</p>
       <h1>陈颜皓</h1>
-      <p class="subtitle">厦门大学计算机科学与技术博士生</p>
-      <p class="hero-summary">我的研究关注长尾视觉识别、多模态学习，以及面向鲁棒 AI 系统的协同优化。</p>
+      <p class="subtitle">我关注长尾视觉识别、多模态学习，以及面向鲁棒 AI 系统的协同优化。</p>
       <p class="contact-line">邮箱：<a href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a></p>
-      <div class="tags" aria-label="研究关键词">
-        <span class="tag">计算机视觉</span>
-        <span class="tag">长尾识别</span>
-        <span class="tag">多模态学习</span>
-      </div>
     </div>
     <figure class="hero-photo-wrap">
       <img src="/IMG_0018(20210815-171342).JPG" alt="陈颜皓肖像">
+      <figcaption>计算机视觉与多模态智能</figcaption>
     </figure>
   </section>
 
-  <section id="research" class="section-panel animate-in delay-1">
+  <section id="research" class="section-panel research-panel animate-in delay-1">
     <div class="section-heading">
       <h2>研究方向</h2>
+      <p>我的研究围绕类别不均衡下的表示学习、跨模态对齐，以及协同专家系统的建模机制展开。</p>
+    </div>
+    <div class="research-keywords" aria-label="研究关键词">
+      <span>计算机视觉</span>
+      <span>长尾识别</span>
+      <span>多模态学习</span>
     </div>
     <ul class="research-list">
       <li>
         <strong>长尾视觉识别</strong>
-        <span>关注类别不均衡场景下的鲁棒表示学习与泛化能力提升。</span>
+        <span>关注类别不均衡场景下的表示学习、尾部类别鲁棒性与决策校准。</span>
       </li>
       <li>
         <strong>多模态学习</strong>
-        <span>探索视觉-语言跨模态对齐与检索增强方法在下游任务中的有效性。</span>
+        <span>探索视觉-语言对齐、检索增强建模，以及多模态情感分析与推理流程。</span>
       </li>
       <li>
         <strong>协同优化</strong>
-        <span>研究 Mixture of Experts 在独立学习与协作学习之间的平衡机制。</span>
+        <span>研究 Mixture of Experts 中专家独立性、共享证据流与协作学习之间的平衡机制。</span>
       </li>
     </ul>
   </section>
@@ -75,7 +77,7 @@ title: 陈颜皓｜学术主页
   <section id="papers" class="section-panel publications-panel animate-in delay-3">
     <div class="section-heading">
       <h2>论文发表</h2>
-      <p>主要研究工作覆盖计算机视觉、多模态学习与大语言模型推理。</p>
+      <p>代表性工作覆盖计算机视觉、多模态学习与大语言模型推理。</p>
     </div>
     <ol class="pub-list">
       <li class="pub-item">
