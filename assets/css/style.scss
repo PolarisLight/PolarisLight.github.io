@@ -193,7 +193,13 @@ body {
   margin: 0;
 }
 
-.hero-photo-wrap::before {
+.hero-photo-frame {
+  position: relative;
+  display: block;
+  width: 100%;
+}
+
+.hero-photo-frame::before {
   content: "";
   position: absolute;
   inset: 16px -16px -16px 16px;
@@ -201,7 +207,7 @@ body {
   border-radius: var(--radius);
 }
 
-.hero-photo-wrap img {
+.hero-photo-frame img {
   position: relative;
   display: block;
   width: 100%;
@@ -214,11 +220,14 @@ body {
 
 .hero-photo-wrap figcaption {
   position: relative;
-  margin: 14px 0 0;
+  z-index: 1;
+  margin: 18px auto 0;
+  padding: 0 8px;
   color: var(--text-sub);
   font-size: 0.94rem;
   font-weight: 720;
   line-height: 1.45;
+  text-align: center;
 }
 
 .section-panel {
@@ -592,7 +601,7 @@ body {
     order: -1;
   }
 
-  .hero-photo-wrap::before {
+  .hero-photo-frame::before {
     inset: 12px -12px -12px 12px;
   }
 
