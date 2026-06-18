@@ -1,6 +1,7 @@
 ---
 layout: default
-title: 长尾视觉与多模态智能
+title: 陈颜皓｜学术主页
+description: 陈颜皓的学术主页
 ---
 
 <div class="site-shell">
@@ -24,7 +25,7 @@ title: 长尾视觉与多模态智能
     </div>
     <figure class="hero-photo-wrap">
       <img src="/IMG_0018(20210815-171342).JPG" alt="陈颜皓肖像">
-      <figcaption>计算机视觉与多模态智能</figcaption>
+      <figcaption>厦门大学博士生</figcaption>
     </figure>
   </section>
 
