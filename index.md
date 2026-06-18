@@ -19,6 +19,7 @@ title: Yanhao Chen | Academic Homepage
         <a href="#research">Research Interests</a>
         <a href="#resume">Resume</a>
         <a href="#papers">Publications</a>
+        <a href="#service">Service</a>
         <a href="index-cn.html">中文</a>
       </div>
     </div>
@@ -66,13 +67,24 @@ title: Yanhao Chen | Academic Homepage
   </section>
 
   <section id="papers" class="card publications-card animate-in delay-3">
-    <h2>Featured Publications</h2>
+    <h2>Publications</h2>
     <ol class="pub-list">
-      <li><strong>Yanhao Chen*</strong>, Zhongquan Jian*, Nianxin Ke, Shuhao Hu, Junjie Jiao, Qingqi Hong, Qingqiang Wu. <em>Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition</em>. <span class="venue">IJCAI 2025 (Main Track)</span>.</li>
-      <li>Zhongquan Jian*, <strong>Yanhao Chen*</strong>, Wangyancheng, Junfeng Yao, Meihong Wang, Qingqiang Wu. <em>Supervised Exploratory Learning for Long-Tailed Visual Recognition</em>. <span class="venue">ICCV 2025 (Main Track)</span>.</li>
-      <li>Zhongquan Jian, <strong>Yanhao Chen</strong>, Jiajian Li, Shaopan Wang, Xiangjian Zeng, Junfeng Yao, Xinying An, Qingqiang Wu. <em>SimRP: Syntactic and Semantic Similarity Retrieval Prompting Enhances Aspect Sentiment Quad Prediction</em>. <span class="venue">AAAI 2025 (Main Track)</span>.</li>
-      <li>Z Pan, Y Peng, Z Jian, <strong>Y Chen</strong>, W Qiu, H Ma, J Yao, M Wang, Q Wu. <em>Enhancing Information Extraction with METORIE: A Metaphor and Trap-Based Dataset for Cross-Domain Fine-Tuning</em>. <span class="venue">ICASSP 2025 (Main Track)</span>.</li>
-      <li>Y Liu, W Cai, N Liu, W Zhang, S Guo, L Qi, Y Wu, <strong>Y Chen</strong>, Z Li. <em>Fusion-based Effective Noise Removal Approach with the Reconstruction of Guided Reference Image</em>. <span class="venue">Symposium on Novel Photoelectronic Detection Technology and Applications</span>.</li>
+      <li><strong>Yanhao Chen*</strong>, Zhongquan Jian*, Nianxin Ke, Shuhao Hu, Junjie Jiao, Qingqi Hong, Qingqiang Wu. <em>Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition</em>. <span class="venue">IJCAI 2025 Main Track (CCF-A)</span>.</li>
+      <li>Zhongquan Jian*, <strong>Yanhao Chen*</strong>, Wangyancheng, Junfeng Yao, Meihong Wang, Qingqiang Wu. <em>Supervised Exploratory Learning for Long-Tailed Visual Recognition</em>. <span class="venue">ICCV 2025 Main Track (CCF-A)</span>.</li>
+      <li>Z. Jian*, <strong>Y. Chen*</strong>, B. Hu, W. Lv, S. Wang, J. Wu, J. Yao, Y. Lu, Q. Wu. <em>CurrMix: Curriculum-Enhanced MixUp for Long-Tailed Visual Recognition</em>. <span class="venue">CVPR 2026 Findings (CCF-A)</span>.</li>
+      <li>Z. Pan*, <strong>Y. Chen*</strong>, Z. Jian, W. Zhao, H. Ma, M. Wang, Q. Wu. <em>Prototype Entropy Alignment: Reinforcing Structured Uncertainty in LLM Reasoning</em>. <span class="venue">AAAI 2026 Main Track (CCF-A)</span>.</li>
+      <li>Zhongquan Jian, <strong>Yanhao Chen</strong>, Jiajian Li, Shaopan Wang, Xiangjian Zeng, Junfeng Yao, Xinying An, Qingqiang Wu. <em>SimRP: Syntactic and Semantic Similarity Retrieval Prompting Enhances Aspect Sentiment Quad Prediction</em>. <span class="venue">AAAI 2025 Main Track (CCF-A)</span>.</li>
+      <li>Z. Jian, W. Lv, <strong>Y. Chen</strong>, G. Luo, W. Qiu, S. Wang, B. Hu, Q. Wu. <em>MDF: A Modality-Aware Disentanglement and Fusion Framework for Multimodal Sentiment Analysis</em>. <span class="venue">AAAI 2026 Main Track (CCF-A)</span>.</li>
+      <li>Z. Pan, Y. Peng, Z. Jian, <strong>Y. Chen</strong>, W. Qiu, H. Ma, J. Yao, M. Wang, Q. Wu. <em>Enhancing Information Extraction with METORIE: A Metaphor and Trap-Based Dataset for Cross-Domain Fine-Tuning</em>. <span class="venue">ICASSP 2025 Main Track (CCF-B)</span>.</li>
     </ol>
+    <p><em>* denotes equal contribution.</em></p>
+  </section>
+
+  <section id="service" class="card animate-in delay-3">
+    <h2>Academic Service</h2>
+    <ul class="clean-list">
+      <li>Reviewer for CCF-A conferences, including ICML, NeurIPS, and ACM MM.</li>
+      <li>ICML 2026 Golden Reviewer.</li>
+    </ul>
   </section>
 </div>
