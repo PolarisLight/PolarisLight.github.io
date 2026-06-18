@@ -28,7 +28,22 @@ title: 长尾视觉与多模态智能
     </figure>
   </section>
 
-  <section id="research" class="section-panel research-panel animate-in delay-1">
+  <section class="image-band animate-in delay-1" aria-label="研究图像">
+    <figure class="image-card image-card-large">
+      <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&amp;fit=crop&amp;w=1200&amp;q=80" alt="电子线路特写" loading="lazy">
+      <figcaption>视觉证据从信号、传感与表示开始。</figcaption>
+    </figure>
+    <figure class="image-card">
+      <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80" alt="研究工作站上的代码编辑器" loading="lazy">
+      <figcaption>实验把模型行为转化为可度量的结构。</figcaption>
+    </figure>
+    <figure class="image-card">
+      <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&amp;fit=crop&amp;w=1200&amp;q=80" alt="带有网络光点的地球图像" loading="lazy">
+      <figcaption>多模态系统连接不同尺度与来源的证据。</figcaption>
+    </figure>
+  </section>
+
+  <section id="research" class="section-panel research-panel animate-in delay-2">
     <div class="section-heading">
       <h2>研究方向</h2>
       <p>我的研究围绕类别不均衡下的表示学习、跨模态对齐，以及协同专家系统的建模机制展开。</p>
@@ -54,7 +69,7 @@ title: 长尾视觉与多模态智能
     </ul>
   </section>
 
-  <section id="education" class="section-panel animate-in delay-2">
+  <section id="education" class="section-panel animate-in delay-3">
     <div class="section-heading">
       <h2>教育背景</h2>
     </div>
@@ -86,6 +101,7 @@ title: 长尾视觉与多模态智能
           <p class="pub-title">Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition</p>
           <p class="pub-authors"><strong>Yanhao Chen*</strong>, Zhongquan Jian*, Nianxin Ke, Shuhao Hu, Junjie Jiao, Qingqi Hong, Qingqiang Wu.</p>
           <p class="pub-venue">IJCAI 2025 Main Track（CCF-A）</p>
+          <p class="pub-links"><a href="https://dblp.org/rec/conf/ijcai/ChenJKHJH025" target="_blank" rel="noopener">DBLP</a><a href="https://doi.org/10.24963/ijcai.2025/93" target="_blank" rel="noopener">DOI</a></p>
         </div>
       </li>
       <li class="pub-item">
@@ -94,6 +110,7 @@ title: 长尾视觉与多模态智能
           <p class="pub-title">Supervised Exploratory Learning for Long-Tailed Visual Recognition</p>
           <p class="pub-authors">Zhongquan Jian*, <strong>Yanhao Chen*</strong>, Wangyancheng, Junfeng Yao, Meihong Wang, Qingqiang Wu.</p>
           <p class="pub-venue">ICCV 2025 Main Track（CCF-A）</p>
+          <p class="pub-links"><a href="https://dblp.org/rec/conf/iccv/JianCWYWW25" target="_blank" rel="noopener">DBLP</a><a href="https://doi.org/10.1109/ICCV51701.2025.00182" target="_blank" rel="noopener">DOI</a></p>
         </div>
       </li>
       <li class="pub-item">
@@ -110,6 +127,7 @@ title: 长尾视觉与多模态智能
           <p class="pub-title">Prototype Entropy Alignment: Reinforcing Structured Uncertainty in LLM Reasoning</p>
           <p class="pub-authors">Z. Pan*, <strong>Y. Chen*</strong>, Z. Jian, W. Zhao, H. Ma, M. Wang, Q. Wu.</p>
           <p class="pub-venue">AAAI 2026 Main Track（CCF-A）</p>
+          <p class="pub-links"><a href="https://dblp.org/rec/conf/aaai/PanCJZMWW26" target="_blank" rel="noopener">DBLP</a><a href="https://doi.org/10.1609/aaai.v40i29.39656" target="_blank" rel="noopener">DOI</a></p>
         </div>
       </li>
       <li class="pub-item">
@@ -118,6 +136,7 @@ title: 长尾视觉与多模态智能
           <p class="pub-title">SimRP: Syntactic and Semantic Similarity Retrieval Prompting Enhances Aspect Sentiment Quad Prediction</p>
           <p class="pub-authors">Zhongquan Jian, <strong>Yanhao Chen</strong>, Jiajian Li, Shaopan Wang, Xiangjian Zeng, Junfeng Yao, Xinying An, Qingqiang Wu.</p>
           <p class="pub-venue">AAAI 2025 Main Track（CCF-A）</p>
+          <p class="pub-links"><a href="https://dblp.org/rec/conf/aaai/JianCLWZYA025" target="_blank" rel="noopener">DBLP</a><a href="https://doi.org/10.1609/aaai.v39i23.34601" target="_blank" rel="noopener">DOI</a></p>
         </div>
       </li>
       <li class="pub-item">
@@ -126,6 +145,7 @@ title: 长尾视觉与多模态智能
           <p class="pub-title">MDF: A Modality-Aware Disentanglement and Fusion Framework for Multimodal Sentiment Analysis</p>
           <p class="pub-authors">Z. Jian, W. Lv, <strong>Y. Chen</strong>, G. Luo, W. Qiu, S. Wang, B. Hu, Q. Wu.</p>
           <p class="pub-venue">AAAI 2026 Main Track（CCF-A）</p>
+          <p class="pub-links"><a href="https://dblp.org/rec/conf/aaai/JianLCLQWHW26" target="_blank" rel="noopener">DBLP</a><a href="https://doi.org/10.1609/aaai.v40i37.40392" target="_blank" rel="noopener">DOI</a></p>
         </div>
       </li>
       <li class="pub-item">
@@ -134,6 +154,7 @@ title: 长尾视觉与多模态智能
           <p class="pub-title">Enhancing Information Extraction with METORIE: A Metaphor and Trap-Based Dataset for Cross-Domain Fine-Tuning</p>
           <p class="pub-authors">Z. Pan, Y. Peng, Z. Jian, <strong>Y. Chen</strong>, W. Qiu, H. Ma, J. Yao, M. Wang, Q. Wu.</p>
           <p class="pub-venue">ICASSP 2025 Main Track（CCF-B）</p>
+          <p class="pub-links"><a href="https://dblp.org/rec/conf/icassp/PanPJCQMYW025" target="_blank" rel="noopener">DBLP</a><a href="https://doi.org/10.1109/ICASSP49660.2025.10890213" target="_blank" rel="noopener">DOI</a></p>
         </div>
       </li>
     </ol>
