@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Yanhao Chen | Academic Homepage
+title: Long-Tailed Vision and Multimodal AI | Yanhao Chen
 ---
 
 <div class="site-shell">
@@ -17,37 +17,39 @@ title: Yanhao Chen | Academic Homepage
 
   <section class="hero-banner animate-in">
     <div class="hero-copy">
+      <p class="eyebrow">Xiamen University | Computer Science PhD</p>
       <h1>Yanhao Chen</h1>
-      <p class="subtitle">PhD Student in Computer Science, Xiamen University</p>
-      <p class="hero-summary">I study long-tailed visual recognition, multimodal learning, and collaborative optimization for robust AI systems.</p>
+      <p class="subtitle">I study long-tailed vision, multimodal learning, and collaborative optimization for robust AI systems.</p>
       <p class="contact-line">Email: <a href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a></p>
-      <div class="tags" aria-label="Research keywords">
-        <span class="tag">Computer Vision</span>
-        <span class="tag">Long-tailed Recognition</span>
-        <span class="tag">Multimodal Learning</span>
-      </div>
     </div>
     <figure class="hero-photo-wrap">
       <img src="/IMG_0018(20210815-171342).JPG" alt="Portrait of Yanhao Chen">
+      <figcaption>Computer Vision and Multimodal AI</figcaption>
     </figure>
   </section>
 
-  <section id="research" class="section-panel animate-in delay-1">
+  <section id="research" class="section-panel research-panel animate-in delay-1">
     <div class="section-heading">
       <h2>Research Interests</h2>
+      <p>My work focuses on representation learning under imbalance, cross-modal alignment, and the design of collaborative expert systems.</p>
+    </div>
+    <div class="research-keywords" aria-label="Research keywords">
+      <span>Computer Vision</span>
+      <span>Long-tailed Recognition</span>
+      <span>Multimodal Learning</span>
     </div>
     <ul class="research-list">
       <li>
         <strong>Long-tailed Visual Recognition</strong>
-        <span>Robust representation learning and generalization under severe class imbalance.</span>
+        <span>Representation learning under class imbalance, with emphasis on tail-class robustness and decision calibration.</span>
       </li>
       <li>
         <strong>Multimodal Learning</strong>
-        <span>Vision-language alignment and retrieval-augmented methods for downstream tasks.</span>
+        <span>Vision-language alignment, retrieval-augmented modeling, and multimodal sentiment or reasoning pipelines.</span>
       </li>
       <li>
         <strong>Collaborative Optimization</strong>
-        <span>Balancing independent and collaborative learning in Mixture of Experts models.</span>
+        <span>Mixture-of-Experts learning that balances specialist independence with shared evidence flow.</span>
       </li>
     </ul>
   </section>
