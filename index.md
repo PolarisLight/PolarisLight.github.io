@@ -6,7 +6,7 @@ description: Academic homepage of Yanhao Chen
 
 <div class="site-shell">
   <nav class="site-nav" aria-label="Primary navigation">
-    <a class="nav-name" href="index.html">Yanhao Chen</a>
+    <a class="nav-name" href="index.html">Academic Homepage</a>
     <div class="nav-links">
       <a href="#research">Research</a>
       <a href="#education">Education</a>
@@ -24,7 +24,9 @@ description: Academic homepage of Yanhao Chen
       <p class="contact-line">Email: <a href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a></p>
     </div>
     <figure class="hero-photo-wrap">
-      <img src="/IMG_0018(20210815-171342).JPG" alt="Portrait of Yanhao Chen">
+      <span class="hero-photo-frame">
+        <img src="/IMG_0018(20210815-171342).JPG" alt="Portrait of Yanhao Chen">
+      </span>
       <figcaption>PhD Student, Xiamen University</figcaption>
     </figure>
   </section>
@@ -126,7 +128,7 @@ description: Academic homepage of Yanhao Chen
         <div class="pub-body">
           <p class="pub-title">Prototype Entropy Alignment: Reinforcing Structured Uncertainty in LLM Reasoning</p>
           <p class="pub-authors">Z. Pan*, <strong>Y. Chen*</strong>, Z. Jian, W. Zhao, H. Ma, M. Wang, Q. Wu.</p>
-          <p class="pub-venue">AAAI 2026 Main Track (CCF-A)</p>
+          <p class="pub-venue">AAAI 2026 Main Track (CCF-A, Oral)</p>
           <p class="pub-links"><a class="paper-button" href="https://ojs.aaai.org/index.php/AAAI/article/download/39656/43617" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/aaai/PanCJZMWW26" target="_blank" rel="noopener">DBLP</a></p>
         </div>
       </li>
@@ -170,7 +172,7 @@ description: Academic homepage of Yanhao Chen
     </div>
     <ul class="service-list">
       <li>Reviewer for CCF-A conferences, including ICML, NeurIPS, and ACM MM.</li>
-      <li>ICML 2026 Golden Reviewer.</li>
+      <li>🏅 ICML 2026 Golden Reviewer.</li>
     </ul>
   </section>
 </div>
