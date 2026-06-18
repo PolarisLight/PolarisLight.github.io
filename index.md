@@ -28,22 +28,7 @@ title: Long-Tailed Vision and Multimodal AI
     </figure>
   </section>
 
-  <section class="image-band animate-in delay-1" aria-label="Research imagery">
-    <figure class="image-card image-card-large">
-      <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&amp;fit=crop&amp;w=1200&amp;q=80" alt="Close-up of electronic circuitry" loading="lazy">
-      <figcaption>Visual evidence begins with signals, sensors, and representation.</figcaption>
-    </figure>
-    <figure class="image-card">
-      <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&amp;fit=crop&amp;w=1200&amp;q=80" alt="Code editor on a research workstation" loading="lazy">
-      <figcaption>Experiments turn model behavior into measurable structure.</figcaption>
-    </figure>
-    <figure class="image-card">
-      <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&amp;fit=crop&amp;w=1200&amp;q=80" alt="Earth viewed from space with network-like light" loading="lazy">
-      <figcaption>Multimodal systems connect evidence across scales and sources.</figcaption>
-    </figure>
-  </section>
-
-  <section id="research" class="section-panel research-panel animate-in delay-2">
+  <section id="research" class="section-panel research-panel animate-in delay-1">
     <div class="section-heading">
       <h2>Research Interests</h2>
       <p>My work focuses on representation learning under imbalance, cross-modal alignment, and the design of collaborative expert systems.</p>
@@ -69,7 +54,7 @@ title: Long-Tailed Vision and Multimodal AI
     </ul>
   </section>
 
-  <section id="education" class="section-panel animate-in delay-3">
+  <section id="education" class="section-panel animate-in delay-2">
     <div class="section-heading">
       <h2>Education</h2>
     </div>
@@ -92,42 +77,43 @@ title: Long-Tailed Vision and Multimodal AI
   <section id="papers" class="section-panel publications-panel animate-in delay-3">
     <div class="section-heading">
       <h2>Publications</h2>
-      <p>Selected peer-reviewed work in computer vision, multimodal learning, and language-model reasoning.</p>
+      <p>Selected DBLP-indexed work in computer vision, multimodal learning, and language-model reasoning.</p>
     </div>
     <ol class="pub-list">
+      <li class="pub-item">
+        <span class="pub-year">2026</span>
+        <div>
+          <p class="pub-title">Prototype Entropy Alignment: Reinforcing Structured Uncertainty in LLM Reasoning</p>
+          <p class="pub-authors">Zhengyuan Pan, <strong>Yanhao Chen</strong>, Zhongquan Jian, Wanru Zhao, Haonan Ma, Meihong Wang, Qingqiang Wu.</p>
+          <p class="pub-venue">AAAI 2026 Main Track (CCF-A)</p>
+          <p class="pub-links"><a class="paper-button" href="https://doi.org/10.1609/aaai.v40i29.39656" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/aaai/PanCJZMWW26" target="_blank" rel="noopener">DBLP</a></p>
+        </div>
+      </li>
+      <li class="pub-item">
+        <span class="pub-year">2026</span>
+        <div>
+          <p class="pub-title">MDF: A Modality-Aware Disentanglement and Fusion Framework for Multimodal Sentiment Analysis</p>
+          <p class="pub-authors">Zhongquan Jian, Wenhan Lv, <strong>Yanhao Chen</strong>, Guanran Luo, Wentao Qiu, Shaopan Wang, Bingbing Hu, Qingqiang Wu.</p>
+          <p class="pub-venue">AAAI 2026 Main Track (CCF-A)</p>
+          <p class="pub-links"><a class="paper-button" href="https://doi.org/10.1609/aaai.v40i37.40392" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/aaai/JianLCLQWHW26" target="_blank" rel="noopener">DBLP</a></p>
+        </div>
+      </li>
       <li class="pub-item">
         <span class="pub-year">2025</span>
         <div>
           <p class="pub-title">Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition</p>
-          <p class="pub-authors"><strong>Yanhao Chen*</strong>, Zhongquan Jian*, Nianxin Ke, Shuhao Hu, Junjie Jiao, Qingqi Hong, Qingqiang Wu.</p>
+          <p class="pub-authors"><strong>Yanhao Chen</strong>, Zhongquan Jian, Nianxin Ke, Shuhao Hu, Junjie Jiao, Qingqi Hong, Qingqiang Wu.</p>
           <p class="pub-venue">IJCAI 2025 Main Track (CCF-A)</p>
-          <p class="pub-links"><a href="https://dblp.org/rec/conf/ijcai/ChenJKHJH025" target="_blank" rel="noopener">DBLP</a><a href="https://doi.org/10.24963/ijcai.2025/93" target="_blank" rel="noopener">DOI</a></p>
+          <p class="pub-links"><a class="paper-button" href="https://doi.org/10.24963/ijcai.2025/93" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/ijcai/ChenJKHJH025" target="_blank" rel="noopener">DBLP</a></p>
         </div>
       </li>
       <li class="pub-item">
         <span class="pub-year">2025</span>
         <div>
           <p class="pub-title">Supervised Exploratory Learning for Long-Tailed Visual Recognition</p>
-          <p class="pub-authors">Zhongquan Jian*, <strong>Yanhao Chen*</strong>, Wangyancheng, Junfeng Yao, Meihong Wang, Qingqiang Wu.</p>
+          <p class="pub-authors">Zhongquan Jian, <strong>Yanhao Chen</strong>, Yancheng Wang, Junfeng Yao, Meihong Wang, Qingqiang Wu.</p>
           <p class="pub-venue">ICCV 2025 Main Track (CCF-A)</p>
-          <p class="pub-links"><a href="https://dblp.org/rec/conf/iccv/JianCWYWW25" target="_blank" rel="noopener">DBLP</a><a href="https://doi.org/10.1109/ICCV51701.2025.00182" target="_blank" rel="noopener">DOI</a></p>
-        </div>
-      </li>
-      <li class="pub-item">
-        <span class="pub-year">2026</span>
-        <div>
-          <p class="pub-title">CurrMix: Curriculum-Enhanced MixUp for Long-Tailed Visual Recognition</p>
-          <p class="pub-authors">Z. Jian*, <strong>Y. Chen*</strong>, B. Hu, W. Lv, S. Wang, J. Wu, J. Yao, Y. Lu, Q. Wu.</p>
-          <p class="pub-venue">CVPR 2026 Findings (CCF-A)</p>
-        </div>
-      </li>
-      <li class="pub-item">
-        <span class="pub-year">2026</span>
-        <div>
-          <p class="pub-title">Prototype Entropy Alignment: Reinforcing Structured Uncertainty in LLM Reasoning</p>
-          <p class="pub-authors">Z. Pan*, <strong>Y. Chen*</strong>, Z. Jian, W. Zhao, H. Ma, M. Wang, Q. Wu.</p>
-          <p class="pub-venue">AAAI 2026 Main Track (CCF-A)</p>
-          <p class="pub-links"><a href="https://dblp.org/rec/conf/aaai/PanCJZMWW26" target="_blank" rel="noopener">DBLP</a><a href="https://doi.org/10.1609/aaai.v40i29.39656" target="_blank" rel="noopener">DOI</a></p>
+          <p class="pub-links"><a class="paper-button" href="https://doi.org/10.1109/ICCV51701.2025.00182" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/iccv/JianCWYWW25" target="_blank" rel="noopener">DBLP</a></p>
         </div>
       </li>
       <li class="pub-item">
@@ -136,29 +122,28 @@ title: Long-Tailed Vision and Multimodal AI
           <p class="pub-title">SimRP: Syntactic and Semantic Similarity Retrieval Prompting Enhances Aspect Sentiment Quad Prediction</p>
           <p class="pub-authors">Zhongquan Jian, <strong>Yanhao Chen</strong>, Jiajian Li, Shaopan Wang, Xiangjian Zeng, Junfeng Yao, Xinying An, Qingqiang Wu.</p>
           <p class="pub-venue">AAAI 2025 Main Track (CCF-A)</p>
-          <p class="pub-links"><a href="https://dblp.org/rec/conf/aaai/JianCLWZYA025" target="_blank" rel="noopener">DBLP</a><a href="https://doi.org/10.1609/aaai.v39i23.34601" target="_blank" rel="noopener">DOI</a></p>
-        </div>
-      </li>
-      <li class="pub-item">
-        <span class="pub-year">2026</span>
-        <div>
-          <p class="pub-title">MDF: A Modality-Aware Disentanglement and Fusion Framework for Multimodal Sentiment Analysis</p>
-          <p class="pub-authors">Z. Jian, W. Lv, <strong>Y. Chen</strong>, G. Luo, W. Qiu, S. Wang, B. Hu, Q. Wu.</p>
-          <p class="pub-venue">AAAI 2026 Main Track (CCF-A)</p>
-          <p class="pub-links"><a href="https://dblp.org/rec/conf/aaai/JianLCLQWHW26" target="_blank" rel="noopener">DBLP</a><a href="https://doi.org/10.1609/aaai.v40i37.40392" target="_blank" rel="noopener">DOI</a></p>
+          <p class="pub-links"><a class="paper-button" href="https://doi.org/10.1609/aaai.v39i23.34601" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/aaai/JianCLWZYA025" target="_blank" rel="noopener">DBLP</a></p>
         </div>
       </li>
       <li class="pub-item">
         <span class="pub-year">2025</span>
         <div>
           <p class="pub-title">Enhancing Information Extraction with METORIE: A Metaphor and Trap-Based Dataset for Cross-Domain Fine-Tuning</p>
-          <p class="pub-authors">Z. Pan, Y. Peng, Z. Jian, <strong>Y. Chen</strong>, W. Qiu, H. Ma, J. Yao, M. Wang, Q. Wu.</p>
+          <p class="pub-authors">Zhengyuan Pan, Yilian Peng, Zhongquan Jian, <strong>Yanhao Chen</strong>, Wentao Qiu, Haonan Ma, Junfeng Yao, Meihong Wang, Qingqiang Wu.</p>
           <p class="pub-venue">ICASSP 2025 Main Track (CCF-B)</p>
-          <p class="pub-links"><a href="https://dblp.org/rec/conf/icassp/PanPJCQMYW025" target="_blank" rel="noopener">DBLP</a><a href="https://doi.org/10.1109/ICASSP49660.2025.10890213" target="_blank" rel="noopener">DOI</a></p>
+          <p class="pub-links"><a class="paper-button" href="https://doi.org/10.1109/ICASSP49660.2025.10890213" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/icassp/PanPJCQMYW025" target="_blank" rel="noopener">DBLP</a></p>
+        </div>
+      </li>
+      <li class="pub-item">
+        <span class="pub-year">2024</span>
+        <div>
+          <p class="pub-title">HAUR: Human Annotation Understanding and Recognition Through Text-Heavy Images</p>
+          <p class="pub-authors">Yuchen Yang, Haoran Yan, <strong>Yanhao Chen</strong>, Qingqiang Wu, Qingqi Hong.</p>
+          <p class="pub-venue">CoRR abs/2412.18327</p>
+          <p class="pub-links"><a class="paper-button" href="https://doi.org/10.48550/arXiv.2412.18327" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/journals/corr/abs-2412-18327" target="_blank" rel="noopener">DBLP</a></p>
         </div>
       </li>
     </ol>
-    <p class="equal-note">* denotes equal contribution.</p>
   </section>
 
   <section id="service" class="section-panel service-panel animate-in delay-3">
