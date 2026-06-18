@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Trustworthy AI reasoning research visual</title>
+  <desc id="desc">Evidence, uncertainty, and structured reasoning combine into reliable AI answers.</desc>
+  <rect width="720" height="420" rx="18" fill="#f7faf9"/>
+  <rect x="32" y="32" width="656" height="356" rx="16" fill="#ffffff" stroke="#c9d8d2"/>
+  <text x="360" y="70" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#111318">Trustworthy AI Reasoning</text>
+  <g transform="translate(54 118)" font-family="Arial, sans-serif">
+    <rect x="0" y="72" width="116" height="72" rx="13" fill="#e0f2ee" stroke="#0f766e"/>
+    <text x="58" y="101" text-anchor="middle" font-size="16" font-weight="800" fill="#075b55">question</text>
+    <text x="58" y="124" text-anchor="middle" font-size="14" font-weight="700" fill="#303942">context</text>
+    <path d="M116 108 H170" stroke="#075b55" stroke-width="4" marker-end="url(#arrow)"/>
+    <g transform="translate(186 0)">
+      <rect width="132" height="56" rx="11" fill="#ffffff" stroke="#9fc7bf"/>
+      <rect y="78" width="132" height="56" rx="11" fill="#ffffff" stroke="#9fc7bf"/>
+      <rect y="156" width="132" height="56" rx="11" fill="#ffffff" stroke="#9fc7bf"/>
+      <text x="66" y="34" text-anchor="middle" font-size="16" font-weight="800" fill="#303942">evidence</text>
+      <text x="66" y="112" text-anchor="middle" font-size="16" font-weight="800" fill="#303942">uncertainty</text>
+      <text x="66" y="190" text-anchor="middle" font-size="16" font-weight="800" fill="#303942">structure</text>
+    </g>
+    <path d="M326 28 C350 34 358 50 366 66 M326 106 H366 M326 184 C350 176 358 160 366 142" stroke="#075b55" stroke-width="4" fill="none"/>
+    <g transform="translate(366 28)">
+      <circle cx="64" cy="78" r="64" fill="#f4fbf8" stroke="#9fc7bf" stroke-width="3"/>
+      <path d="M30 80 C45 48 83 48 98 80 C82 110 48 110 30 80Z" fill="#ffffff" stroke="#0f766e" stroke-width="4"/>
+      <circle cx="64" cy="80" r="16" fill="#0f766e"/>
+      <path d="M24 30 L104 126 M104 30 L24 126" stroke="#7fb9ad" stroke-width="3" opacity="0.75"/>
+      <text x="64" y="166" text-anchor="middle" font-size="15" font-weight="800" fill="#075b55">calibrated reasoning</text>
+    </g>
+    <path d="M496 106 H522" stroke="#075b55" stroke-width="4" marker-end="url(#arrow)"/>
+    <rect x="524" y="66" width="92" height="82" rx="14" fill="#e0f2ee" stroke="#0f766e"/>
+    <text x="570" y="101" text-anchor="middle" font-size="16" font-weight="800" fill="#075b55">reliable</text>
+    <text x="570" y="124" text-anchor="middle" font-size="16" font-weight="800" fill="#075b55">answer</text>
+  </g>
+  <text x="360" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#303942">Structured uncertainty supports reliable reasoning</text>
+  <defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#075b55"/></marker></defs>
+</svg>
