@@ -44,12 +44,12 @@ description: Academic homepage of Yanhao Chen
     </div>
     <ul class="news-list">
       <li>
-        <time datetime="2026-02-20">Feb 20, 2026</time>
-        <span><strong>CurrMix</strong> was accepted to CVPR 2026 Findings.</span>
+        <time datetime="2026-05-14">May 14, 2026</time>
+        <span>Recognized as an <strong>🏅 ICML 2026 Golden Reviewer</strong>.</span>
       </li>
       <li>
-        <time datetime="2026">2026</time>
-        <span>Recognized as an <strong>🏅 ICML 2026 Golden Reviewer</strong>.</span>
+        <time datetime="2026-02-20">Feb 20, 2026</time>
+        <span><strong>CurrMix</strong> was accepted to CVPR 2026 Findings.</span>
       </li>
       <li>
         <time datetime="2025-11-08">Nov 8, 2025</time>
