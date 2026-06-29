@@ -8,6 +8,7 @@ description: 陈颜皓的学术主页
   <nav class="site-nav" aria-label="主导航">
     <a class="nav-name" href="index-cn.html">学术主页</a>
     <div class="nav-links">
+      <a href="#news">最新动态</a>
       <a href="#research">研究方向</a>
       <a href="#education">教育背景</a>
       <a href="#papers">论文发表</a>
@@ -23,6 +24,11 @@ description: 陈颜皓的学术主页
       <h1>陈颜皓</h1>
       <p class="subtitle">我关注长尾视觉识别、多模态学习，以及面向可靠 AI 系统的可信推理。</p>
       <p class="contact-line">邮箱：<a href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a></p>
+      <div class="profile-links" aria-label="学术主页链接">
+        <a class="profile-link profile-link-primary" href="https://scholar.google.com/citations?user=lnCI0wQAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+        <a class="profile-link" href="https://dblp.org/pid/272/0581-2" target="_blank" rel="noopener">DBLP</a>
+        <a class="profile-link" href="https://orcid.org/0009-0000-1299-5971" target="_blank" rel="noopener">ORCID</a>
+      </div>
     </div>
     <figure class="hero-photo-wrap">
       <span class="hero-photo-frame">
@@ -32,7 +38,31 @@ description: 陈颜皓的学术主页
     </figure>
   </section>
 
-  <section id="research" class="section-panel research-panel animate-in delay-1">
+  <section id="news" class="section-panel news-panel animate-in delay-1">
+    <div class="section-heading">
+      <h2>最新动态</h2>
+    </div>
+    <ul class="news-list">
+      <li>
+        <time datetime="2026">2026</time>
+        <span><strong>Prototype Entropy Alignment</strong> 被 AAAI 2026 Main Track 录用为 Oral。</span>
+      </li>
+      <li>
+        <time datetime="2026">2026</time>
+        <span><strong>CurrMix</strong> 被 CVPR 2026 Findings 录用。</span>
+      </li>
+      <li>
+        <time datetime="2026">2026</time>
+        <span>获评 <strong>ICML 2026 Golden Reviewer</strong>。</span>
+      </li>
+      <li>
+        <time datetime="2025">2025</time>
+        <span><strong>Supervised Exploratory Learning</strong> 被 ICCV 2025 Main Track 录用。</span>
+      </li>
+    </ul>
+  </section>
+
+  <section id="research" class="section-panel research-panel animate-in delay-2">
     <div class="section-heading">
       <h2>研究方向</h2>
       <p>我的研究围绕类别不均衡下的表示学习、跨模态对齐，以及面向可靠 AI 系统的可信推理机制展开。</p>
@@ -67,7 +97,7 @@ description: 陈颜皓的学术主页
     </ul>
   </section>
 
-  <section id="education" class="section-panel animate-in delay-2">
+  <section id="education" class="section-panel animate-in delay-3">
     <div class="section-heading">
       <h2>教育背景</h2>
     </div>
