@@ -44,24 +44,24 @@ description: 陈颜皓的学术主页
     </div>
     <ul class="news-list">
       <li>
-        <time datetime="2026-02-20">2026.02.20</time>
-        <span><strong>CurrMix</strong> 被 CVPR 2026 Findings 录用。</span>
-      </li>
-      <li>
-        <time datetime="2026">2026</time>
+        <time datetime="2026-05-14">2026.05.14</time>
         <span>获评 <strong>🏅 ICML 2026 Golden Reviewer</strong>。</span>
       </li>
       <li>
+        <time datetime="2026-02-20">2026.02.20</time>
+        <span>论文 <strong>CurrMix: Curriculum-Enhanced MixUp for Long-Tailed Visual Recognition</strong> 被 CVPR 2026 Findings 录用。</span>
+      </li>
+      <li>
         <time datetime="2025-11-08">2025.11.08</time>
-        <span><strong>Prototype Entropy Alignment</strong> 被 AAAI 2026 Main Track 录用为 Oral。</span>
+        <span>论文 <strong>Prototype Entropy Alignment: Reinforcing Structured Uncertainty in LLM Reasoning</strong> 被 AAAI 2026 Main Track 录用为 Oral。</span>
       </li>
       <li>
         <time datetime="2025-06-25">2025.06.25</time>
-        <span><strong>Supervised Exploratory Learning</strong> 被 ICCV 2025 Main Track 录用。</span>
+        <span>论文 <strong>Supervised Exploratory Learning for Long-Tailed Visual Recognition</strong> 被 ICCV 2025 Main Track 录用。</span>
       </li>
       <li>
         <time datetime="2025-04-28">2025.04.28</time>
-        <span><strong>Enhancing Mixture of Experts with Independent and Collaborative Learning</strong> 被 IJCAI 2025 Main Track 录用。</span>
+        <span>论文 <strong>Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition</strong> 被 IJCAI 2025 Main Track 录用。</span>
       </li>
     </ul>
   </section>
