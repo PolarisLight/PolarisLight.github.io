@@ -8,6 +8,7 @@ description: Academic homepage of Yanhao Chen
   <nav class="site-nav" aria-label="Primary navigation">
     <a class="nav-name" href="index.html">Academic Homepage</a>
     <div class="nav-links">
+      <a href="#news">News</a>
       <a href="#research">Research</a>
       <a href="#education">Education</a>
       <a href="#papers">Publications</a>
@@ -23,6 +24,11 @@ description: Academic homepage of Yanhao Chen
       <h1>Yanhao Chen</h1>
       <p class="subtitle">I study long-tailed vision, multimodal learning, and trustworthy reasoning for robust AI systems.</p>
       <p class="contact-line">Email: <a href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a></p>
+      <div class="profile-links" aria-label="Academic profiles">
+        <a class="profile-link profile-link-primary" href="https://scholar.google.com/citations?user=lnCI0wQAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+        <a class="profile-link" href="https://dblp.org/pid/272/0581-2" target="_blank" rel="noopener">DBLP</a>
+        <a class="profile-link" href="https://orcid.org/0009-0000-1299-5971" target="_blank" rel="noopener">ORCID</a>
+      </div>
     </div>
     <figure class="hero-photo-wrap">
       <span class="hero-photo-frame">
@@ -32,7 +38,31 @@ description: Academic homepage of Yanhao Chen
     </figure>
   </section>
 
-  <section id="research" class="section-panel research-panel animate-in delay-1">
+  <section id="news" class="section-panel news-panel animate-in delay-1">
+    <div class="section-heading">
+      <h2>News</h2>
+    </div>
+    <ul class="news-list">
+      <li>
+        <time datetime="2026">2026</time>
+        <span><strong>Prototype Entropy Alignment</strong> was accepted to AAAI 2026 Main Track as an Oral presentation.</span>
+      </li>
+      <li>
+        <time datetime="2026">2026</time>
+        <span><strong>CurrMix</strong> was accepted to CVPR 2026 Findings.</span>
+      </li>
+      <li>
+        <time datetime="2026">2026</time>
+        <span>Recognized as an <strong>ICML 2026 Golden Reviewer</strong>.</span>
+      </li>
+      <li>
+        <time datetime="2025">2025</time>
+        <span><strong>Supervised Exploratory Learning</strong> was accepted to ICCV 2025 Main Track.</span>
+      </li>
+    </ul>
+  </section>
+
+  <section id="research" class="section-panel research-panel animate-in delay-2">
     <div class="section-heading">
       <h2>Research Interests</h2>
       <p>My work focuses on representation learning under imbalance, cross-modal alignment, and trustworthy reasoning for reliable AI systems.</p>
@@ -67,7 +97,7 @@ description: Academic homepage of Yanhao Chen
     </ul>
   </section>
 
-  <section id="education" class="section-panel animate-in delay-2">
+  <section id="education" class="section-panel animate-in delay-3">
     <div class="section-heading">
       <h2>Education</h2>
     </div>
