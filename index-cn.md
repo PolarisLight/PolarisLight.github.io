@@ -134,7 +134,7 @@ description: 陈颜皓的学术主页
           <p class="pub-title">Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition</p>
           <p class="pub-authors"><strong>Y. Chen*</strong>, Z. Jian*, N. Ke, S. Hu, J. Jiao, Q. Hong, Q. Wu.</p>
           <p class="pub-venue">IJCAI 2025 Main Track（CCF-A）</p>
-          <p class="pub-links"><a class="paper-button" href="https://www.ijcai.org/proceedings/2025/0093.pdf" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/ijcai/ChenJKHJH025" target="_blank" rel="noopener">DBLP</a></p>
+          <p class="pub-links"><a class="paper-button" href="https://www.ijcai.org/proceedings/2025/93" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://www.ijcai.org/proceedings/2025/0093.pdf" target="_blank" rel="noopener">PDF</a><a class="secondary-link" href="https://dblp.org/rec/conf/ijcai/ChenJKHJH025" target="_blank" rel="noopener">DBLP</a></p>
         </div>
       </li>
       <li class="pub-item">
@@ -144,7 +144,7 @@ description: 陈颜皓的学术主页
           <p class="pub-title">Supervised Exploratory Learning for Long-Tailed Visual Recognition</p>
           <p class="pub-authors">Z. Jian*, <strong>Y. Chen*</strong>, Y. Wang, J. Yao, M. Wang, Q. Wu.</p>
           <p class="pub-venue">ICCV 2025 Main Track（CCF-A）</p>
-          <p class="pub-links"><a class="paper-button" href="https://openaccess.thecvf.com/content/ICCV2025/papers/Jian_Supervised_Exploratory_Learning_for_Long-Tailed_Visual_Recognition_ICCV_2025_paper.pdf" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/iccv/JianCWYWW25" target="_blank" rel="noopener">DBLP</a></p>
+          <p class="pub-links"><a class="paper-button" href="https://openaccess.thecvf.com/content/ICCV2025/html/Jian_Supervised_Exploratory_Learning_for_Long-Tailed_Visual_Recognition_ICCV_2025_paper.html" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://openaccess.thecvf.com/content/ICCV2025/papers/Jian_Supervised_Exploratory_Learning_for_Long-Tailed_Visual_Recognition_ICCV_2025_paper.pdf" target="_blank" rel="noopener">PDF</a><a class="secondary-link" href="https://dblp.org/rec/conf/iccv/JianCWYWW25" target="_blank" rel="noopener">DBLP</a></p>
         </div>
       </li>
       <li class="pub-item">
@@ -154,7 +154,7 @@ description: 陈颜皓的学术主页
           <p class="pub-title">CurrMix: Curriculum-Enhanced MixUp for Long-Tailed Visual Recognition</p>
           <p class="pub-authors">Z. Jian*, <strong>Y. Chen*</strong>, B. Hu, W. Lv, S. Wang, J. Wu, J. Yao, Y. Lu, Q. Wu.</p>
           <p class="pub-venue">CVPR 2026 Findings</p>
-          <p class="pub-links"><span class="paper-button paper-button-disabled" aria-disabled="true">Paper pending</span></p>
+          <p class="pub-links"><a class="paper-button" href="https://openaccess.thecvf.com/content/CVPR2026F/html/Jian_CurrMix_Curriculum-Enhanced_MixUp_for_Long-Tailed_Visual_Recognition_CVPRF_2026_paper.html" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://openaccess.thecvf.com/content/CVPR2026F/papers/Jian_CurrMix_Curriculum-Enhanced_MixUp_for_Long-Tailed_Visual_Recognition_CVPRF_2026_paper.pdf" target="_blank" rel="noopener">PDF</a></p>
         </div>
       </li>
       <li class="pub-item">
@@ -164,7 +164,7 @@ description: 陈颜皓的学术主页
           <p class="pub-title">Prototype Entropy Alignment: Reinforcing Structured Uncertainty in LLM Reasoning</p>
           <p class="pub-authors">Z. Pan*, <strong>Y. Chen*</strong>, Z. Jian, W. Zhao, H. Ma, M. Wang, Q. Wu.</p>
           <p class="pub-venue">AAAI 2026 Main Track（CCF-A，Oral）</p>
-          <p class="pub-links"><a class="paper-button" href="https://ojs.aaai.org/index.php/AAAI/article/download/39656/43617" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/aaai/PanCJZMWW26" target="_blank" rel="noopener">DBLP</a></p>
+          <p class="pub-links"><a class="paper-button" href="https://ojs.aaai.org/index.php/AAAI/article/view/39656" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://ojs.aaai.org/index.php/AAAI/article/download/39656/43617" target="_blank" rel="noopener">PDF</a><a class="secondary-link" href="https://dblp.org/rec/conf/aaai/PanCJZMWW26" target="_blank" rel="noopener">DBLP</a></p>
         </div>
       </li>
       <li class="pub-item">
@@ -174,7 +174,7 @@ description: 陈颜皓的学术主页
           <p class="pub-title">SimRP: Syntactic and Semantic Similarity Retrieval Prompting Enhances Aspect Sentiment Quad Prediction</p>
           <p class="pub-authors">Z. Jian, <strong>Y. Chen</strong>, J. Li, S. Wang, X. Zeng, J. Yao, X. An, Q. Wu.</p>
           <p class="pub-venue">AAAI 2025 Main Track（CCF-A）</p>
-          <p class="pub-links"><a class="paper-button" href="https://ojs.aaai.org/index.php/AAAI/article/download/34601/36756" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/aaai/JianCLWZYA025" target="_blank" rel="noopener">DBLP</a></p>
+          <p class="pub-links"><a class="paper-button" href="https://ojs.aaai.org/index.php/AAAI/article/view/34601" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://ojs.aaai.org/index.php/AAAI/article/download/34601/36756" target="_blank" rel="noopener">PDF</a><a class="secondary-link" href="https://dblp.org/rec/conf/aaai/JianCLWZYA025" target="_blank" rel="noopener">DBLP</a></p>
         </div>
       </li>
       <li class="pub-item">
@@ -184,7 +184,7 @@ description: 陈颜皓的学术主页
           <p class="pub-title">MDF: A Modality-Aware Disentanglement and Fusion Framework for Multimodal Sentiment Analysis</p>
           <p class="pub-authors">Z. Jian, W. Lv, <strong>Y. Chen</strong>, G. Luo, W. Qiu, S. Wang, B. Hu, Q. Wu.</p>
           <p class="pub-venue">AAAI 2026 Main Track（CCF-A）</p>
-          <p class="pub-links"><a class="paper-button" href="https://ojs.aaai.org/index.php/AAAI/article/download/40392/44353" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://dblp.org/rec/conf/aaai/JianLCLQWHW26" target="_blank" rel="noopener">DBLP</a></p>
+          <p class="pub-links"><a class="paper-button" href="https://ojs.aaai.org/index.php/AAAI/article/view/40392" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://ojs.aaai.org/index.php/AAAI/article/download/40392/44353" target="_blank" rel="noopener">PDF</a><a class="secondary-link" href="https://dblp.org/rec/conf/aaai/JianLCLQWHW26" target="_blank" rel="noopener">DBLP</a></p>
         </div>
       </li>
       <li class="pub-item">
