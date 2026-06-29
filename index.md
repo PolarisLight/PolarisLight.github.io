@@ -45,23 +45,23 @@ description: Academic homepage of Yanhao Chen
     <ul class="news-list">
       <li>
         <time datetime="2026-05-14">May 14, 2026</time>
-        <span>Recognized as an <strong>🏅 ICML 2026 Golden Reviewer</strong>.</span>
+        <span>🏅 Recognized as an <strong>ICML 2026 Golden Reviewer</strong>.</span>
       </li>
       <li>
         <time datetime="2026-02-20">Feb 20, 2026</time>
-        <span>The paper <strong>CurrMix: Curriculum-Enhanced MixUp for Long-Tailed Visual Recognition</strong> was accepted to CVPR 2026 Findings.</span>
+        <span>🎉 The paper <strong>CurrMix: Curriculum-Enhanced MixUp for Long-Tailed Visual Recognition</strong> was accepted to CVPR 2026 Findings.</span>
       </li>
       <li>
         <time datetime="2025-11-08">Nov 8, 2025</time>
-        <span>The paper <strong>Prototype Entropy Alignment: Reinforcing Structured Uncertainty in LLM Reasoning</strong> was accepted to AAAI 2026 Main Track as an Oral presentation.</span>
+        <span>🌟 The paper <strong>Prototype Entropy Alignment: Reinforcing Structured Uncertainty in LLM Reasoning</strong> was accepted to AAAI 2026 Main Track as an Oral presentation.</span>
       </li>
       <li>
         <time datetime="2025-06-25">Jun 25, 2025</time>
-        <span>The paper <strong>Supervised Exploratory Learning for Long-Tailed Visual Recognition</strong> was accepted to ICCV 2025 Main Track.</span>
+        <span>📸 The paper <strong>Supervised Exploratory Learning for Long-Tailed Visual Recognition</strong> was accepted to ICCV 2025 Main Track.</span>
       </li>
       <li>
         <time datetime="2025-04-28">Apr 28, 2025</time>
-        <span>The paper <strong>Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition</strong> was accepted to IJCAI 2025 Main Track.</span>
+        <span>🤝 The paper <strong>Enhancing Mixture of Experts with Independent and Collaborative Learning for Long-Tail Visual Recognition</strong> was accepted to IJCAI 2025 Main Track.</span>
       </li>
     </ul>
   </section>
