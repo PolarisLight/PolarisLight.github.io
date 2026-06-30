@@ -128,7 +128,7 @@ description: 陈颜皓的学术主页
     </div>
     <div class="pub-filter-bar" data-publication-filters data-target="#publication-list" role="group" aria-label="论文筛选">
       <button class="pub-filter-button is-active" type="button" data-pub-filter="all" aria-pressed="true">全部</button>
-      <button class="pub-filter-button" type="button" data-pub-filter="first-cofirst" aria-pressed="false">一作/共一</button>
+      <button class="pub-filter-button" type="button" data-pub-filter="first-cofirst" aria-pressed="false">一作</button>
       <button class="pub-filter-button" type="button" data-pub-filter="long-tail" aria-pressed="false">长尾识别</button>
       <button class="pub-filter-button" type="button" data-pub-filter="reasoning" aria-pressed="false">推理</button>
       <button class="pub-filter-button" type="button" data-pub-filter="multimodal-nlp" aria-pressed="false">多模态/NLP</button>
