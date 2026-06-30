@@ -124,18 +124,17 @@ description: 陈颜皓的学术主页
   <section id="papers" class="section-panel publications-panel animate-in delay-3">
     <div class="section-heading">
       <h2>论文发表</h2>
-      <p>以下为代表性工作，覆盖长尾视觉识别、多模态学习与大语言模型推理。</p>
+      <p>论文覆盖长尾视觉识别、多模态学习与大语言模型推理。</p>
     </div>
     <div class="pub-filter-bar" data-publication-filters data-target="#publication-list" role="group" aria-label="论文筛选">
-      <button class="pub-filter-button is-active" type="button" data-pub-filter="selected" aria-pressed="true">精选</button>
+      <button class="pub-filter-button is-active" type="button" data-pub-filter="all" aria-pressed="true">全部</button>
       <button class="pub-filter-button" type="button" data-pub-filter="first-cofirst" aria-pressed="false">一作/共一</button>
       <button class="pub-filter-button" type="button" data-pub-filter="long-tail" aria-pressed="false">长尾识别</button>
       <button class="pub-filter-button" type="button" data-pub-filter="reasoning" aria-pressed="false">推理</button>
       <button class="pub-filter-button" type="button" data-pub-filter="multimodal-nlp" aria-pressed="false">多模态/NLP</button>
-      <button class="pub-filter-button" type="button" data-pub-filter="all" aria-pressed="false">全部</button>
     </div>
-    <ol id="publication-list" class="pub-list" data-default-filter="selected">
-      <li class="pub-item" data-pub-tags="selected first-cofirst long-tail">
+    <ol id="publication-list" class="pub-list" data-default-filter="all">
+      <li class="pub-item" data-pub-tags="first-cofirst long-tail">
         <figure class="pub-figure-wrap"><img src="/assets/img/papers/ijcai-moe.svg" alt="独立与协同 MoE 学习示意图"></figure>
         <span class="pub-year">2025</span>
         <div class="pub-body">
@@ -145,7 +144,7 @@ description: 陈颜皓的学术主页
           <p class="pub-links"><a class="paper-button" href="https://www.ijcai.org/proceedings/2025/93" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://github.com/PolarisLight/ICL" target="_blank" rel="noopener">Code</a></p>
         </div>
       </li>
-      <li class="pub-item" data-pub-tags="selected first-cofirst long-tail">
+      <li class="pub-item" data-pub-tags="first-cofirst long-tail">
         <figure class="pub-figure-wrap"><img src="/assets/img/papers/iccv-sel.svg" alt="监督式探索学习示意图"></figure>
         <span class="pub-year">2025</span>
         <div class="pub-body">
@@ -155,7 +154,7 @@ description: 陈颜皓的学术主页
           <p class="pub-links"><a class="paper-button" href="https://openaccess.thecvf.com/content/ICCV2025/html/Jian_Supervised_Exploratory_Learning_for_Long-Tailed_Visual_Recognition_ICCV_2025_paper.html" target="_blank" rel="noopener">Paper</a></p>
         </div>
       </li>
-      <li class="pub-item" data-pub-tags="selected first-cofirst long-tail">
+      <li class="pub-item" data-pub-tags="first-cofirst long-tail">
         <figure class="pub-figure-wrap"><img src="/assets/img/papers/currmix.svg" alt="CurrMix 课程增强 MixUp 示意图"></figure>
         <span class="pub-year">2026</span>
         <div class="pub-body">
