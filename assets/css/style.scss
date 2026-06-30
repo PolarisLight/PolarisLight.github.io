@@ -457,9 +457,69 @@ body {
   border-top-color: rgba(15, 118, 110, 0.28);
 }
 
+.pub-filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: -10px 0 22px;
+}
+
+.pub-filter-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 34px;
+  padding: 6px 13px;
+  border: 1px solid var(--line-strong);
+  border-radius: 999px;
+  background: #ffffff;
+  color: var(--accent-deep);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.9rem;
+  font-weight: 840;
+  line-height: 1;
+  white-space: nowrap;
+  transition: border-color 180ms ease, background 180ms ease, color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+}
+
+.pub-filter-button:hover,
+.pub-filter-button:focus-visible {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  color: var(--text-main);
+  transform: translateY(-1px);
+}
+
+.pub-filter-button:active {
+  transform: translateY(1px);
+}
+
+.pub-filter-button.is-active,
+.pub-filter-button[aria-pressed="true"] {
+  border-color: var(--accent-deep);
+  background: var(--accent-deep);
+  color: #ffffff;
+  box-shadow: 0 8px 18px rgba(15, 118, 110, 0.16);
+}
+
+.pub-filter-button.is-active:hover,
+.pub-filter-button[aria-pressed="true"]:hover,
+.pub-filter-button.is-active:focus-visible,
+.pub-filter-button[aria-pressed="true"]:focus-visible {
+  border-color: var(--text-main);
+  background: var(--text-main);
+  color: #ffffff;
+}
+
 .pub-list {
   display: grid;
   gap: 14px;
+}
+
+.pub-list[data-default-filter="selected"]:not([data-filter-ready="true"]) .pub-item:not([data-pub-tags~="selected"]),
+.pub-item[hidden] {
+  display: none !important;
 }
 
 .pub-item {
@@ -769,6 +829,16 @@ body {
     gap: 10px;
   }
 
+  .pub-filter-bar {
+    margin-bottom: 18px;
+  }
+
+  .pub-filter-button {
+    min-height: 32px;
+    padding: 6px 11px;
+    font-size: 0.84rem;
+  }
+
   .pub-figure-wrap img {
     aspect-ratio: 16 / 9;
   }
@@ -798,6 +868,7 @@ body {
 
   .nav-links a,
   .profile-link,
+  .pub-filter-button,
   .pub-item,
   .pub-links a,
   .pub-links span {
