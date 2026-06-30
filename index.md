@@ -126,8 +126,16 @@ description: Academic homepage of Yanhao Chen
       <h2>Publications</h2>
       <p>Selected work in long-tailed visual recognition, multimodal learning, and language-model reasoning.</p>
     </div>
-    <ol class="pub-list">
-      <li class="pub-item">
+    <div class="pub-filter-bar" data-publication-filters data-target="#publication-list" role="group" aria-label="Publication filters">
+      <button class="pub-filter-button is-active" type="button" data-pub-filter="selected" aria-pressed="true">Selected</button>
+      <button class="pub-filter-button" type="button" data-pub-filter="first-cofirst" aria-pressed="false">First &amp; Co-first</button>
+      <button class="pub-filter-button" type="button" data-pub-filter="long-tail" aria-pressed="false">Long-tail</button>
+      <button class="pub-filter-button" type="button" data-pub-filter="reasoning" aria-pressed="false">Reasoning</button>
+      <button class="pub-filter-button" type="button" data-pub-filter="multimodal-nlp" aria-pressed="false">Multimodal / NLP</button>
+      <button class="pub-filter-button" type="button" data-pub-filter="all" aria-pressed="false">All</button>
+    </div>
+    <ol id="publication-list" class="pub-list" data-default-filter="selected">
+      <li class="pub-item" data-pub-tags="selected first-cofirst long-tail">
         <figure class="pub-figure-wrap"><img src="/assets/img/papers/ijcai-moe.svg" alt="Visual summary for independent and collaborative mixture-of-experts learning"></figure>
         <span class="pub-year">2025</span>
         <div class="pub-body">
@@ -137,7 +145,7 @@ description: Academic homepage of Yanhao Chen
           <p class="pub-links"><a class="paper-button" href="https://www.ijcai.org/proceedings/2025/93" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://github.com/PolarisLight/ICL" target="_blank" rel="noopener">Code</a></p>
         </div>
       </li>
-      <li class="pub-item">
+      <li class="pub-item" data-pub-tags="selected first-cofirst long-tail">
         <figure class="pub-figure-wrap"><img src="/assets/img/papers/iccv-sel.svg" alt="Visual summary for supervised exploratory learning"></figure>
         <span class="pub-year">2025</span>
         <div class="pub-body">
@@ -147,7 +155,7 @@ description: Academic homepage of Yanhao Chen
           <p class="pub-links"><a class="paper-button" href="https://openaccess.thecvf.com/content/ICCV2025/html/Jian_Supervised_Exploratory_Learning_for_Long-Tailed_Visual_Recognition_ICCV_2025_paper.html" target="_blank" rel="noopener">Paper</a></p>
         </div>
       </li>
-      <li class="pub-item">
+      <li class="pub-item" data-pub-tags="selected first-cofirst long-tail">
         <figure class="pub-figure-wrap"><img src="/assets/img/papers/currmix.svg" alt="Visual summary for curriculum-enhanced MixUp"></figure>
         <span class="pub-year">2026</span>
         <div class="pub-body">
@@ -157,7 +165,7 @@ description: Academic homepage of Yanhao Chen
           <p class="pub-links"><a class="paper-button" href="https://openaccess.thecvf.com/content/CVPR2026F/html/Jian_CurrMix_Curriculum-Enhanced_MixUp_for_Long-Tailed_Visual_Recognition_CVPRF_2026_paper.html" target="_blank" rel="noopener">Paper</a></p>
         </div>
       </li>
-      <li class="pub-item">
+      <li class="pub-item" data-pub-tags="first-cofirst reasoning">
         <figure class="pub-figure-wrap"><img src="/assets/img/papers/aaai-pea.svg" alt="Visual summary for prototype entropy alignment"></figure>
         <span class="pub-year">2026</span>
         <div class="pub-body">
@@ -167,7 +175,7 @@ description: Academic homepage of Yanhao Chen
           <p class="pub-links"><a class="paper-button" href="https://ojs.aaai.org/index.php/AAAI/article/view/39656" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://github.com/scut-pzy/PEA_verl_unsloth" target="_blank" rel="noopener">Code</a></p>
         </div>
       </li>
-      <li class="pub-item">
+      <li class="pub-item" data-pub-tags="multimodal-nlp">
         <figure class="pub-figure-wrap"><img src="/assets/img/papers/aaai-simrp.svg" alt="Visual summary for syntactic and semantic similarity retrieval prompting"></figure>
         <span class="pub-year">2025</span>
         <div class="pub-body">
@@ -177,7 +185,7 @@ description: Academic homepage of Yanhao Chen
           <p class="pub-links"><a class="paper-button" href="https://ojs.aaai.org/index.php/AAAI/article/view/34601" target="_blank" rel="noopener">Paper</a><a class="secondary-link" href="https://github.com/jian-projects/simrp" target="_blank" rel="noopener">Code</a></p>
         </div>
       </li>
-      <li class="pub-item">
+      <li class="pub-item" data-pub-tags="multimodal-nlp">
         <figure class="pub-figure-wrap"><img src="/assets/img/papers/aaai-mdf.svg" alt="Visual summary for modality-aware disentanglement and fusion"></figure>
         <span class="pub-year">2026</span>
         <div class="pub-body">
@@ -187,7 +195,7 @@ description: Academic homepage of Yanhao Chen
           <p class="pub-links"><a class="paper-button" href="https://ojs.aaai.org/index.php/AAAI/article/view/40392" target="_blank" rel="noopener">Paper</a></p>
         </div>
       </li>
-      <li class="pub-item">
+      <li class="pub-item" data-pub-tags="multimodal-nlp">
         <figure class="pub-figure-wrap"><img src="/assets/img/papers/icassp-metorie.svg" alt="Visual summary for METORIE information extraction"></figure>
         <span class="pub-year">2025</span>
         <div class="pub-body">
@@ -230,3 +238,39 @@ description: Academic homepage of Yanhao Chen
     </ul>
   </section>
 </div>
+
+<script>
+(function () {
+  const groups = document.querySelectorAll("[data-publication-filters]");
+
+  groups.forEach((group) => {
+    const list = document.querySelector(group.dataset.target);
+    if (!list) return;
+
+    const buttons = group.querySelectorAll("[data-pub-filter]");
+    const items = list.querySelectorAll(".pub-item");
+
+    function applyFilter(filter) {
+      list.dataset.filterReady = "true";
+
+      items.forEach((item) => {
+        const tags = (item.dataset.pubTags || "").split(/\s+/);
+        item.hidden = filter !== "all" && !tags.includes(filter);
+      });
+
+      buttons.forEach((button) => {
+        const active = button.dataset.pubFilter === filter;
+        button.classList.toggle("is-active", active);
+        button.setAttribute("aria-pressed", active ? "true" : "false");
+      });
+    }
+
+    buttons.forEach((button) => {
+      button.addEventListener("click", () => applyFilter(button.dataset.pubFilter));
+    });
+
+    const initial = group.querySelector('[aria-pressed="true"]') || buttons[0];
+    if (initial) applyFilter(initial.dataset.pubFilter);
+  });
+}());
+</script>
