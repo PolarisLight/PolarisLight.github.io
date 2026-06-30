@@ -128,7 +128,7 @@ description: Academic homepage of Yanhao Chen
     </div>
     <div class="pub-filter-bar" data-publication-filters data-target="#publication-list" role="group" aria-label="Publication filters">
       <button class="pub-filter-button is-active" type="button" data-pub-filter="all" aria-pressed="true">All</button>
-      <button class="pub-filter-button" type="button" data-pub-filter="first-cofirst" aria-pressed="false">First &amp; Co-first</button>
+      <button class="pub-filter-button" type="button" data-pub-filter="first-cofirst" aria-pressed="false">First Author</button>
       <button class="pub-filter-button" type="button" data-pub-filter="long-tail" aria-pressed="false">Long-tail</button>
       <button class="pub-filter-button" type="button" data-pub-filter="reasoning" aria-pressed="false">Reasoning</button>
       <button class="pub-filter-button" type="button" data-pub-filter="multimodal-nlp" aria-pressed="false">Multimodal / NLP</button>
