@@ -44,6 +44,10 @@ description: 陈颜皓的学术主页
     </div>
     <ul class="news-list">
       <li>
+        <time datetime="2026-07-10">2026.07.10</time>
+        <span>✨ 论文 <strong>Local Manifold Sensitivity and Regularization in Long-Tailed Recognition</strong> 被 ACM MM 2026 录用。</span>
+      </li>
+      <li>
         <time datetime="2026-05-14">2026.05.14</time>
         <span>🏅 获评 <strong>ICML 2026 Golden Reviewer</strong>。</span>
       </li>
@@ -134,6 +138,16 @@ description: 陈颜皓的学术主页
       <button class="pub-filter-button" type="button" data-pub-filter="multimodal-nlp" aria-pressed="false">多模态/NLP</button>
     </div>
     <ol id="publication-list" class="pub-list" data-default-filter="all">
+      <li class="pub-item" data-pub-tags="first-cofirst long-tail">
+        <figure class="pub-figure-wrap"><img src="/assets/img/papers/acmmm-lms.svg" alt="Local Manifold Sensitivity 示意图"></figure>
+        <span class="pub-year">2026</span>
+        <div class="pub-body">
+          <p class="pub-title">Local Manifold Sensitivity and Regularization in Long-Tailed Recognition</p>
+          <p class="pub-authors"><strong>Y. Chen*</strong>, Z. Pan*, S. Hu, J. Jiao, X. Chen, Z. Jian, Q. Wu.</p>
+          <p class="pub-venue">ACM MM 2026（CCF-A）</p>
+          <p class="pub-links"><span class="paper-button-disabled">Paper 待更新</span></p>
+        </div>
+      </li>
       <li class="pub-item" data-pub-tags="first-cofirst long-tail">
         <figure class="pub-figure-wrap"><img src="/assets/img/papers/ijcai-moe.svg" alt="独立与协同 MoE 学习示意图"></figure>
         <span class="pub-year">2025</span>
