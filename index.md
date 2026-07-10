@@ -44,6 +44,10 @@ description: Academic homepage of Yanhao Chen
     </div>
     <ul class="news-list">
       <li>
+        <time datetime="2026-07-10">Jul 10, 2026</time>
+        <span>✨ The paper <strong>Local Manifold Sensitivity and Regularization in Long-Tailed Recognition</strong> was accepted to ACM MM 2026.</span>
+      </li>
+      <li>
         <time datetime="2026-05-14">May 14, 2026</time>
         <span>🏅 Recognized as an <strong>ICML 2026 Golden Reviewer</strong>.</span>
       </li>
@@ -134,6 +138,16 @@ description: Academic homepage of Yanhao Chen
       <button class="pub-filter-button" type="button" data-pub-filter="multimodal-nlp" aria-pressed="false">Multimodal / NLP</button>
     </div>
     <ol id="publication-list" class="pub-list" data-default-filter="all">
+      <li class="pub-item" data-pub-tags="first-cofirst long-tail">
+        <figure class="pub-figure-wrap"><img src="/assets/img/papers/acmmm-lms.svg" alt="Visual summary for local manifold sensitivity and regularization"></figure>
+        <span class="pub-year">2026</span>
+        <div class="pub-body">
+          <p class="pub-title">Local Manifold Sensitivity and Regularization in Long-Tailed Recognition</p>
+          <p class="pub-authors"><strong>Y. Chen*</strong>, Z. Pan*, S. Hu, J. Jiao, X. Chen, Z. Jian, Q. Wu.</p>
+          <p class="pub-venue">ACM MM 2026 (CCF-A)</p>
+          <p class="pub-links"><span class="paper-button-disabled">Paper coming soon</span></p>
+        </div>
+      </li>
       <li class="pub-item" data-pub-tags="first-cofirst long-tail">
         <figure class="pub-figure-wrap"><img src="/assets/img/papers/ijcai-moe.svg" alt="Visual summary for independent and collaborative mixture-of-experts learning"></figure>
         <span class="pub-year">2025</span>
