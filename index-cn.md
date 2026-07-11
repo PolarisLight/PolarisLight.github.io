@@ -52,6 +52,10 @@ description: 陈颜皓的学术主页
         <span>🏅 获评 <strong>ICML 2026 Golden Reviewer</strong>。</span>
       </li>
       <li>
+        <time datetime="2026-03-21">2026.03.21</time>
+        <span>🧑‍🏫 两篇由我指导的学生主导论文被 IJCNN 2026 录用。</span>
+      </li>
+      <li>
         <time datetime="2026-02-20">2026.02.20</time>
         <span>✨ 论文 <strong>CurrMix: Curriculum-Enhanced MixUp for Long-Tailed Visual Recognition</strong> 被 CVPR 2026 Findings 录用。</span>
       </li>
@@ -216,6 +220,26 @@ description: 陈颜皓的学术主页
           <p class="pub-authors">Z. Pan, Y. Peng, Z. Jian, <strong>Y. Chen</strong>, W. Qiu, H. Ma, J. Yao, M. Wang, Q. Wu.</p>
           <p class="pub-venue">ICASSP 2025 Main Track（CCF-B）</p>
           <p class="pub-links"><a class="paper-button" href="https://doi.org/10.1109/ICASSP49660.2025.10890213" target="_blank" rel="noopener">Paper</a></p>
+        </div>
+      </li>
+      <li class="pub-item" data-pub-tags="first-cofirst multimodal-nlp">
+        <figure class="pub-figure-wrap"><img src="/assets/img/papers/ijcnn-aem45k.svg" alt="AEM45K 学生美术审美评估示意图"></figure>
+        <span class="pub-year">2026</span>
+        <div class="pub-body">
+          <p class="pub-title">AEM45K: A Large-scale Multimodal Dataset and Method for Aesthetic Assessment of Student Artwork in Middle-school Education</p>
+          <p class="pub-authors">S. Hu*, <strong>Y. Chen*</strong>, Y. Liu, R. Liang, J. Jiao, J. Jin, W. Liu, Y. Zhang, L. Wang, Q. Wu.</p>
+          <p class="pub-venue">IJCNN 2026（CCF-C）</p>
+          <p class="pub-links"><span class="paper-button-disabled">Paper 待更新</span></p>
+        </div>
+      </li>
+      <li class="pub-item" data-pub-tags="long-tail">
+        <figure class="pub-figure-wrap"><img src="/assets/img/papers/ijcnn-medseg-moe.svg" alt="医学分割 Prototypical MoE 示意图"></figure>
+        <span class="pub-year">2026</span>
+        <div class="pub-body">
+          <p class="pub-title">Tackling Mask Imbalance: Prototypical Mixture-of-Experts with Hardness-Aware Mining for Medical Segmentation</p>
+          <p class="pub-authors">J. Jiao, G. Liu, <strong>Y. Chen</strong>, S. Hu, W. Liu, Y. Zhang, L. Wang, Q. Wu.</p>
+          <p class="pub-venue">IJCNN 2026（CCF-C）</p>
+          <p class="pub-links"><span class="paper-button-disabled">Paper 待更新</span></p>
         </div>
       </li>
     </ol>
