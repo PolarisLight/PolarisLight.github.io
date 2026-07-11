@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">AEM45K visual</title>
+  <desc id="desc">Diagrammatic thumbnail for a multimodal student artwork aesthetic assessment dataset and method.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#075b55"/></marker>
+  </defs>
+  <rect width="720" height="420" rx="18" fill="#f7faf9"/>
+  <rect x="24" y="24" width="672" height="372" rx="14" fill="#ffffff" stroke="#c9d8d2"/>
+  <text x="360" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="800" fill="#111318">AEM45K Student Artwork Assessment</text>
+
+  <g transform="translate(54 92)">
+    <rect width="170" height="214" rx="12" fill="#fbfdfc" stroke="#d9e2df"/>
+    <text x="85" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="800" fill="#075b55">Artwork Dataset</text>
+    <g transform="translate(28 52)">
+      <rect width="48" height="42" rx="6" fill="#fff1e2" stroke="#f0bf88"/>
+      <path d="M8 30 C18 14 30 24 40 10" fill="none" stroke="#d98774" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="34" cy="13" r="5" fill="#f0bf88"/>
+      <rect x="66" width="48" height="42" rx="6" fill="#e0f2ee" stroke="#9fc7bf"/>
+      <path d="M74 26 L88 12 L104 30" fill="none" stroke="#0f766e" stroke-width="4" stroke-linecap="round"/>
+      <rect y="58" width="48" height="42" rx="6" fill="#f7faf9" stroke="#9fc7bf"/>
+      <circle cx="18" cy="78" r="9" fill="#7fb9ad"/><circle cx="32" cy="82" r="7" fill="#c9d8a6"/>
+      <rect x="66" y="58" width="48" height="42" rx="6" fill="#fff9f0" stroke="#f0bf88"/>
+      <path d="M78 88 C88 56 98 66 104 80" fill="none" stroke="#d98774" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    <text x="85" y="184" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="800" fill="#111318">45K+</text>
+    <text x="85" y="208" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#303942">middle-school artworks</text>
+  </g>
+
+  <path d="M230 196 H282" stroke="#075b55" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <g transform="translate(292 92)">
+    <rect width="146" height="214" rx="12" fill="#f4fbf8" stroke="#9fc7bf"/>
+    <text x="73" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="800" fill="#075b55">Multimodal Cues</text>
+    <g font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#303942">
+      <rect x="24" y="58" width="98" height="34" rx="8" fill="#ffffff" stroke="#d9e2df"/>
+      <text x="73" y="80" text-anchor="middle">image</text>
+      <rect x="24" y="106" width="98" height="34" rx="8" fill="#ffffff" stroke="#d9e2df"/>
+      <text x="73" y="128" text-anchor="middle">rubric</text>
+      <rect x="24" y="154" width="98" height="34" rx="8" fill="#ffffff" stroke="#d9e2df"/>
+      <text x="73" y="176" text-anchor="middle">feedback</text>
+    </g>
+  </g>
+
+  <path d="M444 196 H496" stroke="#075b55" stroke-width="4" marker-end="url(#arrow)"/>
+
+  <g transform="translate(506 92)">
+    <rect width="158" height="214" rx="12" fill="#fbfdfc" stroke="#d9e2df"/>
+    <text x="79" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="800" fill="#075b55">Assessment Model</text>
+    <circle cx="79" cy="88" r="36" fill="#e0f2ee" stroke="#0f766e" stroke-width="3"/>
+    <path d="M54 90 C66 70 92 70 104 90" fill="none" stroke="#075b55" stroke-width="4" stroke-linecap="round"/>
+    <path d="M50 132 H108" stroke="#f0bf88" stroke-width="8" stroke-linecap="round"/>
+    <path d="M50 132 H92" stroke="#0f766e" stroke-width="8" stroke-linecap="round"/>
+    <text x="79" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="800" fill="#111318">score + diagnosis</text>
+    <text x="79" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#303942">creativity and emotion</text>
+  </g>
+
+  <text x="360" y="362" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#303942">large-scale multimodal data supports individualized aesthetic evaluation</text>
+</svg>
