@@ -45,7 +45,7 @@ description: 陈颜皓的学术主页
     <ul class="news-list">
       <li>
         <time datetime="2026-07-10">2026.07.10</time>
-        <span>✨ 论文 <strong>Local Manifold Sensitivity and Regularization in Long-Tailed Recognition</strong> 被 ACM MM 2026 录用。</span>
+        <span>✨ 论文 <strong>Local Manifold Sensitivity and Regularization in Long-Tailed Recognition</strong> 被 ACM MM 2026 Main Track 录用。</span>
       </li>
       <li>
         <time datetime="2026-05-14">2026.05.14</time>
@@ -53,7 +53,7 @@ description: 陈颜皓的学术主页
       </li>
       <li>
         <time datetime="2026-03-21">2026.03.21</time>
-        <span>🧑‍🏫 两篇由我指导的学生主导论文被 IJCNN 2026 录用。</span>
+        <span>🧑‍🏫 两篇由我指导的学生主导论文被 IJCNN 2026 Main Track 录用。</span>
       </li>
       <li>
         <time datetime="2026-02-20">2026.02.20</time>
@@ -148,7 +148,7 @@ description: 陈颜皓的学术主页
         <div class="pub-body">
           <p class="pub-title">Local Manifold Sensitivity and Regularization in Long-Tailed Recognition</p>
           <p class="pub-authors"><strong>Y. Chen*</strong>, Z. Pan*, S. Hu, J. Jiao, X. Chen, Z. Jian, Q. Wu.</p>
-          <p class="pub-venue">ACM MM 2026（CCF-A）</p>
+          <p class="pub-venue">ACM MM 2026 Main Track（CCF-A）</p>
           <p class="pub-links"><span class="paper-button-disabled">Paper 待更新</span></p>
         </div>
       </li>
@@ -228,7 +228,7 @@ description: 陈颜皓的学术主页
         <div class="pub-body">
           <p class="pub-title">AEM45K: A Large-scale Multimodal Dataset and Method for Aesthetic Assessment of Student Artwork in Middle-school Education</p>
           <p class="pub-authors">S. Hu*, <strong>Y. Chen*</strong>, Y. Liu, R. Liang, J. Jiao, J. Jin, W. Liu, Y. Zhang, L. Wang, Q. Wu.</p>
-          <p class="pub-venue">IJCNN 2026（CCF-C）</p>
+          <p class="pub-venue">IJCNN 2026 Main Track（CCF-C）</p>
           <p class="pub-links"><span class="paper-button-disabled">Paper 待更新</span></p>
         </div>
       </li>
@@ -238,7 +238,7 @@ description: 陈颜皓的学术主页
         <div class="pub-body">
           <p class="pub-title">Tackling Mask Imbalance: Prototypical Mixture-of-Experts with Hardness-Aware Mining for Medical Segmentation</p>
           <p class="pub-authors">J. Jiao, G. Liu, <strong>Y. Chen</strong>, S. Hu, W. Liu, Y. Zhang, L. Wang, Q. Wu.</p>
-          <p class="pub-venue">IJCNN 2026（CCF-C）</p>
+          <p class="pub-venue">IJCNN 2026 Main Track（CCF-C）</p>
           <p class="pub-links"><span class="paper-button-disabled">Paper 待更新</span></p>
         </div>
       </li>
