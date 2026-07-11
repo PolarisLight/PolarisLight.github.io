@@ -45,7 +45,7 @@ description: Academic homepage of Yanhao Chen
     <ul class="news-list">
       <li>
         <time datetime="2026-07-10">Jul 10, 2026</time>
-        <span>✨ The paper <strong>Local Manifold Sensitivity and Regularization in Long-Tailed Recognition</strong> was accepted to ACM MM 2026.</span>
+        <span>✨ The paper <strong>Local Manifold Sensitivity and Regularization in Long-Tailed Recognition</strong> was accepted to ACM MM 2026 Main Track.</span>
       </li>
       <li>
         <time datetime="2026-05-14">May 14, 2026</time>
@@ -53,7 +53,7 @@ description: Academic homepage of Yanhao Chen
       </li>
       <li>
         <time datetime="2026-03-21">Mar 21, 2026</time>
-        <span>🧑‍🏫 Two student-led papers under my mentorship were accepted to IJCNN 2026.</span>
+        <span>🧑‍🏫 Two student-led papers under my mentorship were accepted to IJCNN 2026 Main Track.</span>
       </li>
       <li>
         <time datetime="2026-02-20">Feb 20, 2026</time>
@@ -148,7 +148,7 @@ description: Academic homepage of Yanhao Chen
         <div class="pub-body">
           <p class="pub-title">Local Manifold Sensitivity and Regularization in Long-Tailed Recognition</p>
           <p class="pub-authors"><strong>Y. Chen*</strong>, Z. Pan*, S. Hu, J. Jiao, X. Chen, Z. Jian, Q. Wu.</p>
-          <p class="pub-venue">ACM MM 2026 (CCF-A)</p>
+          <p class="pub-venue">ACM MM 2026 Main Track (CCF-A)</p>
           <p class="pub-links"><span class="paper-button-disabled">Paper coming soon</span></p>
         </div>
       </li>
@@ -228,7 +228,7 @@ description: Academic homepage of Yanhao Chen
         <div class="pub-body">
           <p class="pub-title">AEM45K: A Large-scale Multimodal Dataset and Method for Aesthetic Assessment of Student Artwork in Middle-school Education</p>
           <p class="pub-authors">S. Hu*, <strong>Y. Chen*</strong>, Y. Liu, R. Liang, J. Jiao, J. Jin, W. Liu, Y. Zhang, L. Wang, Q. Wu.</p>
-          <p class="pub-venue">IJCNN 2026 (CCF-C)</p>
+          <p class="pub-venue">IJCNN 2026 Main Track (CCF-C)</p>
           <p class="pub-links"><span class="paper-button-disabled">Paper coming soon</span></p>
         </div>
       </li>
@@ -238,7 +238,7 @@ description: Academic homepage of Yanhao Chen
         <div class="pub-body">
           <p class="pub-title">Tackling Mask Imbalance: Prototypical Mixture-of-Experts with Hardness-Aware Mining for Medical Segmentation</p>
           <p class="pub-authors">J. Jiao, G. Liu, <strong>Y. Chen</strong>, S. Hu, W. Liu, Y. Zhang, L. Wang, Q. Wu.</p>
-          <p class="pub-venue">IJCNN 2026 (CCF-C)</p>
+          <p class="pub-venue">IJCNN 2026 Main Track (CCF-C)</p>
           <p class="pub-links"><span class="paper-button-disabled">Paper coming soon</span></p>
         </div>
       </li>
