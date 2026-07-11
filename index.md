@@ -53,7 +53,7 @@ description: Academic homepage of Yanhao Chen
       </li>
       <li>
         <time datetime="2026-03-21">Mar 21, 2026</time>
-        <span>🧑‍🏫 Two student-led papers under my mentorship were accepted to IJCNN 2026 Main Track.</span>
+        <span>🎓 Two papers led by master's students I helped mentor were accepted to IJCNN 2026 Main Track.</span>
       </li>
       <li>
         <time datetime="2026-02-20">Feb 20, 2026</time>
