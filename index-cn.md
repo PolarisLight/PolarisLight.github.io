@@ -53,7 +53,7 @@ description: 陈颜皓的学术主页
       </li>
       <li>
         <time datetime="2026-03-21">2026.03.21</time>
-        <span>🧑‍🏫 两篇由我指导的学生主导论文被 IJCNN 2026 Main Track 录用。</span>
+        <span>🎓 两篇由我参与指导的硕士生主导论文被 IJCNN 2026 Main Track 录用。</span>
       </li>
       <li>
         <time datetime="2026-02-20">2026.02.20</time>
