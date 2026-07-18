@@ -270,7 +270,7 @@ description: Academic homepage of Yanhao Chen
       <h2>Academic Service</h2>
     </div>
     <ul class="service-list">
-      <li>📝 Reviewer for CCF-A conferences, including ICML, NeurIPS, and ACM MM.</li>
+      <li>📝 Reviewer for CCF-A conferences, including ICML, NeurIPS, ACM MM, and AAAI.</li>
       <li>🏅 ICML 2026 Golden Reviewer.</li>
     </ul>
   </section>
