@@ -270,7 +270,7 @@ description: 陈颜皓的学术主页
       <h2>学术服务</h2>
     </div>
     <ul class="service-list">
-      <li>📝 担任 ICML、NeurIPS、ACM MM 等 CCF-A 类会议审稿人。</li>
+      <li>📝 担任 ICML、NeurIPS、ACM MM、AAAI 等 CCF-A 类会议审稿人。</li>
       <li>🏅 获评 ICML 2026 Golden Reviewer。</li>
     </ul>
   </section>
