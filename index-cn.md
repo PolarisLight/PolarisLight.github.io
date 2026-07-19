@@ -226,10 +226,10 @@ description: 陈颜皓的学术主页
         <figure class="pub-figure-wrap"><img src="/assets/img/papers/ijcnn-aem45k.svg" alt="AEM45K 学生美术审美评估示意图"></figure>
         <span class="pub-year">2026</span>
         <div class="pub-body">
-          <p class="pub-title">AEM45K: A Large-scale Multimodal Dataset and Method for Aesthetic Assessment of Student Artwork in Middle-school Education</p>
+          <p class="pub-title">AEM45K: A Large-Scale Multimodal Dataset and Method for Aesthetic Assessment of Student Artwork in Middle-School Education</p>
           <p class="pub-authors">S. Hu*, <strong>Y. Chen*</strong>, Y. Liu, R. Liang, J. Jiao, J. Jin, W. Liu, Y. Zhang, L. Wang, Q. Wu.</p>
           <p class="pub-venue">IJCNN 2026 Main Track（CCF-C）</p>
-          <p class="pub-links"><span class="paper-button-disabled">Paper 待更新</span></p>
+          <p class="pub-links"><a class="paper-button" href="https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/RPbS3-ijcnn_pap3354s2.pdf" target="_blank" rel="noopener">Paper</a></p>
         </div>
       </li>
       <li class="pub-item" data-pub-tags="long-tail">
@@ -239,7 +239,7 @@ description: 陈颜皓的学术主页
           <p class="pub-title">Tackling Mask Imbalance: Prototypical Mixture-of-Experts with Hardness-Aware Mining for Medical Segmentation</p>
           <p class="pub-authors">J. Jiao, G. Liu, <strong>Y. Chen</strong>, S. Hu, W. Liu, Y. Zhang, L. Wang, Q. Wu.</p>
           <p class="pub-venue">IJCNN 2026 Main Track（CCF-C）</p>
-          <p class="pub-links"><span class="paper-button-disabled">Paper 待更新</span></p>
+          <p class="pub-links"><a class="paper-button" href="https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/wQM6Y-ijcnn_pap3981s2.pdf" target="_blank" rel="noopener">Paper</a></p>
         </div>
       </li>
     </ol>
