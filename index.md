@@ -6,7 +6,10 @@ description: Academic homepage of Yanhao Chen
 
 <div class="site-shell">
   <nav class="site-nav" aria-label="Primary navigation">
-    <a class="nav-name" href="index.html">Academic Homepage</a>
+    <a class="nav-name" href="index.html" aria-label="Academic Homepage">
+      <img class="nav-logo" src="/assets/img/logo-yc.svg" alt="" aria-hidden="true">
+      <span>Academic Homepage</span>
+    </a>
     <div class="nav-links">
       <a href="#news">News</a>
       <a href="#research">Research</a>
