@@ -6,7 +6,10 @@ description: 陈颜皓的学术主页
 
 <div class="site-shell">
   <nav class="site-nav" aria-label="主导航">
-    <a class="nav-name" href="index-cn.html">学术主页</a>
+    <a class="nav-name" href="index-cn.html" aria-label="学术主页">
+      <img class="nav-logo" src="/assets/img/logo-yc.svg" alt="" aria-hidden="true">
+      <span>学术主页</span>
+    </a>
     <div class="nav-links">
       <a href="#news">最新动态</a>
       <a href="#research">研究方向</a>
