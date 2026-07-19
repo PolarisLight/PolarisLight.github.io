@@ -875,23 +875,21 @@ body {
   }
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    color-scheme: dark;
-    --page-bg: #0f1514;
-    --surface: #151d1b;
-    --surface-soft: #182320;
-    --surface-wash: #20312e;
-    --text-main: #f4f8f6;
-    --text-sub: #d4dfdc;
-    --text-faint: #96a7a1;
-    --line: #2d403b;
-    --line-strong: #46635d;
-    --accent: #5fd1c5;
-    --accent-deep: #83e1d8;
-    --accent-soft: rgba(95, 209, 197, 0.14);
-    --shadow-soft: 0 22px 58px rgba(0, 0, 0, 0.46);
-  }
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page-bg: #0f1514;
+  --surface: #151d1b;
+  --surface-soft: #182320;
+  --surface-wash: #20312e;
+  --text-main: #f4f8f6;
+  --text-sub: #d4dfdc;
+  --text-faint: #96a7a1;
+  --line: #2d403b;
+  --line-strong: #46635d;
+  --accent: #5fd1c5;
+  --accent-deep: #83e1d8;
+  --accent-soft: rgba(95, 209, 197, 0.14);
+  --shadow-soft: 0 22px 58px rgba(0, 0, 0, 0.46);
 
   body {
     background: radial-gradient(circle at top left, rgba(95, 209, 197, 0.10), transparent 34%), var(--page-bg);
