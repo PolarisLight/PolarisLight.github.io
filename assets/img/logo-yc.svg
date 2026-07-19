@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Yanhao Chen academic homepage logo</title>
+  <defs>
+    <linearGradient id="logoWash" x1="12" y1="8" x2="52" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.58" stop-color="#f7faf9"/>
+      <stop offset="1" stop-color="#e0f2ee"/>
+    </linearGradient>
+    <style>
+      @media (prefers-color-scheme: dark) {
+        #logo-bg { fill: #111917; stroke: #46635d; }
+        #logo-grid { stroke: #5fd1c5; opacity: 0.18; }
+        #logo-mark { fill: #f4f8f6; }
+        #logo-accent, #logo-node { stroke: #83e1d8; }
+        #logo-node { fill: #111917; }
+      }
+    </style>
+  </defs>
+  <rect id="logo-bg" x="5.5" y="5.5" width="53" height="53" rx="12" fill="url(#logoWash)" stroke="#b8c8c2"/>
+  <path id="logo-grid" d="M15 42H49M15 31H49M15 20H49M22 15V49M33 15V49M44 15V49" fill="none" stroke="#0f766e" stroke-width="1" opacity="0.14"/>
+  <text id="logo-mark" x="31.5" y="40" fill="#111318" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="21" font-weight="850" letter-spacing="-1.8" text-anchor="middle">YC</text>
+  <path id="logo-accent" d="M17 47C26 33 34 31 47 17" fill="none" stroke="#0f766e" stroke-width="2.4" stroke-linecap="round"/>
+  <circle id="logo-node" cx="47" cy="17" r="3.3" fill="#ffffff" stroke="#0f766e" stroke-width="2"/>
+</svg>
