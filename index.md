@@ -48,7 +48,7 @@ description: Academic homepage of Yanhao Chen
     <ul class="news-list">
       <li>
         <time datetime="2026-08-19">Aug 19, 2026</time>
-        <span>✨ The paper <strong>AWM: Augmentation, Weighting, and Mixture-of-Experts for Robust Oracle Bone Character Recognition under Long-Tailed Distributions</strong> was published in <strong>Data Intelligence (CAS Q2)</strong>.</span>
+        <span>✨ The paper <strong>AWM: Augmentation, Weighting, and Mixture-of-Experts for Robust Oracle Bone Character Recognition under Long-Tailed Distributions</strong> was published in <strong>Data Intelligence</strong>.</span>
       </li>
       <li>
         <time datetime="2026-07-10">Jul 10, 2026</time>
