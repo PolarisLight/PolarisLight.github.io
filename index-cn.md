@@ -47,6 +47,10 @@ description: 陈颜皓的学术主页
     </div>
     <ul class="news-list">
       <li>
+        <time datetime="2026-08-19">2026.08.19</time>
+        <span>✨ 论文 <strong>AWM: Augmentation, Weighting, and Mixture-of-Experts for Robust Oracle Bone Character Recognition under Long-Tailed Distributions</strong> 发表于 <strong>Data Intelligence（中科院二区）</strong>。</span>
+      </li>
+      <li>
         <time datetime="2026-07-10">2026.07.10</time>
         <span>✨ 论文 <strong>Local Manifold Sensitivity and Regularization in Long-Tailed Recognition</strong> 被 ACM MM 2026 Main Track 录用。</span>
       </li>
