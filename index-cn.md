@@ -171,7 +171,7 @@ description: 陈颜皓的学术主页
         <div class="pub-body">
           <p class="pub-title">AWM: Augmentation, Weighting, and Mixture-of-Experts for Robust Oracle Bone Character Recognition under Long-Tailed Distributions</p>
           <p class="pub-authors"><strong>Y. Chen</strong>, Z. Jian, S. Hu, J. Jiao, J. Wu, J. Yao.</p>
-          <p class="pub-venue">Data Intelligence, 8(3), 20262007, 2026</p>
+          <p class="pub-venue">Data Intelligence, 8(3), 20262007, 2026 (中科院二区)</p>
           <p class="pub-links"><a class="paper-button" href="https://doi.org/10.3724/2096-7004.di.2026.2007" target="_blank" rel="noopener">Paper</a></p>
         </div>
       </li>
