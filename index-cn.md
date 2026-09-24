@@ -166,6 +166,16 @@ description: 陈颜皓的学术主页
         </div>
       </li>
       <li class="pub-item" data-pub-tags="first-cofirst long-tail">
+        <figure class="pub-figure-wrap"><img src="/assets/img/research/long-tail.svg" alt="Long-tailed recognition concept illustration"></figure>
+        <span class="pub-year">2026</span>
+        <div class="pub-body">
+          <p class="pub-title">AWM: Augmentation, Weighting, and Mixture-of-Experts for Robust Oracle Bone Character Recognition under Long-Tailed Distributions</p>
+          <p class="pub-authors"><strong>Y. Chen</strong>, Z. Jian, S. Hu, J. Jiao, J. Wu, J. Yao.</p>
+          <p class="pub-venue">Data Intelligence, 8(3), 20262007, 2026</p>
+          <p class="pub-links"><a class="paper-button" href="https://doi.org/10.3724/2096-7004.di.2026.2007" target="_blank" rel="noopener">Paper</a></p>
+        </div>
+      </li>
+      <li class="pub-item" data-pub-tags="first-cofirst long-tail">
         <figure class="pub-figure-wrap"><img src="/assets/img/papers/iccv-sel.svg" alt="监督式探索学习示意图"></figure>
         <span class="pub-year">2025</span>
         <div class="pub-body">
