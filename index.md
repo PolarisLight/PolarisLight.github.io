@@ -41,6 +41,11 @@ description: Academic homepage of Yanhao Chen
     </figure>
   </section>
 
+  <section id="opportunities" class="postdoc-panel" aria-labelledby="postdoc-heading">
+    <h2 id="postdoc-heading">Seeking Postdoctoral Positions</h2>
+    <p>I am seeking postdoctoral positions in computer vision and machine learning, with interests in long-tailed recognition, multimodal learning, and trustworthy AI reasoning. I would be delighted to discuss potential opportunities and research fit. Please feel free to reach out at <a href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a>.</p>
+  </section>
+
   <section id="news" class="section-panel news-panel animate-in delay-1">
     <div class="section-heading">
       <h2>News</h2>
