@@ -42,8 +42,8 @@ description: 陈颜皓的学术主页
   </section>
 
   <section id="opportunities" class="postdoc-panel" aria-labelledby="postdoc-heading">
-    <h2 id="postdoc-heading">寻求博士后机会</h2>
-    <p>我正在寻找计算机视觉与机器学习方向的博士后机会，研究兴趣包括长尾识别、多模态学习和可信 AI 推理。欢迎联系交流潜在机会与研究契合点，邮箱： <a href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a>。</p>
+    <h2 id="postdoc-heading">寻求科研与教职机会</h2>
+    <p>我正在寻找计算机视觉与机器学习方向的博士后、企业研究岗位及教职机会。研究兴趣包括长尾识别、多模态学习和可信 AI 推理。欢迎联系交流潜在机会与研究契合点，邮箱： <a href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a>。</p>
   </section>
 
   <section id="news" class="section-panel news-panel animate-in delay-1">
