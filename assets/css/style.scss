@@ -1036,3 +1036,34 @@ body {
     transition: none !important;
   }
 }
+
+
+.postdoc-panel {
+  padding: 24px;
+  border-block: 1px solid var(--line-strong);
+  border-inline-start: 4px solid var(--accent);
+  background: var(--surface-soft);
+  min-width: 0;
+}
+
+.main-content .postdoc-panel h2 {
+  margin: 0 0 10px;
+  color: var(--accent-deep);
+  font-size: 1.35rem;
+  line-height: 1.35;
+  letter-spacing: 0;
+}
+
+.main-content .postdoc-panel p {
+  margin: 0;
+  color: var(--text-sub);
+  font-size: 1rem;
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+}
+
+.postdoc-panel a {
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
