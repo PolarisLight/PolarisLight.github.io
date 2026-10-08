@@ -42,8 +42,8 @@ description: Academic homepage of Yanhao Chen
   </section>
 
   <section id="opportunities" class="postdoc-panel" aria-labelledby="postdoc-heading">
-    <h2 id="postdoc-heading">Seeking Postdoctoral Positions</h2>
-    <p>I am seeking postdoctoral positions in computer vision and machine learning, with interests in long-tailed recognition, multimodal learning, and trustworthy AI reasoning. I would be delighted to discuss potential opportunities and research fit. Please feel free to reach out at <a href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a>.</p>
+    <h2 id="postdoc-heading">Seeking Research and Faculty Opportunities</h2>
+    <p>I am seeking postdoctoral positions, industry research roles, and faculty positions in computer vision and machine learning. My research interests include long-tailed recognition, multimodal learning, and trustworthy AI reasoning. I would be delighted to discuss potential opportunities and research fit. Please feel free to reach out at <a href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a>.</p>
   </section>
 
   <section id="news" class="section-panel news-panel animate-in delay-1">
