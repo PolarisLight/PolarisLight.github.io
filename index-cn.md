@@ -52,6 +52,10 @@ description: 陈颜皓的学术主页
     </div>
     <ul class="news-list">
       <li>
+        <time datetime="2026-10-09">2026.10.09</time>
+        <span>🏅 获评 <strong>NeurIPS 2026 Top Reviewer</strong>。</span>
+      </li>
+      <li>
         <time datetime="2026-08-19">2026.08.19</time>
         <span>✨ 论文 <strong>AWM: Augmentation, Weighting, and Mixture-of-Experts for Robust Oracle Bone Character Recognition under Long-Tailed Distributions</strong> 发表于 <strong>Data Intelligence</strong>。</span>
       </li>
@@ -294,6 +298,7 @@ description: 陈颜皓的学术主页
     <ul class="service-list">
       <li>📝 担任 ICML、NeurIPS、ACM MM、AAAI 等 CCF-A 类会议审稿人。</li>
       <li>🏅 获评 ICML 2026 Golden Reviewer。</li>
+      <li>🏅 获评 NeurIPS 2026 Top Reviewer。</li>
     </ul>
   </section>
 </div>
