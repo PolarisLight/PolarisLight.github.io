@@ -52,6 +52,10 @@ description: Academic homepage of Yanhao Chen
     </div>
     <ul class="news-list">
       <li>
+        <time datetime="2026-10-09">Oct 9, 2026</time>
+        <span>🏅 Recognized as a <strong>NeurIPS 2026 Top Reviewer</strong>.</span>
+      </li>
+      <li>
         <time datetime="2026-08-19">Aug 19, 2026</time>
         <span>✨ The paper <strong>AWM: Augmentation, Weighting, and Mixture-of-Experts for Robust Oracle Bone Character Recognition under Long-Tailed Distributions</strong> was published in <strong>Data Intelligence</strong>.</span>
       </li>
@@ -294,6 +298,7 @@ description: Academic homepage of Yanhao Chen
     <ul class="service-list">
       <li>📝 Reviewer for CCF-A conferences, including ICML, NeurIPS, ACM MM, and AAAI.</li>
       <li>🏅 ICML 2026 Golden Reviewer.</li>
+      <li>🏅 NeurIPS 2026 Top Reviewer.</li>
     </ul>
   </section>
 </div>
