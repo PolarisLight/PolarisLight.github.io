@@ -142,16 +142,16 @@ description: Academic homepage of Yanhao Chen
     </div>
     <ul class="education-list">
       <li>
-        <span class="time">2017.09-2021.06</span>
-        <span><strong>Nanjing University of Posts and Telecommunications</strong>, B.Sc. in Opto-electronic Information Science and Engineering</span>
+        <span class="time">2023.09-Present</span>
+        <span><strong>Xiamen University</strong>, PhD in Computer Science</span>
       </li>
       <li>
         <span class="time">2021.09-2022.11</span>
         <span><strong>University of Southampton</strong>, M.Sc. in Electronic Engineering</span>
       </li>
       <li>
-        <span class="time">2023.09-Present</span>
-        <span><strong>Xiamen University</strong>, PhD in Computer Science</span>
+        <span class="time">2017.09-2021.06</span>
+        <span><strong>Nanjing University of Posts and Telecommunications</strong>, B.Sc. in Opto-electronic Information Science and Engineering</span>
       </li>
     </ul>
   </section>
