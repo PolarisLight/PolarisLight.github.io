@@ -142,16 +142,16 @@ description: 陈颜皓的学术主页
     </div>
     <ul class="education-list">
       <li>
-        <span class="time">2017.09-2021.06</span>
-        <span><strong>南京邮电大学</strong>，本科，光电信息科学与工程</span>
+        <span class="time">2023.09-至今</span>
+        <span><strong>厦门大学</strong>，博士生，计算机科学与技术</span>
       </li>
       <li>
         <span class="time">2021.09-2022.11</span>
         <span><strong>南安普顿大学</strong>，硕士，电子工程</span>
       </li>
       <li>
-        <span class="time">2023.09-至今</span>
-        <span><strong>厦门大学</strong>，博士生，计算机科学与技术</span>
+        <span class="time">2017.09-2021.06</span>
+        <span><strong>南京邮电大学</strong>，本科，光电信息科学与工程</span>
       </li>
     </ul>
   </section>
