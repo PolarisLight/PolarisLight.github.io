@@ -1292,3 +1292,26 @@ body {
 .wechat-close:focus-visible,
 .opportunity-actions .opportunity-contact:focus-visible { outline: 2px solid #46658a; outline-offset: 2px; }
 body:has(.wechat-dialog[open]) { overflow: hidden; }
+
+/* Keep the native dialog in the top layer until its exit transition finishes. */
+.wechat-dialog {
+  opacity: 0;
+  transform: translateY(10px) scale(.97);
+  transition: opacity 180ms ease, transform 220ms cubic-bezier(.22,1,.36,1),
+    display 220ms allow-discrete, overlay 220ms allow-discrete;
+}
+.wechat-dialog[open] { opacity: 1; transform: translateY(0) scale(1); }
+.wechat-dialog::backdrop {
+  background: rgba(0,0,0,0);
+  transition: background-color 220ms ease,
+    display 220ms allow-discrete, overlay 220ms allow-discrete;
+}
+.wechat-dialog[open]::backdrop { background: rgba(0,0,0,.65); }
+@starting-style {
+  .wechat-dialog[open] { opacity: 0; transform: translateY(10px) scale(.97); }
+  .wechat-dialog[open]::backdrop { background: rgba(0,0,0,0); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .wechat-dialog, .wechat-dialog::backdrop { transition: none; }
+  .wechat-dialog { transform: none; }
+}
