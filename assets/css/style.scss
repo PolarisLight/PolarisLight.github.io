@@ -1138,14 +1138,14 @@ body {
   --ink-yellow: #795d26;
 }
 :root[data-theme="dark"] {
-  --pastel-blue: #293342;
-  --pastel-cyan: #25363e;
-  --pastel-sage: #263831;
-  --pastel-yellow: #393427;
+  --pastel-blue: #272c34;
+  --pastel-cyan: #272c34;
+  --pastel-sage: #272c34;
+  --pastel-yellow: #272c34;
   --ink-blue: #c0d2ec;
-  --ink-cyan: #add5e3;
-  --ink-sage: #b2d9cd;
-  --ink-yellow: #e8d393;
+  --ink-cyan: #c0d2ec;
+  --ink-sage: #c0d2ec;
+  --ink-yellow: #c0d2ec;
 }
 .hero-banner::before { border-color: var(--line); }
 .hero-photo-frame::before { border-color: var(--ink-cyan); }
@@ -1188,7 +1188,7 @@ body {
 }
 .pub-venue,
 :root[data-theme="dark"] .pub-venue {
-  background: var(--pastel-sage); color: var(--ink-sage) !important;
+  background: var(--pastel-blue); color: var(--ink-blue) !important;
   border-color: transparent;
 }
 .project-role,
@@ -1204,3 +1204,65 @@ body {
 .service-list li:last-child { border-top: 3px solid var(--ink-cyan); }
 :root[data-theme="dark"] .service-list li:first-child { border-top-color: var(--ink-yellow); }
 :root[data-theme="dark"] .service-list li:last-child { border-top-color: var(--ink-cyan); }
+
+/* Dark mode uses neutral surfaces and one restrained interaction color. */
+:root[data-theme="dark"] {
+  --shadow-soft: none;
+  .site-nav { box-shadow: none; }
+  .postdoc-panel,
+  .news-list li:first-child {
+    background: var(--surface);
+  }
+  .research-list li,
+  .research-list li:first-child,
+  .project-list li:first-child {
+    background: var(--surface);
+    border-color: var(--line);
+  }
+  .hero-photo-frame::before,
+  .service-list li:first-child,
+  .service-list li:last-child {
+    border-color: var(--line-strong);
+  }
+  .main-content .opportunity-roles li {
+    color: var(--text-sub);
+  }
+  .pub-venue,
+  .project-role,
+  .research-keywords span {
+    background: #272c34;
+    border-color: #424b59;
+    color: #c0d2ec !important;
+  }
+  .profile-link-primary,
+  .pub-filter-button.is-active,
+  .pub-filter-button[aria-pressed="true"],
+  .pub-links .paper-button,
+  .postdoc-panel .opportunity-contact {
+    background: #b8ceeb;
+    border-color: #b8ceeb;
+    color: #192331 !important;
+    box-shadow: none;
+  }
+  .profile-link-primary:hover,
+  .profile-link-primary:focus-visible,
+  .pub-filter-button.is-active:hover,
+  .pub-filter-button.is-active:focus-visible,
+  .pub-filter-button[aria-pressed="true"]:hover,
+  .pub-filter-button[aria-pressed="true"]:focus-visible,
+  .pub-links .paper-button:hover,
+  .pub-links .paper-button:focus-visible,
+  .postdoc-panel .opportunity-contact:hover,
+  .postdoc-panel .opportunity-contact:focus-visible {
+    background: #d3e2f5;
+    border-color: #d3e2f5;
+    color: #192331 !important;
+  }
+  .pub-links .paper-button-disabled,
+  .pub-links .paper-button-disabled:hover,
+  .pub-links .paper-button-disabled:focus-visible {
+    background: #34373f;
+    border-color: #50535f;
+    color: #c6c8d0 !important;
+  }
+}
