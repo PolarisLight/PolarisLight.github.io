@@ -53,7 +53,14 @@ description: 陈颜皓的学术主页
         <li>博士后</li>
       </ul>
       <p>我正在寻找多模态大模型、计算机视觉与机器学习方向的教职、企业研究岗位及博士后机会。研究兴趣包括多模态学习与推理、长尾识别和可信 AI，欢迎联系交流潜在机会与研究契合点。</p>
-      <a class="opportunity-contact" href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a>
+      <div class="opportunity-actions">
+        <a class="opportunity-contact" href="mailto:cyhao@stu.xmu.edu.cn">邮件</a>
+        <button class="opportunity-contact wechat-trigger" type="button" aria-haspopup="dialog" aria-controls="wechat-dialog">微信</button>
+      </div>
+      <dialog id="wechat-dialog" class="wechat-dialog" aria-label="微信二维码">
+        <form method="dialog"><button class="wechat-close" aria-label="关闭" title="关闭" autofocus>&times;</button></form>
+        <img src="/assets/img/wechat-qr.jpg" width="664" height="664" alt="微信 cyhao_33 的二维码">
+      </dialog>
     </div>
   </section>
 
@@ -316,6 +323,17 @@ description: 陈颜皓的学术主页
 
 <script>
 (function () {
+  const dialog = document.getElementById("wechat-dialog");
+  const trigger = document.querySelector(".wechat-trigger");
+  if (dialog && trigger) {
+    trigger.addEventListener("click", () => dialog.showModal());
+    dialog.addEventListener("click", (event) => {
+      const rect = dialog.getBoundingClientRect();
+      if (event.target === dialog && (event.clientX < rect.left || event.clientX > rect.right ||
+          event.clientY < rect.top || event.clientY > rect.bottom)) dialog.close();
+    });
+    dialog.addEventListener("close", () => trigger.focus());
+  }
   const groups = document.querySelectorAll("[data-publication-filters]");
 
   groups.forEach((group) => {
