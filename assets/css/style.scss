@@ -1263,3 +1263,32 @@ body {
     color: #c6c8d0 !important;
   }
 }
+
+/* Contact actions and QR-only modal. */
+.opportunity-actions { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 20px; }
+.postdoc-panel .opportunity-actions .opportunity-contact {
+  margin-top: 0; min-width: 104px; min-height: 44px;
+  justify-content: center; align-items: center;
+  font-family: inherit; font-size: 1rem; line-height: 1.5; cursor: pointer;
+}
+.wechat-dialog {
+  position: fixed; padding: 44px 12px 12px; margin: auto;
+  width: min(380px, calc(100vw - 32px), calc(100dvh - 88px));
+  max-height: calc(100dvh - 32px); overflow: auto;
+  background: #fff; color: #192331;
+  border: 1px solid #d7dde5; border-radius: 8px;
+  box-shadow: 0 20px 70px rgba(0,0,0,.3);
+}
+.wechat-dialog::backdrop { background: rgba(0,0,0,.65); }
+.wechat-dialog img { display: block; width: 100%; height: auto; aspect-ratio: 1; }
+.wechat-dialog form { margin: 0; }
+.wechat-close {
+  position: absolute; top: 2px; right: 2px; width: 40px; height: 40px;
+  display: grid; place-items: center; padding: 0;
+  background: #fff; border: 0; border-radius: 4px;
+  color: #303942; font-size: 28px; line-height: 1; cursor: pointer;
+}
+.wechat-close:hover { background: #edf1f6; }
+.wechat-close:focus-visible,
+.opportunity-actions .opportunity-contact:focus-visible { outline: 2px solid #46658a; outline-offset: 2px; }
+body:has(.wechat-dialog[open]) { overflow: hidden; }
