@@ -58,7 +58,7 @@ description: 陈颜皓的学术主页
         <button class="opportunity-contact wechat-trigger" type="button" aria-haspopup="dialog" aria-controls="wechat-dialog">微信</button>
       </div>
       <dialog id="wechat-dialog" class="wechat-dialog" aria-label="微信二维码">
-        <form method="dialog"><button class="wechat-close" aria-label="关闭" title="关闭" autofocus>&times;</button></form>
+        <form method="dialog"><button class="wechat-close" aria-label="关闭" title="关闭" autofocus><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg></button></form>
         <img src="/assets/img/wechat-qr.jpg" width="664" height="664" alt="微信 cyhao_33 的二维码">
       </dialog>
     </div>
