@@ -1200,10 +1200,8 @@ body {
 :root[data-theme="dark"] .project-list li:first-child {
   background: var(--surface); border-color: var(--line);
 }
-.service-list li:first-child { border-top: 3px solid var(--ink-yellow); }
-.service-list li:last-child { border-top: 3px solid var(--ink-cyan); }
-:root[data-theme="dark"] .service-list li:first-child { border-top-color: var(--ink-yellow); }
-:root[data-theme="dark"] .service-list li:last-child { border-top-color: var(--ink-cyan); }
+.service-list li { border-top: 3px solid var(--ink-blue); }
+:root[data-theme="dark"] .service-list li { border-color: var(--line-strong); }
 
 /* Dark mode uses neutral surfaces and one restrained interaction color. */
 :root[data-theme="dark"] {
@@ -1220,8 +1218,7 @@ body {
     border-color: var(--line);
   }
   .hero-photo-frame::before,
-  .service-list li:first-child,
-  .service-list li:last-child {
+  .service-list li {
     border-color: var(--line-strong);
   }
   .main-content .opportunity-roles li {
