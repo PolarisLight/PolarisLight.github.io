@@ -52,7 +52,7 @@ description: 陈颜皓的学术主页
         <li>企业研究岗位</li>
         <li>教职</li>
       </ul>
-      <p>我正在寻找计算机视觉与机器学习方向的博士后、企业研究岗位及教职机会。研究兴趣包括长尾识别、多模态学习和可信 AI 推理，欢迎联系交流潜在机会与研究契合点。</p>
+      <p>我正在寻找多模态大模型、计算机视觉与机器学习方向的博士后、企业研究岗位及教职机会。研究兴趣包括多模态学习与推理、长尾识别和可信 AI，欢迎联系交流潜在机会与研究契合点。</p>
       <a class="opportunity-contact" href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a>
     </div>
   </section>
