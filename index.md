@@ -58,7 +58,7 @@ description: Academic homepage of Yanhao Chen
         <button class="opportunity-contact wechat-trigger" type="button" aria-haspopup="dialog" aria-controls="wechat-dialog">WeChat</button>
       </div>
       <dialog id="wechat-dialog" class="wechat-dialog" aria-label="WeChat QR code">
-        <form method="dialog"><button class="wechat-close" aria-label="Close" title="Close" autofocus>&times;</button></form>
+        <form method="dialog"><button class="wechat-close" aria-label="Close" title="Close" autofocus><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg></button></form>
         <img src="/assets/img/wechat-qr.jpg" width="664" height="664" alt="WeChat QR code for cyhao_33">
       </dialog>
     </div>
