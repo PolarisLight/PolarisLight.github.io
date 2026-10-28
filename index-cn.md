@@ -42,8 +42,19 @@ description: 陈颜皓的学术主页
   </section>
 
   <section id="opportunities" class="postdoc-panel" aria-labelledby="postdoc-heading">
-    <h2 id="postdoc-heading">寻求科研与教职机会</h2>
-    <p>我正在寻找计算机视觉与机器学习方向的博士后、企业研究岗位及教职机会。研究兴趣包括长尾识别、多模态学习和可信 AI 推理。欢迎联系交流潜在机会与研究契合点，邮箱： <a href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a>。</p>
+    <div class="opportunity-icon" aria-hidden="true">
+      <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 12h.01"/><path d="M16 6V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2"/><path d="M22 13a18.15 18.15 0 0 1-20 0"/><rect width="20" height="14" x="2" y="6" rx="2"/></svg>
+    </div>
+    <div class="opportunity-copy">
+      <h2 id="postdoc-heading">寻求科研与教职机会</h2>
+      <ul class="opportunity-roles" aria-label="意向岗位">
+        <li>博士后</li>
+        <li>企业研究岗位</li>
+        <li>教职</li>
+      </ul>
+      <p>我正在寻找计算机视觉与机器学习方向的博士后、企业研究岗位及教职机会。研究兴趣包括长尾识别、多模态学习和可信 AI 推理，欢迎联系交流潜在机会与研究契合点。</p>
+      <a class="opportunity-contact" href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a>
+    </div>
   </section>
 
   <section id="news" class="section-panel news-panel animate-in delay-1">
