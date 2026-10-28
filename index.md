@@ -42,8 +42,19 @@ description: Academic homepage of Yanhao Chen
   </section>
 
   <section id="opportunities" class="postdoc-panel" aria-labelledby="postdoc-heading">
-    <h2 id="postdoc-heading">Seeking Research and Faculty Opportunities</h2>
-    <p>I am seeking postdoctoral positions, industry research roles, and faculty positions in computer vision and machine learning. My research interests include long-tailed recognition, multimodal learning, and trustworthy AI reasoning. I would be delighted to discuss potential opportunities and research fit. Please feel free to reach out at <a href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a>.</p>
+    <div class="opportunity-icon" aria-hidden="true">
+      <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 12h.01"/><path d="M16 6V4a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2"/><path d="M22 13a18.15 18.15 0 0 1-20 0"/><rect width="20" height="14" x="2" y="6" rx="2"/></svg>
+    </div>
+    <div class="opportunity-copy">
+      <h2 id="postdoc-heading">Seeking Research and Faculty Opportunities</h2>
+      <ul class="opportunity-roles" aria-label="Roles of interest">
+        <li>Postdoctoral Positions</li>
+        <li>Industry Research</li>
+        <li>Faculty Positions</li>
+      </ul>
+      <p>I am seeking opportunities in computer vision and machine learning, with research interests in long-tailed recognition, multimodal learning, and trustworthy AI reasoning. I would be delighted to discuss potential opportunities and research fit.</p>
+      <a class="opportunity-contact" href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a>
+    </div>
   </section>
 
   <section id="news" class="section-panel news-panel animate-in delay-1">
