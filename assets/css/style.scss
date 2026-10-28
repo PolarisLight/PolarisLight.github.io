@@ -1316,3 +1316,12 @@ body:has(.wechat-dialog[open]) { overflow: hidden; }
   .wechat-dialog, .wechat-dialog::backdrop { transition: none; }
   .wechat-dialog { transform: none; }
 }
+
+.wechat-close {
+  appearance: none;
+  -webkit-appearance: none;
+  user-select: none;
+  -webkit-user-select: none;
+  caret-color: transparent;
+}
+.wechat-close svg { display: block; width: 22px; height: 22px; pointer-events: none; }
