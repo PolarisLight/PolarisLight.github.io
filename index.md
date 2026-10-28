@@ -53,7 +53,14 @@ description: Academic homepage of Yanhao Chen
         <li>Postdoctoral Positions</li>
       </ul>
       <p>I am seeking opportunities in multimodal large language models, computer vision, and machine learning. My research interests include multimodal learning and reasoning, long-tailed recognition, and trustworthy AI. I would be delighted to discuss potential opportunities and research fit.</p>
-      <a class="opportunity-contact" href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a>
+      <div class="opportunity-actions">
+        <a class="opportunity-contact" href="mailto:cyhao@stu.xmu.edu.cn">Email</a>
+        <button class="opportunity-contact wechat-trigger" type="button" aria-haspopup="dialog" aria-controls="wechat-dialog">WeChat</button>
+      </div>
+      <dialog id="wechat-dialog" class="wechat-dialog" aria-label="WeChat QR code">
+        <form method="dialog"><button class="wechat-close" aria-label="Close" title="Close" autofocus>&times;</button></form>
+        <img src="/assets/img/wechat-qr.jpg" width="664" height="664" alt="WeChat QR code for cyhao_33">
+      </dialog>
     </div>
   </section>
 
@@ -316,6 +323,17 @@ description: Academic homepage of Yanhao Chen
 
 <script>
 (function () {
+  const dialog = document.getElementById("wechat-dialog");
+  const trigger = document.querySelector(".wechat-trigger");
+  if (dialog && trigger) {
+    trigger.addEventListener("click", () => dialog.showModal());
+    dialog.addEventListener("click", (event) => {
+      const rect = dialog.getBoundingClientRect();
+      if (event.target === dialog && (event.clientX < rect.left || event.clientX > rect.right ||
+          event.clientY < rect.top || event.clientY > rect.bottom)) dialog.close();
+    });
+    dialog.addEventListener("close", () => trigger.focus());
+  }
   const groups = document.querySelectorAll("[data-publication-filters]");
 
   groups.forEach((group) => {
