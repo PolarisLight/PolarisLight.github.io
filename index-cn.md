@@ -48,11 +48,11 @@ description: 陈颜皓的学术主页
     <div class="opportunity-copy">
       <h2 id="postdoc-heading">寻求科研与教职机会</h2>
       <ul class="opportunity-roles" aria-label="意向岗位">
-        <li>博士后</li>
-        <li>企业研究岗位</li>
         <li>教职</li>
+        <li>企业研究岗位</li>
+        <li>博士后</li>
       </ul>
-      <p>我正在寻找多模态大模型、计算机视觉与机器学习方向的博士后、企业研究岗位及教职机会。研究兴趣包括多模态学习与推理、长尾识别和可信 AI，欢迎联系交流潜在机会与研究契合点。</p>
+      <p>我正在寻找多模态大模型、计算机视觉与机器学习方向的教职、企业研究岗位及博士后机会。研究兴趣包括多模态学习与推理、长尾识别和可信 AI，欢迎联系交流潜在机会与研究契合点。</p>
       <a class="opportunity-contact" href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a>
     </div>
   </section>
