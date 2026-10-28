@@ -52,7 +52,7 @@ description: Academic homepage of Yanhao Chen
         <li>Industry Research</li>
         <li>Faculty Positions</li>
       </ul>
-      <p>I am seeking opportunities in computer vision and machine learning, with research interests in long-tailed recognition, multimodal learning, and trustworthy AI reasoning. I would be delighted to discuss potential opportunities and research fit.</p>
+      <p>I am seeking opportunities in multimodal large language models, computer vision, and machine learning. My research interests include multimodal learning and reasoning, long-tailed recognition, and trustworthy AI. I would be delighted to discuss potential opportunities and research fit.</p>
       <a class="opportunity-contact" href="mailto:cyhao@stu.xmu.edu.cn">cyhao@stu.xmu.edu.cn</a>
     </div>
   </section>
