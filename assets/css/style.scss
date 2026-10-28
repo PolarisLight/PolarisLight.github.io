@@ -1039,31 +1039,89 @@ body {
 
 
 .postdoc-panel {
-  padding: 24px;
+  display: grid;
+  grid-template-columns: 64px minmax(0, 1fr);
+  gap: 24px;
+  padding: 36px 32px;
   border-block: 1px solid var(--line-strong);
-  border-inline-start: 4px solid var(--accent);
-  background: var(--surface-soft);
+  border-inline-start: 5px solid var(--accent);
+  background: var(--accent-soft);
   min-width: 0;
+  scroll-margin-top: 100px;
 }
 
+.opportunity-icon {
+  display: grid;
+  place-items: center;
+  width: 64px;
+  height: 64px;
+  border-radius: 8px;
+  background: var(--accent-deep);
+  color: var(--page-bg);
+}
+
+.opportunity-icon svg { width: 34px; height: 34px; }
+.opportunity-copy { min-width: 0; }
+
 .main-content .postdoc-panel h2 {
-  margin: 0 0 10px;
-  color: var(--accent-deep);
-  font-size: 1.35rem;
-  line-height: 1.35;
+  margin: 0 0 14px;
+  color: var(--text-main);
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.25;
   letter-spacing: 0;
+  overflow-wrap: anywhere;
+}
+
+.main-content .postdoc-panel .opportunity-roles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 24px;
+  margin: 0 0 16px;
+  padding: 0;
+  list-style: none;
+}
+
+.main-content .opportunity-roles li {
+  color: var(--accent-deep);
+  font-size: 1.08rem;
+  font-weight: 750;
 }
 
 .main-content .postdoc-panel p {
   margin: 0;
   color: var(--text-sub);
-  font-size: 1rem;
+  font-size: 1.05rem;
   line-height: 1.7;
   overflow-wrap: anywhere;
 }
 
-.postdoc-panel a {
-  font-weight: 700;
-  text-decoration: underline;
-  text-underline-offset: 3px;
+.postdoc-panel .opportunity-contact {
+  display: inline-flex;
+  margin-top: 20px;
+  padding: 10px 16px;
+  border: 1px solid var(--accent-deep);
+  border-radius: 6px;
+  background: var(--accent-deep);
+  color: var(--page-bg);
+  font-weight: 750;
+  text-decoration: none;
+  overflow-wrap: anywhere;
+}
+
+.postdoc-panel .opportunity-contact:hover,
+.postdoc-panel .opportunity-contact:focus-visible {
+  color: var(--text-main);
+  background: var(--surface);
+}
+
+@media (max-width: 600px) {
+  .postdoc-panel {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 16px;
+    padding: 24px 20px;
+  }
+  .opportunity-icon { width: 48px; height: 48px; }
+  .opportunity-icon svg { width: 28px; height: 28px; }
+  .main-content .postdoc-panel h2 { font-size: 1.6rem; }
 }
