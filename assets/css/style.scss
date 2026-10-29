@@ -1317,6 +1317,7 @@ body:has(.wechat-dialog[open]) { overflow: hidden; }
   .wechat-dialog { transform: none; }
 }
 
+.wechat-trigger,
 .wechat-close {
   appearance: none;
   -webkit-appearance: none;
