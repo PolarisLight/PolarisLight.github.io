@@ -183,7 +183,7 @@ description: Academic homepage of Yanhao Chen
           <p class="pub-title">Local Manifold Sensitivity and Regularization in Long-Tailed Recognition</p>
           <p class="pub-authors"><strong>Y. Chen*</strong>, Z. Pan*, S. Hu, J. Jiao, X. Chen, Z. Jian, Q. Wu.</p>
           <p class="pub-venue">ACM MM 2026 Main Track (CCF-A)</p>
-          <p class="pub-links"><span class="paper-button-disabled">Paper coming soon</span></p>
+          <p class="pub-links"><a class="paper-button" href="https://dl.acm.org/doi/10.1145/3767308.3835911" target="_blank" rel="noopener">Paper</a></p>
         </div>
       </li>
       <li class="pub-item" data-pub-tags="first-cofirst long-tail">
